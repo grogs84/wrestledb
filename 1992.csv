@@ -1,0 +1,554 @@
+wrestler,opponent,wrestler_key,wrestler_score,opponent_key,opponent_score,_round,overtime,fall_time,result,winner,wrestler_seed,wrestler_school,opponent_seed,opponent_school,weight,opponent_weight,year
+Owen Hibberd,Tony Venturini,Owen Hibberd,6,Tony Venturini,7,r32,,,DEC,Tony Venturini,12,Drexel,,Eastern Michigan,118,118,1992
+Donnell Rawls,David Land,Donnell Rawls,13,David Land,7,r32,,,DEC,Tony Venturini,5,Appalachian State,,Maryland,118,118,1992
+Eric Akin,Robbie Sordi,Eric Akin,8,Robbie Sordi,1,r32,,,DEC,Eric Akin,4,Iowa State,,Fresno State,118,118,1992
+Scott Kindig,Greg Rudin,Scott Kindig,0,Greg Rudin,-1,r32,,4:16,F,Scott Kindig,,Millersville,,Illinois,118,118,1992
+Mike Friedman,Jeff Prescott,Mike Friedman,1,Jeff Prescott,17,r32,,6:02,TF,Jeff Prescott,,Pennsylvania,1,Penn State,118,118,1992
+Brian Slates,Erick Shaw,Brian Slates,6,Erick Shaw,5,r32,,,DEC,Brian Slates,,Lock Haven,,Old Dominion,118,118,1992
+Matt Hanutke,Jeremie Eckley,Matt Hanutke,7,Jeremie Eckley,5,r32,,,DEC,Matt Hanutke,9,Wisconsin,,Nebraska,118,118,1992
+Ty Moore,Mickey Nunez,Ty Moore,8,Mickey Nunez,0,r32,,,MD,Ty Moore,8,North Carolina,,Arizona State,118,118,1992
+David Sims,Gabe Zirkelbach,David Sims,4,Gabe Zirkelbach,6,r32,1,,DEC,Gabe Zirkelbach,,Cornell,,Purdue,118,118,1992
+Chad Zaputil,Thad Allen,Chad Zaputil,22,Thad Allen,7,r32,,7:00,TF,Chad Zaputil,2,Iowa,,Air Force,118,118,1992
+Erik Burnett,Joey Dansby,Erik Burnett,9,Joey Dansby,6,r32,,,DEC,Erik Burnett,7,Clarion,,Cal Poly-SLO,118,118,1992
+Jeff Mirabella,Mike Darlington,Jeff Mirabella,2,Mike Darlington,8,r32,,,DEC,Mike Darlington,,Northwestern,10,Duke,118,118,1992
+Dan Vidlak,Casey Yackin,Dan Vidlak,12,Casey Yackin,1,r32,,,MD,Dan Vidlak,3,Oregon,,Ohio University,118,118,1992
+Kevin Kinane,James Gallagher,Kevin Kinane,13,James Gallagher,4,r32,,,MD,Kevin Kinane,,California PA,,Boston College,118,118,1992
+Eric Folkins,Tim Casey,Eric Folkins,0,Tim Casey,15,r32,,,TF,Tim Casey,,Minnesota,6,Bloomsburg,118,118,1992
+Brad Bruhl,Charlie Morgan,Brad Bruhl,-2,Charlie Morgan,-1,r32,,0:46,F,Charlie Morgan,11,Northern Iowa,,Morgan State,118,118,1992
+Tony Venturini,Donnell Rawls,Tony Venturini,2,Donnell Rawls,9,r16,,,DEC,Donnell Rawls,,Eastern Michigan,5,Appalachian State,118,118,1992
+Eric Akin,Greg Rudin,Eric Akin,-1,Greg Rudin,-2,r16,,6:02,F,Eric Akin,4,Iowa State,,Illinois,118,118,1992
+Jeff Prescott,Brian Slates,Jeff Prescott,-1,Brian Slates,-2,r16,,2:51,F,Jeff Prescott,1,Penn State,,Lock Haven,118,118,1992
+Matt Hanutke,Ty Moore,Matt Hanutke,6,Ty Moore,4,r16,1,,DEC,Matt Hanutke,9,Wisconsin,8,North Carolina,118,118,1992
+Gabe Zirkelbach,Chad Zaputil,Gabe Zirkelbach,2,Chad Zaputil,10,r16,,,MD,Chad Zaputil,,Purdue,2,Iowa,118,118,1992
+Erik Burnett,Mike Darlington,Erik Burnett,6,Mike Darlington,1,r16,,,DEC,Erik Burnett,7,Clarion,10,Duke,118,118,1992
+Dan Vidlak,Kevin Kinane,Dan Vidlak,8,Kevin Kinane,10,r16,1,,DEC,Kevin Kinane,3,Oregon,,California PA,118,118,1992
+Tim Casey,Charlie Morgan,Tim Casey,13,Charlie Morgan,2,r16,,,MD,Tim Casey,6,Bloomsburg,,Morgan State,118,118,1992
+Donnell Rawls,Eric Akin,Donnell Rawls,15,Eric Akin,5,r8,,,MD,Donnell Rawls,5,Appalachian State,4,Iowa State,118,118,1992
+Jeff Prescott,Matt Hanutke,Jeff Prescott,12,Matt Hanutke,3,r8,,,MD,Jeff Prescott,1,Penn State,9,Wisconsin,118,118,1992
+Chad Zaputil,Erik Burnett,Chad Zaputil,17,Erik Burnett,6,r8,,,MD,Chad Zaputil,2,Iowa,7,Clarion,118,118,1992
+Kevin Kinane,Tim Casey,Kevin Kinane,5,Tim Casey,4,r8,,,DEC,Kevin Kinane,,California PA,6,Bloomsburg,118,118,1992
+Donnell Rawls,Jeff Prescott,Donnell Rawls,6,Jeff Prescott,13,r4,,,DEC,Jeff Prescott,5,Appalachian State,1,Penn State,118,118,1992
+Chad Zaputil,Kevin Kinane,Chad Zaputil,12,Kevin Kinane,4,r4,,,MD,Chad Zaputil,2,Iowa,,California PA,118,118,1992
+Jeff Prescott,Chad Zaputil,Jeff Prescott,2,Chad Zaputil,0,m1,,,DEC,Jeff Prescott,1,Penn State,2,Iowa,118,118,1992
+David Land,Tony Venturini,David Land,5,Tony Venturini,4,c1,,,DEC,David Land,,Maryland,,Eastern Michigan,118,118,1992
+Robbie Sordi,Greg Rudin,Robbie Sordi,5,Greg Rudin,3,c1,1,,DEC,Robbie Sordi,,Fresno State,,Illinois,118,118,1992
+Mike Friedman,Brian Slates,Mike Friedman,11,Brian Slates,3,c1,,,MD,Mike Friedman,,Pennsylvania,,Lock Haven,118,118,1992
+Jeremie Eckley,Ty Moore,Jeremie Eckley,6,Ty Moore,9,c1,,,DEC,Ty Moore,,Nebraska,8,North Carolina,118,118,1992
+Thad Allen,Gabe Zirkelbach,Thad Allen,11,Gabe Zirkelbach,4,c1,,,DEC,Thad Allen,,Air Force,,Purdue,118,118,1992
+Joey Dansby,Mike Darlington,Joey Dansby,3,Mike Darlington,6,c1,,,DEC,Mike Darlington,,Cal Poly-SLO,10,Duke,118,118,1992
+James Gallagher,Dan Vidlak,James Gallagher,5,Dan Vidlak,20,c1,,6:00,TF,Dan Vidlak,,Boston College,3,Oregon,118,118,1992
+Eric Folkins,Charlie Morgan,Eric Folkins,11,Charlie Morgan,3,c1,,,MD,Eric Folkins,,Minnesota,,Morgan State,118,118,1992
+David Land,Robbie Sordi,David Land,9,Robbie Sordi,7,c2,1,,DEC,David Land,,Maryland,,Fresno State,118,118,1992
+Mike Friedman,Ty Moore,Mike Friedman,0,Ty Moore,4,c2,,,DEC,Ty Moore,,Pennsylvania,8,North Carolina,118,118,1992
+Thad Allen,Mike Darlington,Thad Allen,6,Mike Darlington,3,c2,,,DEC,Thad Allen,,Air Force,10,Duke,118,118,1992
+Dan Vidlak,Eric Folkins,Dan Vidlak,3,Eric Folkins,4,c2,,,DEC,Eric Folkins,3,Oregon,,Minnesota,118,118,1992
+David Land,Tim Casey,David Land,13,Tim Casey,7,br,,,DEC,David Land,,Maryland,6,Bloomsburg,118,118,1992
+Ty Moore,Erik Burnett,Ty Moore,2,Erik Burnett,8,br,,,DEC,Erik Burnett,8,North Carolina,7,Clarion,118,118,1992
+Thad Allen,Matt Hanutke,Thad Allen,3,Matt Hanutke,8,br,,,DEC,Matt Hanutke,,Air Force,9,Wisconsin,118,118,1992
+Eric Folkins,Eric Akin,Eric Folkins,4,Eric Akin,16,br,,,MD,Eric Akin,,Minnesota,4,Iowa State,118,118,1992
+David Land,Erik Burnett,David Land,2,Erik Burnett,3,c4,,,DEC,Erik Burnett,,Maryland,7,Clarion,118,118,1992
+Matt Hanutke,Eric Akin,Matt Hanutke,0,Eric Akin,4,c4,,,DEC,Eric Akin,9,Wisconsin,4,Iowa State,118,118,1992
+Erik Burnett,Donnell Rawls,Erik Burnett,4,Donnell Rawls,5,cs,,,DEC,Donnell Rawls,7,Clarion,5,Appalachian State,118,118,1992
+Eric Akin,Kevin Kinane,Eric Akin,4,Kevin Kinane,1,cs,,,DEC,Eric Akin,4,Iowa State,,California PA,118,118,1992
+Eric Akin,Donnell Rawls,Eric Akin,5,Donnell Rawls,1,m3,,,DEC,Eric Akin,4,Iowa State,5,Appalachian State,118,118,1992
+Erik Burnett,Kevin Kinane,Erik Burnett,6,Kevin Kinane,5,m5,,,DEC,Erik Burnett,7,Clarion,,California PA,118,118,1992
+Matt Hanutke,David Land,Matt Hanutke,8,David Land,5,m7,,,DEC,Matt Hanutke,9,Wisconsin,,Maryland,118,118,1992
+David Hirsch,Neil Kohlberg,David Hirsch,3,Neil Kohlberg,2,r32,,,DEC,David Hirsch,12,Cornell,,Northwestern,126,126,1992
+Jody Staylor,Dane Campbell,Jody Staylor,-1,Dane Campbell,-2,r32,,6:44,F,Jody Staylor,5,North Carolina,,Miami Ohio,126,126,1992
+Dan Flood,Vinnie Santaniello,Dan Flood,12,Vinnie Santaniello,3,r32,,,MD,Dan Flood,4,Wisconsin,,Lock Haven,126,126,1992
+Dave Gustovich,Buddy Smith,Dave Gustovich,13,Buddy Smith,4,r32,,,MD,Dave Gustovich,,Brown,,Missouri,126,126,1992
+T.J. Jaworsky,Scott Rosas,T.J. Jaworsky,-1,Scott Rosas,-2,r32,,1:44,F,T.J. Jaworsky,9,Oklahoma State,,Millersville,126,126,1992
+Shawn Harrison,Mike Krafchick,Shawn Harrison,10,Mike Krafchick,7,r32,,,DEC,Shawn Harrison,8,Oklahoma,,Virginia,126,126,1992
+Shane Roselle,Scott Rohrer,Shane Roselle,10,Scott Rohrer,4,r32,,,DEC,Shane Roselle,,Cal State-Bakersfield,,Minnesota,126,126,1992
+Terry Brands,Jarrett Clark,Terry Brands,-1,Jarrett Clark,-2,r32,,1:43,F,Terry Brands,1,Iowa,,Oregon,126,126,1992
+Jason Cluff,Vance Light,Jason Cluff,8,Vance Light,1,r32,,,DEC,Jason Cluff,,Michigan,,Drake,126,126,1992
+Shawn Charles,Andy Showalter,Shawn Charles,12,Andy Showalter,5,r32,,,DEC,Shawn Charles,2,Arizona State,,Northern Iowa,126,126,1992
+Noel Clavel,Brett Porter,Noel Clavel,4,Brett Porter,8,r32,,,DEC,Brett Porter,7,Old Dominion,,Edinboro,126,126,1992
+Marcus Gowens,Dan Smith,Marcus Gowens,4,Dan Smith,1,r32,,,DEC,Marcus Gowens,10,Notre Dame,,Boston University,126,126,1992
+Shawn Nelson,Mike Hunter,Shawn Nelson,13,Mike Hunter,0,r32,,,MD,Shawn Nelson,6,Penn State,,Ohio University,126,126,1992
+Mike Pasdo,Brett Raimondo,Mike Pasdo,13,Brett Raimondo,4,r32,,,MD,Mike Pasdo,11,Marquette,,Central Connecticut,126,126,1992
+Steve Millward,Brian Mason,Steve Millward,14,Brian Mason,8,r32,,,DEC,Steve Millward,,West Virginia,,Virginia Military,126,126,1992
+Bye,Babak Mohammadi,Bye,-4,Babak Mohammadi,-3,r32,,,DFT,Babak Mohammadi,,Bye,3,Oregon State,126,126,1992
+David Hirsch,Jody Staylor,David Hirsch,3,Jody Staylor,5,r16,,,DEC,Jody Staylor,12,Cornell,5,North Carolina,126,126,1992
+Dan Flood,Dave Gustovich,Dan Flood,16,Dave Gustovich,1,r16,,,TF,Dan Flood,4,Wisconsin,,Brown,126,126,1992
+T.J. Jaworsky,Shawn Harrison,T.J. Jaworsky,4,Shawn Harrison,8,r16,,,DEC,Shawn Harrison,9,Oklahoma State,8,Oklahoma,126,126,1992
+Scott Rohrer,Terry Brands,Scott Rohrer,8,Terry Brands,23,r16,,4:59,TF,Terry Brands,,Minnesota,1,Iowa,126,126,1992
+Jason Cluff,Shawn Charles,Jason Cluff,7,Shawn Charles,15,r16,,,MD,Shawn Charles,,Michigan,2,Arizona State,126,126,1992
+Brett Porter,Marcus Gowens,Brett Porter,7,Marcus Gowens,6,r16,,,DEC,Brett Porter,,Edinboro,10,Notre Dame,126,126,1992
+Shawn Nelson,Mike Pasdo,Shawn Nelson,5,Mike Pasdo,4,r16,,,DEC,Shawn Nelson,6,Penn State,11,Marquette,126,126,1992
+Steve Millward,Babak Mohammadi,Steve Millward,3,Babak Mohammadi,7,r16,,,DEC,Babak Mohammadi,,West Virginia,3,Oregon State,126,126,1992
+Jody Staylor,Dan Flood,Jody Staylor,2,Dan Flood,1,r8,,,DEC,Jody Staylor,5,North Carolina,4,Wisconsin,126,126,1992
+Shawn Harrison,Terry Brands,Shawn Harrison,-2,Terry Brands,-1,r8,,2:54,F,Terry Brands,8,Oklahoma,1,Iowa,126,126,1992
+Shawn Charles,Brett Porter,Shawn Charles,16,Brett Porter,5,r8,,,MD,Shawn Charles,2,Arizona State,,Edinboro,126,126,1992
+Shawn Nelson,Babak Mohammadi,Shawn Nelson,5,Babak Mohammadi,7,r8,,,DEC,Babak Mohammadi,6,Penn State,3,Oregon State,126,126,1992
+Jody Staylor,Terry Brands,Jody Staylor,6,Terry Brands,9,r4,,,DEC,Terry Brands,5,North Carolina,1,Iowa,126,126,1992
+Shawn Charles,Babak Mohammadi,Shawn Charles,13,Babak Mohammadi,9,r4,,,DEC,Shawn Charles,2,Arizona State,3,Oregon State,126,126,1992
+Terry Brands,Shawn Charles,Terry Brands,8,Shawn Charles,5,m1,,,DEC,Terry Brands,1,Iowa,2,Arizona State,126,126,1992
+Dane Campbell,David Hirsch,Dane Campbell,4,David Hirsch,13,c1,,,MD,David Hirsch,,Miami Ohio,12,Cornell,126,126,1992
+Vinnie Santaniello,Dave Gustovich,Vinnie Santaniello,9,Dave Gustovich,0,c1,,,MD,Vinnie Santaniello,,Lock Haven,,Brown,126,126,1992
+Mike Krafchick,T.J. Jaworsky,Mike Krafchick,8,T.J. Jaworsky,5,c1,,,DEC,Mike Krafchick,,Virginia,9,Oklahoma State,126,126,1992
+Jarrett Clark,Scott Rohrer,Jarrett Clark,2,Scott Rohrer,5,c1,,,DEC,Scott Rohrer,,Oregon,,Minnesota,126,126,1992
+Andy Showalter,Jason Cluff,Andy Showalter,8,Jason Cluff,5,c1,,,DEC,Andy Showalter,,Northern Iowa,,Michigan,126,126,1992
+Noel Clavel,Marcus Gowens,Noel Clavel,4,Marcus Gowens,12,c1,,,MD,Marcus Gowens,7,Old Dominion,10,Notre Dame,126,126,1992
+Mike Hunter,Mike Pasdo,Mike Hunter,1,Mike Pasdo,2,c1,,,DEC,Mike Pasdo,,Ohio University,11,Marquette,126,126,1992
+Bye,Steve Millward,Bye,-4,Steve Millward,-3,c1,,,DFT,Steve Millward,,Bye,,West Virginia,126,126,1992
+David Hirsch,Vinnie Santaniello,David Hirsch,12,Vinnie Santaniello,4,c2,,,MD,David Hirsch,12,Cornell,,Lock Haven,126,126,1992
+Mike Krafchick,Scott Rohrer,Mike Krafchick,8,Scott Rohrer,2,c2,,,DEC,Mike Krafchick,,Virginia,,Minnesota,126,126,1992
+Andy Showalter,Marcus Gowens,Andy Showalter,2,Marcus Gowens,10,c2,,,MD,Marcus Gowens,,Northern Iowa,10,Notre Dame,126,126,1992
+Mike Pasdo,Steve Millward,Mike Pasdo,1,Steve Millward,2,c2,,,DEC,Steve Millward,11,Marquette,,West Virginia,126,126,1992
+David Hirsch,Shawn Nelson,David Hirsch,1,Shawn Nelson,6,br,,,DEC,Shawn Nelson,12,Cornell,6,Penn State,126,126,1992
+Mike Krafchick,Brett Porter,Mike Krafchick,1,Brett Porter,3,br,,,DEC,Brett Porter,,Virginia,,Edinboro,126,126,1992
+Marcus Gowens,Shawn Harrison,Marcus Gowens,5,Shawn Harrison,11,br,,,DEC,Shawn Harrison,10,Notre Dame,8,Oklahoma,126,126,1992
+Steve Millward,Dan Flood,Steve Millward,1,Dan Flood,10,br,,,MD,Dan Flood,,West Virginia,4,Wisconsin,126,126,1992
+Shawn Nelson,Brett Porter,Shawn Nelson,-1,Brett Porter,-2,c4,,3:23,F,Shawn Nelson,6,Penn State,,Edinboro,126,126,1992
+Shawn Harrison,Dan Flood,Shawn Harrison,3,Dan Flood,2,c4,,,DEC,Shawn Harrison,8,Oklahoma,4,Wisconsin,126,126,1992
+Shawn Nelson,Jody Staylor,Shawn Nelson,-1,Jody Staylor,-2,cs,,5:40,F,Shawn Nelson,6,Penn State,5,North Carolina,126,126,1992
+Shawn Harrison,Babak Mohammadi,Shawn Harrison,13,Babak Mohammadi,11,cs,,,DEC,Shawn Harrison,8,Oklahoma,3,Oregon State,126,126,1992
+Shawn Harrison,Shawn Nelson,Shawn Harrison,12,Shawn Nelson,4,m3,,,MD,Shawn Harrison,8,Oklahoma,6,Penn State,126,126,1992
+Babak Mohammadi,Jody Staylor,Babak Mohammadi,6,Jody Staylor,5,m5,,,DEC,Babak Mohammadi,3,Oregon State,5,North Carolina,126,126,1992
+Dan Flood,Brett Porter,Dan Flood,-1,Brett Porter,-2,m7,,5:02,F,Dan Flood,4,Wisconsin,,Harvard,126,126,1992
+Dan Carcelli,Pat Matsuda,Dan Carcelli,2,Pat Matsuda,6,r32,,,DEC,Pat Matsuda,,Cleveland State,,Cal State-Bakersfield,134,134,1992
+Bob Truby,Sam Cole,Bob Truby,7,Sam Cole,2,r32,,,DEC,Bob Truby,4,Penn State,,Harvard,134,134,1992
+Scott Hassel,Steve Marianetti,Scott Hassel,5,Steve Marianetti,4,r32,,,DEC,Scott Hassel,12,Northern Iowa,,Illinois,134,134,1992
+Pete Horst,Brad Rozanski,Pete Horst,7,Brad Rozanski,5,r32,,,DEC,Pete Horst,5,Old Dominion,,Bloomsburg,134,134,1992
+Lyndon Campbell,Ray Serbick,Lyndon Campbell,7,Ray Serbick,5,r32,,,DEC,Lyndon Campbell,8,Cal State-Fullerton,,Eastern Illinois,134,134,1992
+Harold Zinkin,Eric Kimble,Harold Zinkin,5,Eric Kimble,7,r32,,,DEC,Eric Kimble,9,Fresno State,,Ohio University,134,134,1992
+William Gay,Phil Elliott,William Gay,6,Phil Elliott,12,r32,,,DEC,Phil Elliott,,Oklahoma,,Bucknell,134,134,1992
+Tom Brands,Jody Jackson,Tom Brands,-1,Jody Jackson,-2,r32,,4:48,F,Tom Brands,1,Iowa,,Virginia,134,134,1992
+Ron Pieper,Jason Gregersen,Ron Pieper,8,Jason Gregersen,12,r32,,,DEC,Jason Gregersen,,Wisconsin,,Wyoming,134,134,1992
+Alan Fried,Steve Krouse,Alan Fried,-1,Steve Krouse,-2,r32,,6:59,F,Alan Fried,2,Oklahoma State,,Clarion,134,134,1992
+Marco Sanchez,Tim Harris,Marco Sanchez,13,Tim Harris,3,r32,,,MD,Marco Sanchez,7,Arizona State,,Minnesota,134,134,1992
+Mike Moreno,Erik Saunders,Mike Moreno,7,Erik Saunders,0,r32,,,DEC,Mike Moreno,10,Iowa State,,Seton Hall,134,134,1992
+Todd Hammerle,Clayton Grice,Todd Hammerle,4,Clayton Grice,6,r32,,,DEC,Clayton Grice,,SUNY-Buffalo,,North Carolina State,134,134,1992
+Joey Gilbert,Eric DeVenney,Joey Gilbert,-1,Eric DeVenney,-2,r32,,0:57,F,Joey Gilbert,3,Michigan,,Missouri,134,134,1992
+Mark Fergeson,Jay Manson,Mark Fergeson,10,Jay Manson,1,r32,,,MD,Mark Fergeson,6,Cornell,,California PA,134,134,1992
+Bye,Dave Warnick,Bye,-4,Dave Warnick,-3,r32,,,DFT,Dave Warnick,,Bye,11,Army,134,134,1992
+Pat Matsuda,Bob Truby,Pat Matsuda,1,Bob Truby,11,r16,,,MD,Bob Truby,,Cal State-Bakersfield,4,Penn State,134,134,1992
+Scott Hassel,Brad Rozanski,Scott Hassel,5,Brad Rozanski,7,r16,1,,DEC,Brad Rozanski,12,Northern Iowa,,Bloomsburg,134,134,1992
+Lyndon Campbell,Eric Kimble,Lyndon Campbell,3,Eric Kimble,2,r16,,,DEC,Lyndon Campbell,8,Cal State-Fullerton,,Ohio University,134,134,1992
+Phil Elliott,Tom Brands,Phil Elliott,9,Tom Brands,23,r16,,,MD,Tom Brands,,Bucknell,1,Iowa,134,134,1992
+Jason Gregersen,Alan Fried,Jason Gregersen,7,Alan Fried,20,r16,,,MD,Alan Fried,,Wyoming,2,Oklahoma State,134,134,1992
+Marco Sanchez,Mike Moreno,Marco Sanchez,1,Mike Moreno,2,r16,,,DEC,Mike Moreno,7,Arizona State,10,Iowa State,134,134,1992
+Clayton Grice,Joey Gilbert,Clayton Grice,5,Joey Gilbert,17,r16,,,MD,Joey Gilbert,,North Carolina State,3,Michigan,134,134,1992
+Mark Fergeson,Dave Warnick,Mark Fergeson,14,Dave Warnick,1,r16,,,MD,Mark Fergeson,6,Cornell,11,Army,134,134,1992
+Bob Truby,Brad Rozanski,Bob Truby,10,Brad Rozanski,0,r8,,,MD,Bob Truby,4,Penn State,,Bloomsburg,134,134,1992
+Lyndon Campbell,Tom Brands,Lyndon Campbell,7,Tom Brands,16,r8,,,MD,Tom Brands,8,Cal State-Fullerton,1,Iowa,134,134,1992
+Alan Fried,Mike Moreno,Alan Fried,6,Mike Moreno,2,r8,,,DEC,Alan Fried,2,Oklahoma State,10,Iowa State,134,134,1992
+Joey Gilbert,Mark Fergeson,Joey Gilbert,3,Mark Fergeson,5,r8,1,,DEC,Mark Fergeson,3,Michigan,6,Cornell,134,134,1992
+Bob Truby,Tom Brands,Bob Truby,4,Tom Brands,15,r4,,,MD,Tom Brands,4,Penn State,1,Iowa,134,134,1992
+Alan Fried,Mark Fergeson,Alan Fried,11,Mark Fergeson,7,r4,,,DEC,Alan Fried,2,Oklahoma State,6,Cornell,134,134,1992
+Tom Brands,Alan Fried,Tom Brands,6,Alan Fried,2,m1,,,DEC,Tom Brands,1,Iowa,2,Oklahoma State,134,134,1992
+Sam Cole,Pat Matsuda,Sam Cole,6,Pat Matsuda,4,c1,,,DEC,Sam Cole,,Harvard,,Cal State-Bakersfield,134,134,1992
+Pete Horst,Ray Serbick,Pete Horst,4,Ray Serbick,7,c1,,,DEC,Ray Serbick,5,Old Dominion,,Eastern Illinois,134,134,1992
+Jody Jackson,Phil Elliott,Jody Jackson,9,Phil Elliott,6,c1,,,DEC,Jody Jackson,,Virginia,,Bucknell,134,134,1992
+Steve Krouse,Jason Gregersen,Steve Krouse,12,Jason Gregersen,1,c1,,,MD,Steve Krouse,,Clarion,,Wyoming,134,134,1992
+Erik Saunders,Marco Sanchez,Erik Saunders,4,Marco Sanchez,6,c1,,,DEC,Marco Sanchez,,Seton Hall,7,Arizona State,134,134,1992
+Eric DeVenney,Clayton Grice,Eric DeVenney,3,Clayton Grice,5,c1,,,DEC,Clayton Grice,,Missouri,,North Carolina State,134,134,1992
+Jay Manson,Dave Warnick,Jay Manson,8,Dave Warnick,4,c1,,,DEC,Jay Manson,,California PA,11,Army,134,134,1992
+Sam Cole,Pete Horst,Sam Cole,18,Pete Horst,6,c2,,,MD,Sam Cole,,Harvard,5,Old Dominion,134,134,1992
+Ray Serbick,Jody Jackson,Ray Serbick,-2,Jody Jackson,-1,c2,,1:43,F,Jody Jackson,,Eastern Illinois,,Virginia,134,134,1992
+Steve Krouse,Marco Sanchez,Steve Krouse,2,Marco Sanchez,12,c2,,,MD,Marco Sanchez,,Clarion,7,Arizona State,134,134,1992
+Clayton Grice,Jay Manson,Clayton Grice,3,Jay Manson,4,c2,,,DEC,Jay Manson,,North Carolina State,,California PA,134,134,1992
+Sam Cole,Joey Gilbert,Sam Cole,8,Joey Gilbert,9,br,,,DEC,Joey Gilbert,,Harvard,3,Michigan,134,134,1992
+Jody Jackson,Mike Moreno,Jody Jackson,3,Mike Moreno,4,br,,,DEC,Mike Moreno,,Virginia,10,Iowa State,134,134,1992
+Marco Sanchez,Lyndon Campbell,Marco Sanchez,5,Lyndon Campbell,3,br,,,DEC,Marco Sanchez,7,Arizona State,8,Cal State-Fullerton,134,134,1992
+Jay Manson,Brad Rozanski,Jay Manson,5,Brad Rozanski,6,br,,,DEC,Brad Rozanski,,California PA,,Bloomsburg,134,134,1992
+Joey Gilbert,Mike Moreno,Joey Gilbert,7,Mike Moreno,3,c4,,,DEC,Joey Gilbert,3,Michigan,10,Iowa State,134,134,1992
+Marco Sanchez,Brad Rozanski,Marco Sanchez,14,Brad Rozanski,6,c4,,,MD,Marco Sanchez,7,Arizona State,,Bloomsburg,134,134,1992
+Joey Gilbert,Bob Truby,Joey Gilbert,2,Bob Truby,4,cs,1,,DEC,Bob Truby,3,Michigan,4,Penn State,134,134,1992
+Marco Sanchez,Mark Fergeson,Marco Sanchez,4,Mark Fergeson,3,cs,1,,DEC,Marco Sanchez,7,Arizona State,6,Cornell,134,134,1992
+Marco Sanchez,Bob Truby,Marco Sanchez,3,Bob Truby,2,m3,,,DEC,Marco Sanchez,7,Arizona State,4,Penn State,134,134,1992
+Mark Fergeson,Joey Gilbert,Mark Fergeson,5,Joey Gilbert,3,m5,,,DEC,Mark Fergeson,6,Cornell,3,Michigan,134,134,1992
+Mike Moreno,Brad Rozanski,Mike Moreno,3,Brad Rozanski,1,m7,,,DEC,Mike Moreno,10,Iowa State,,Bloomsburg,134,134,1992
+Tim McClellan,Mark Cesari,Tim McClellan,5,Mark Cesari,4,r32,,,DEC,Tim McClellan,,Purdue,12,North Carolina State,142,142,1992
+Gordon Cashen,Steve Thoma,Gordon Cashen,3,Steve Thoma,15,r32,,,MD,Steve Thoma,,Central Michigan,5,Brown,142,142,1992
+Joe Stephens,Wayne McMinn,Joe Stephens,-4,Wayne McMinn,-3,r32,,,DFT,Wayne McMinn,,Nebraska,4,Arizona State,142,142,1992
+Brad Gazaway,Kenny Liddell,Brad Gazaway,4,Kenny Liddell,7,r32,,,DEC,Kenny Liddell,,Navy,,Missouri,142,142,1992
+John Dasta,Paul Andreotti,John Dasta,4,Paul Andreotti,1,r32,,,DEC,John Dasta,8,Clarion,,Northwestern,142,142,1992
+Derrick Asbell,Gerry Abas,Derrick Asbell,5,Gerry Abas,7,r32,,,DEC,Gerry Abas,,California PA,9,Fresno State,142,142,1992
+Mike Kocsis,John Nix,Mike Kocsis,8,John Nix,10,r32,,,DEC,John Nix,,Central Connecticut,,Oklahoma,142,142,1992
+Steve Hartle,Troy Steiner,Steve Hartle,0,Troy Steiner,15,r32,,7:00,TF,Troy Steiner,,Northern Iowa,1,Iowa,142,142,1992
+Phil Armstrong,Dan Spilde,Phil Armstrong,8,Dan Spilde,3,r32,,,DEC,Phil Armstrong,10,Brigham Young,,Wisconsin,142,142,1992
+Dave Leonardis,Shannyn Gillespie,Dave Leonardis,-2,Shannyn Gillespie,-1,r32,,4:55,F,Shannyn Gillespie,,North Carolina,7,Lock Haven,142,142,1992
+David Marlow,Tom Onorato,David Marlow,4,Tom Onorato,0,r32,1,,DEC,David Marlow,,Eastern Illinois,,West Virginia,142,142,1992
+Chris Owens,Aaron Schetter,Chris Owens,-1,Aaron Schetter,-2,r32,,2:31,F,Chris Owens,2,Oklahoma State,,Ohio State,142,142,1992
+Tom Shifflet,Scott Kemp,Tom Shifflet,8,Scott Kemp,6,r32,,,DEC,Tom Shifflet,,Edinboro,,Drexel,142,142,1992
+Brendan Ferriter,John Hughes,Brendan Ferriter,0,John Hughes,4,r32,,,DEC,John Hughes,,Seton Hall,,Penn State,142,142,1992
+Tom Barley,Damon Johnson,Tom Barley,-1,Damon Johnson,-2,r32,,2:44,F,Tom Barley,11,Millersville,,Minnesota,142,142,1992
+Jeff Lyons,Tom Miller,Jeff Lyons,9,Tom Miller,4,r32,,,DEC,Jeff Lyons,,Indiana,6,Maryland,142,142,1992
+Tim McClellan,Steve Thoma,Tim McClellan,2,Steve Thoma,3,r16,,,DEC,Steve Thoma,,Purdue,5,Brown,142,142,1992
+Wayne McMinn,Kenny Liddell,Wayne McMinn,4,Kenny Liddell,6,r16,,,DEC,Kenny Liddell,4,Arizona State,,Missouri,142,142,1992
+John Dasta,Gerry Abas,John Dasta,8,Gerry Abas,3,r16,,,DEC,John Dasta,8,Clarion,9,Fresno State,142,142,1992
+John Nix,Troy Steiner,John Nix,-4,Troy Steiner,-3,r16,,,DFT,Troy Steiner,,Oklahoma,1,Iowa,142,142,1992
+Phil Armstrong,Shannyn Gillespie,Phil Armstrong,3,Shannyn Gillespie,4,r16,,,DEC,Shannyn Gillespie,10,Brigham Young,7,Lock Haven,142,142,1992
+David Marlow,Chris Owens,David Marlow,5,Chris Owens,9,r16,,,DEC,Chris Owens,,Eastern Illinois,2,Oklahoma State,142,142,1992
+Tom Shifflet,John Hughes,Tom Shifflet,4,John Hughes,2,r16,,,DEC,Tom Shifflet,,Edinboro,,Penn State,142,142,1992
+Tom Barley,Jeff Lyons,Tom Barley,3,Jeff Lyons,4,r16,,,DEC,Jeff Lyons,11,Millersville,,Indiana,142,142,1992
+Steve Thoma,Kenny Liddell,Steve Thoma,5,Kenny Liddell,12,r8,,,DEC,Kenny Liddell,5,Brown,,Missouri,142,142,1992
+John Dasta,Troy Steiner,John Dasta,0,Troy Steiner,15,r8,,4:38,TF,Troy Steiner,8,Clarion,1,Iowa,142,142,1992
+Shannyn Gillespie,Chris Owens,Shannyn Gillespie,8,Chris Owens,10,r8,1,,DEC,Chris Owens,7,Lock Haven,2,Oklahoma State,142,142,1992
+Tom Shifflet,Jeff Lyons,Tom Shifflet,3,Jeff Lyons,4,r8,,,DEC,Jeff Lyons,,Edinboro,,Indiana,142,142,1992
+Kenny Liddell,Troy Steiner,Kenny Liddell,0,Troy Steiner,15,r4,,3:15,TF,Troy Steiner,,Missouri,1,Iowa,142,142,1992
+Chris Owens,Jeff Lyons,Chris Owens,9,Jeff Lyons,8,r4,,,DEC,Chris Owens,2,Oklahoma State,,Indiana,142,142,1992
+Troy Steiner,Chris Owens,Troy Steiner,8,Chris Owens,2,m1,,,DEC,Troy Steiner,1,Iowa,2,Oklahoma State,142,142,1992
+Gordon Cashen,Tim McClellan,Gordon Cashen,12,Tim McClellan,3,c1,,,MD,Gordon Cashen,,Central Michigan,,Purdue,142,142,1992
+Brad Gazaway,Wayne McMinn,Brad Gazaway,3,Wayne McMinn,1,c1,1,,DEC,Brad Gazaway,,Navy,4,Arizona State,142,142,1992
+Paul Andreotti,Gerry Abas,Paul Andreotti,9,Gerry Abas,10,c1,,,DEC,Gerry Abas,,Northwestern,9,Fresno State,142,142,1992
+Steve Hartle,John Nix,Steve Hartle,-2,John Nix,-1,c1,,1:30,F,John Nix,,Northern Iowa,,Oklahoma,142,142,1992
+Dave Leonardis,Phil Armstrong,Dave Leonardis,2,Phil Armstrong,1,c1,,,DEC,Dave Leonardis,,North Carolina,10,Brigham Young,142,142,1992
+Guy Harris,David Marlow,Guy Harris,8,David Marlow,6,c1,1,,DEC,Guy Harris,,Tennessee-Chattanooga,,Eastern Illinois,142,142,1992
+Ryan Sugai,John Hughes,Ryan Sugai,3,John Hughes,5,c1,1,,DEC,John Hughes,,Oregon State,,Penn State,142,142,1992
+Tom Miller,Tom Barley,Tom Miller,5,Tom Barley,2,c1,,,DEC,Tom Miller,6,Maryland,11,Millersville,142,142,1992
+Gordon Cashen,Brad Gazaway,Gordon Cashen,7,Brad Gazaway,4,c2,,,DEC,Gordon Cashen,,Central Michigan,,Navy,142,142,1992
+Gerry Abas,John Nix,Gerry Abas,9,John Nix,7,c2,,,DEC,Gerry Abas,9,Fresno State,,Oklahoma,142,142,1992
+Dave Leonardis,Guy Harris,Dave Leonardis,4,Guy Harris,5,c2,,,DEC,Guy Harris,,North Carolina,,Tennessee-Chattanooga,142,142,1992
+John Hughes,Tom Miller,John Hughes,5,Tom Miller,6,c2,,,DEC,Tom Miller,,Penn State,6,Maryland,142,142,1992
+Gordon Cashen,Tom Shifflet,Gordon Cashen,4,Tom Shifflet,5,br,,,DEC,Tom Shifflet,,Central Michigan,,Edinboro,142,142,1992
+Gerry Abas,Shannyn Gillespie,Gerry Abas,12,Shannyn Gillespie,8,br,,,DEC,Gerry Abas,9,Fresno State,7,Lock Haven,142,142,1992
+Guy Harris,John Dasta,Guy Harris,11,John Dasta,6,br,,,DEC,Guy Harris,,Tennessee-Chattanooga,8,Clarion,142,142,1992
+Tom Miller,Steve Thoma,Tom Miller,13,Steve Thoma,9,br,,,DEC,Tom Miller,6,Maryland,5,Brown,142,142,1992
+Tom Shifflet,Gerry Abas,Tom Shifflet,7,Gerry Abas,2,c4,,,DEC,Tom Shifflet,,Edinboro,9,Fresno State,142,142,1992
+Guy Harris,Tom Miller,Guy Harris,5,Tom Miller,9,c4,,,DEC,Tom Miller,,Tennessee-Chattanooga,6,Maryland,142,142,1992
+Gerry Abas,Kenny Liddell,Gerry Abas,3,Kenny Liddell,7,cs,,,DEC,Kenny Liddell,9,Fresno State,,Missouri,142,142,1992
+Tom Miller,Jeff Lyons,Tom Miller,3,Jeff Lyons,2,cs,,,DEC,Tom Miller,6,Maryland,,Indiana,142,142,1992
+Tom Miller,Kenny Liddell,Tom Miller,5,Kenny Liddell,2,m3,,,DEC,Tom Miller,6,Maryland,,Missouri,142,142,1992
+Jeff Lyons,Gerry Abas,Jeff Lyons,12,Gerry Abas,3,m5,,,MD,Jeff Lyons,,Indiana,9,Fresno State,142,142,1992
+Tom Shifflet,Guy Harris,Tom Shifflet,9,Guy Harris,7,m7,1,,DEC,Tom Shifflet,,Edinboro,,Tennessee-Chattanooga,142,142,1992
+Chris Owens,Guy Harris,Chris Owens,-1,Guy Harris,-2,p1,,1:23,F,Chris Owens,2,Oklahoma State,,Tennessee-Chattanooga,142,142,1992
+Brad Gazaway,Pat Berdysz,Brad Gazaway,2,Pat Berdysz,1,p1,,,DEC,Brad Gazaway,,Navy,,Miami Ohio,142,142,1992
+John Dasta,John Krause,John Dasta,8,John Krause,2,p1,,,DEC,John Dasta,8,Clarion,,Southwest Missouri,142,142,1992
+Mike Kocsis,Lance Johnson,Mike Kocsis,6,Lance Johnson,4,p1,,,DEC,Mike Kocsis,,Central Connecticut,,Stanford,142,142,1992
+Gordon Cashen,Sam Holliday,Gordon Cashen,10,Sam Holliday,0,p1,,,MD,Gordon Cashen,,Central Michigan,,Liberty,142,142,1992
+Tom Shifflet,Ryan Sugai,Tom Shifflet,6,Ryan Sugai,5,p1,,,DEC,Tom Shifflet,,Edinboro,,Oregon State,142,142,1992
+Dave Leonardis,Troy Beavers,Dave Leonardis,7,Troy Beavers,5,p1,,,DEC,Dave Leonardis,,North Carolina,,Cal State-Bakersfield,142,142,1992
+Ryan Sugai,Scott Kemp,Ryan Sugai,11,Scott Kemp,5,cp1,,,DEC,Ryan Sugai,,Oregon State,,Drexel,142,142,1992
+Guy Harris,Aaron Schetter,Guy Harris,5,Aaron Schetter,1,cp1,,,DEC,Guy Harris,,Tennessee-Chattanooga,,Ohio State,142,142,1992
+Paul Andreotti,John Krause,Paul Andreotti,15,John Krause,0,cp1,,4:10,TF,Paul Andreotti,,Northwestern,,Southwest Missouri,142,142,1992
+Torrae Jackson,Mike Van Doren,Torrae Jackson,16,Mike Van Doren,7,r32,,,MD,Torrae Jackson,4,Iowa State,,Bucknell,150,150,1992
+Rick Coltvet,Jason Hawk,Rick Coltvet,1,Jason Hawk,10,r32,,,MD,Jason Hawk,,Nebraska,,Rutgers,150,150,1992
+Mike Bartholomew,Pat Craig,Mike Bartholomew,-1,Pat Craig,-2,r32,,2:59,F,Mike Bartholomew,12,Rider,,Oregon,150,150,1992
+Terry Steiner,Steve Woods,Terry Steiner,15,Steve Woods,0,r32,,4:52,TF,Terry Steiner,5,Iowa,,Maryland,150,150,1992
+Tom Best,Jake Gaier,Tom Best,3,Jake Gaier,5,r32,,,DEC,Jake Gaier,,North Carolina State,,Cal Poly-SLO,150,150,1992
+Matt Demaray,Wes Winterstein,Matt Demaray,5,Wes Winterstein,4,r32,,,DEC,Matt Demaray,1,Wisconsin,,Air Force,150,150,1992
+Brian Harper,Sepp Dobler,Brian Harper,4,Sepp Dobler,5,r32,,,DEC,Sepp Dobler,,Michigan,9,Brown,150,150,1992
+Steve Dernlan,Chad Carlson,Steve Dernlan,5,Chad Carlson,6,r32,,,DEC,Chad Carlson,8,Liberty,,Minnesota,150,150,1992
+Ken Ramsey,Dean Moscovic,Ken Ramsey,9,Dean Moscovic,3,r32,,,DEC,Ken Ramsey,2,Ohio State,,North Carolina,150,150,1992
+Andy Fitzpatrick,David Barnes,Andy Fitzpatrick,4,David Barnes,10,r32,,,DEC,David Barnes,,Bloomsburg,,Miami Ohio,150,150,1992
+Jody Wilson,Adrian Hines,Jody Wilson,5,Adrian Hines,10,r32,,,DEC,Adrian Hines,,Oklahoma State,10,Appalachian State,150,150,1992
+Monty Ohl,Nels Nelson,Monty Ohl,3,Nels Nelson,7,r32,,,DEC,Nels Nelson,,Cleveland State,7,Boise State,150,150,1992
+Joe Burke,Troy Sunderland,Joe Burke,4,Troy Sunderland,7,r32,,,DEC,Troy Sunderland,,Seton Hall,3,Penn State,150,150,1992
+Rick Monge,Robbie Winter,Rick Monge,6,Robbie Winter,2,r32,,,DEC,Rick Monge,,Cal State-Bakersfield,,Brigham Young,150,150,1992
+Scott Goodale,Gary Steffensmeier,Scott Goodale,2,Gary Steffensmeier,6,r32,,,DEC,Gary Steffensmeier,,Lock Haven,6,Northern Iowa,150,150,1992
+Michael Swift,Jason Roach,Michael Swift,5,Jason Roach,6,r32,,,DEC,Jason Roach,,California PA,11,Cornell,150,150,1992
+Torrae Jackson,Jason Hawk,Torrae Jackson,11,Jason Hawk,5,r16,,,DEC,Torrae Jackson,4,Iowa State,,Rutgers,150,150,1992
+Mike Bartholomew,Terry Steiner,Mike Bartholomew,3,Terry Steiner,9,r16,,,DEC,Terry Steiner,12,Rider,5,Iowa,150,150,1992
+Jake Gaier,Matt Demaray,Jake Gaier,3,Matt Demaray,13,r16,,,MD,Matt Demaray,,Cal Poly-SLO,1,Wisconsin,150,150,1992
+Sepp Dobler,Chad Carlson,Sepp Dobler,-2,Chad Carlson,-1,r16,,6:17,F,Chad Carlson,9,Brown,,Minnesota,150,150,1992
+Ken Ramsey,David Barnes,Ken Ramsey,11,David Barnes,5,r16,,,DEC,Ken Ramsey,2,Ohio State,,Miami Ohio,150,150,1992
+Adrian Hines,Nels Nelson,Adrian Hines,5,Nels Nelson,7,r16,,,DEC,Nels Nelson,10,Appalachian State,7,Boise State,150,150,1992
+Troy Sunderland,Rick Monge,Troy Sunderland,12,Rick Monge,6,r16,,,DEC,Troy Sunderland,3,Penn State,,Cal State-Bakersfield,150,150,1992
+Gary Steffensmeier,Jason Roach,Gary Steffensmeier,9,Jason Roach,3,r16,,,DEC,Gary Steffensmeier,6,Northern Iowa,11,Cornell,150,150,1992
+Torrae Jackson,Terry Steiner,Torrae Jackson,7,Terry Steiner,5,r8,1,,DEC,Torrae Jackson,4,Iowa State,5,Iowa,150,150,1992
+Matt Demaray,Chad Carlson,Matt Demaray,8,Chad Carlson,7,r8,,,DEC,Matt Demaray,1,Wisconsin,,Minnesota,150,150,1992
+Ken Ramsey,Nels Nelson,Ken Ramsey,6,Nels Nelson,4,r8,1,,DEC,Ken Ramsey,2,Ohio State,7,Boise State,150,150,1992
+Troy Sunderland,Gary Steffensmeier,Troy Sunderland,5,Gary Steffensmeier,2,r8,,,DEC,Troy Sunderland,3,Penn State,6,Northern Iowa,150,150,1992
+Torrae Jackson,Matt Demaray,Torrae Jackson,3,Matt Demaray,13,r4,,,MD,Matt Demaray,4,Iowa State,1,Wisconsin,150,150,1992
+Ken Ramsey,Troy Sunderland,Ken Ramsey,1,Troy Sunderland,2,r4,,,DEC,Troy Sunderland,2,Ohio State,3,Penn State,150,150,1992
+Matt Demaray,Troy Sunderland,Matt Demaray,5,Troy Sunderland,2,m1,,,DEC,Matt Demaray,1,Wisconsin,3,Penn State,150,150,1992
+Mike Van Doren,Jason Hawk,Mike Van Doren,-2,Jason Hawk,-1,c1,,4:40,F,Jason Hawk,,Bucknell,,Rutgers,150,150,1992
+Steve Woods,Mike Bartholomew,Steve Woods,5,Mike Bartholomew,6,c1,,,DEC,Mike Bartholomew,,Maryland,12,Rider,150,150,1992
+Wes Winterstein,Jake Gaier,Wes Winterstein,5,Jake Gaier,4,c1,1,,DEC,Wes Winterstein,,Air Force,,Cal Poly-SLO,150,150,1992
+Steve Dernlan,Sepp Dobler,Steve Dernlan,15,Sepp Dobler,3,c1,,,MD,Steve Dernlan,8,Liberty,9,Brown,150,150,1992
+Dean Moscovic,David Barnes,Dean Moscovic,9,David Barnes,4,c1,,,DEC,Dean Moscovic,,North Carolina,,Miami Ohio,150,150,1992
+Monty Ohl,Adrian Hines,Monty Ohl,15,Adrian Hines,2,c1,,,MD,Monty Ohl,,Cleveland State,10,Appalachian State,150,150,1992
+Joe Burke,Rick Monge,Joe Burke,-2,Rick Monge,-1,c1,,3:12,F,Rick Monge,,Seton Hall,,Cal State-Bakersfield,150,150,1992
+Scott Goodale,Jason Roach,Scott Goodale,4,Jason Roach,8,c1,,,DEC,Jason Roach,,Lock Haven,11,Cornell,150,150,1992
+Jason Hawk,Mike Bartholomew,Jason Hawk,3,Mike Bartholomew,2,c2,,,DEC,Jason Hawk,,Rutgers,12,Rider,150,150,1992
+Wes Winterstein,Steve Dernlan,Wes Winterstein,4,Steve Dernlan,5,c2,1,,DEC,Steve Dernlan,,Air Force,8,Liberty,150,150,1992
+David Barnes,Monty Ohl,David Barnes,5,Monty Ohl,4,c2,,,DEC,David Barnes,,Miami Ohio,,Cleveland State,150,150,1992
+Rick Monge,Jason Roach,Rick Monge,11,Jason Roach,5,c2,,,DEC,Rick Monge,,Cal State-Bakersfield,11,Cornell,150,150,1992
+Jason Hawk,Gary Steffensmeier,Jason Hawk,3,Gary Steffensmeier,11,br,,,MD,Gary Steffensmeier,,Rutgers,6,Northern Iowa,150,150,1992
+Steve Dernlan,Nels Nelson,Steve Dernlan,2,Nels Nelson,6,br,,,DEC,Nels Nelson,8,Liberty,7,Boise State,150,150,1992
+David Barnes,Chad Carlson,David Barnes,3,Chad Carlson,1,br,1,,DEC,David Barnes,,Miami Ohio,,Minnesota,150,150,1992
+Rick Monge,Terry Steiner,Rick Monge,0,Terry Steiner,4,br,,,DEC,Terry Steiner,,Cal State-Bakersfield,5,Iowa,150,150,1992
+Gary Steffensmeier,Nels Nelson,Gary Steffensmeier,4,Nels Nelson,3,c4,,,DEC,Gary Steffensmeier,6,Northern Iowa,7,Boise State,150,150,1992
+David Barnes,Terry Steiner,David Barnes,0,Terry Steiner,16,c4,,4:48,TF,Terry Steiner,,Miami Ohio,5,Iowa,150,150,1992
+Gary Steffensmeier,Torrae Jackson,Gary Steffensmeier,7,Torrae Jackson,5,cs,,,DEC,Gary Steffensmeier,6,Northern Iowa,4,Iowa State,150,150,1992
+Terry Steiner,Ken Ramsey,Terry Steiner,6,Ken Ramsey,11,cs,,,DEC,Ken Ramsey,5,Iowa,2,Ohio State,150,150,1992
+Ken Ramsey,Gary Steffensmeier,Ken Ramsey,3,Gary Steffensmeier,2,m3,,,DEC,Ken Ramsey,2,Ohio State,6,Northern Iowa,150,150,1992
+Terry Steiner,Torrae Jackson,Terry Steiner,15,Torrae Jackson,0,m5,,6:00,TF,Terry Steiner,5,Iowa,4,Iowa State,150,150,1992
+Nels Nelson,David Barnes,Nels Nelson,6,David Barnes,5,m7,,,DEC,Nels Nelson,7,Boise State,,Miami Ohio,150,150,1992
+Brian Harper,Chip Bunner,Brian Harper,7,Chip Bunner,5,p1,,,DEC,Brian Harper,,Michigan,,Missouri,150,150,1992
+Jason Leonard,Howard Langford,Jason Leonard,-2,Howard Langford,-1,r32,,4:18,F,Howard Langford,,Oklahoma,4,Tennessee-Chattanooga,158,158,1992
+Mike Santamaria,Pete Maggio,Mike Santamaria,9,Pete Maggio,1,r32,,,MD,Mike Santamaria,,George Mason,,Illinois State,158,158,1992
+Jamie Byrne,Tim Roahrig,Jamie Byrne,7,Tim Roahrig,4,r32,,,DEC,Jamie Byrne,12,Northern Iowa,,Purdue,158,158,1992
+Rick Hepp,Scott Hovan,Rick Hepp,8,Scott Hovan,16,r32,,,MD,Scott Hovan,,Lehigh,5,Pittsburgh,158,158,1992
+Matt Topham,Mike Schyck,Matt Topham,4,Mike Schyck,9,r32,,,DEC,Mike Schyck,,Stanford,8,Ohio State,158,158,1992
+Joe Mocco,Kemal Pegram,Joe Mocco,10,Kemal Pegram,12,r32,,,DEC,Kemal Pegram,9,Brown,,Lock Haven,158,158,1992
+Pat Smith,Lou Cerchio,Pat Smith,-1,Lou Cerchio,-2,r32,,4:51,F,Pat Smith,1,Oklahoma State,,Seton Hall,158,158,1992
+Darren Gustafson,Mike Miller,Darren Gustafson,8,Mike Miller1,5,r32,,,DEC,Darren Gustafson,,Oregon,,Clemson,158,158,1992
+Tom Ryan,Matt Lindland,Tom Ryan,5,Matt Lindland,3,r32,,,DEC,Tom Ryan,2,Iowa,,Nebraska,158,158,1992
+Scott Henry,Shaon Fry,Scott Henry,1,Shaon Fry,13,r32,,,MD,Shaon Fry,,Clarion,,Missouri,158,158,1992
+Kirk Wallman,Dan Alar,Kirk Wallman,-1,Dan Alar,-2,r32,,6:43,F,Kirk Wallman,,Iowa State,10,Oregon State,158,158,1992
+Doug TerHark,Mike Marzetta,Doug TerHark,5,Mike Marzetta,13,r32,,,MD,Mike Marzetta,,California PA,7,Minnesota,158,158,1992
+Ray Miller,Mike New,Ray Miller,9,Mike New,0,r32,,,MD,Ray Miller,3,Arizona State,,Cornell,158,158,1992
+Marcus Hutchins,Paul Casey,Marcus Hutchins,5,Paul Casey,20,r32,,4:59,TF,Paul Casey,,SUNY-Buffalo,,Ohio University,158,158,1992
+Andy Leathers,Tim Wittman,Andy Leathers,9,Tim Wittman,15,r32,,,DEC,Tim Wittman,,Boise State,6,Penn State,158,158,1992
+Pete Welch,Mike Scott,Pete Welch,10,Mike Scott,7,r32,,,DEC,Pete Welch,11,North Carolina,,Wyoming,158,158,1992
+Howard Langford,Mike Santamaria,Howard Langford,10,Mike Santamaria,3,r16,,,DEC,Howard Langford,4,Tennessee-Chattanooga,,George Mason,158,158,1992
+Jamie Byrne,Scott Hovan,Jamie Byrne,-2,Scott Hovan,-1,r16,,2:47,F,Scott Hovan,12,Northern Iowa,5,Pittsburgh,158,158,1992
+Mike Schyck,Kemal Pegram,Mike Schyck,7,Kemal Pegram,0,r16,,,DEC,Mike Schyck,8,Ohio State,,Lock Haven,158,158,1992
+Pat Smith,Darren Gustafson,Pat Smith,22,Darren Gustafson,7,r16,,5:25,TF,Pat Smith,1,Oklahoma State,,Oregon,158,158,1992
+Tom Ryan,Shaon Fry,Tom Ryan,20,Shaon Fry,5,r16,,6:35,TF,Tom Ryan,2,Iowa,,Missouri,158,158,1992
+Kirk Wallman,Mike Marzetta,Kirk Wallman,7,Mike Marzetta,15,r16,,,MD,Mike Marzetta,,Iowa State,7,Minnesota,158,158,1992
+Ray Miller,Paul Casey,Ray Miller,9,Paul Casey,2,r16,,,DEC,Ray Miller,3,Arizona State,,Ohio University,158,158,1992
+Tim Wittman,Pete Welch,Tim Wittman,9,Pete Welch,6,r16,,,DEC,Tim Wittman,6,Penn State,11,North Carolina,158,158,1992
+Howard Langford,Scott Hovan,Howard Langford,10,Scott Hovan,13,r8,,,DEC,Scott Hovan,4,Tennessee-Chattanooga,5,Pittsburgh,158,158,1992
+Pat Smith,Mike Schyck,Pat Smith,8,Mike Schyck,3,r8,,,DEC,Pat Smith,1,Oklahoma State,8,Ohio State,158,158,1992
+Tom Ryan,Mike Marzetta,Tom Ryan,6,Mike Marzetta,2,r8,,,DEC,Tom Ryan,2,Iowa,7,Minnesota,158,158,1992
+Ray Miller,Tim Wittman,Ray Miller,5,Tim Wittman,3,r8,,,DEC,Ray Miller,3,Arizona State,6,Penn State,158,158,1992
+Scott Hovan,Pat Smith,Scott Hovan,2,Pat Smith,13,r4,,,MD,Pat Smith,5,Pittsburgh,1,Oklahoma State,158,158,1992
+Tom Ryan,Ray Miller,Tom Ryan,5,Ray Miller,6,r4,,,DEC,Ray Miller,2,Iowa,3,Arizona State,158,158,1992
+Pat Smith,Ray Miller,Pat Smith,3,Ray Miller,1,m1,,,DEC,Pat Smith,1,Oklahoma State,3,Arizona State,158,158,1992
+Jason Leonard,Mike Santamaria,Jason Leonard,7,Mike Santamaria,4,c1,,,DEC,Jason Leonard,,Oklahoma,,George Mason,158,158,1992
+Rick Hepp,Jamie Byrne,Rick Hepp,6,Jamie Byrne,7,c1,,,DEC,Jamie Byrne,,Lehigh,12,Northern Iowa,158,158,1992
+Matt Topham,Kemal Pegram,Matt Topham,8,Kemal Pegram,5,c1,,,DEC,Matt Topham,,Stanford,,Lock Haven,158,158,1992
+T.C. Dantzler,Darren Gustafson,T.C. Dantzler,2,Darren Gustafson,3,c1,,,DEC,Darren Gustafson,,Northern Illinois,,Oregon,158,158,1992
+Matt Lindland,Shaon Fry,Matt Lindland,3,Shaon Fry,6,c1,,,DEC,Shaon Fry,,Nebraska,,Missouri,158,158,1992
+Doug TerHark,Kirk Wallman,Doug TerHark,-2,Kirk Wallman,-1,c1,,1:02,F,Kirk Wallman,,California PA,,Iowa State,158,158,1992
+Mike New,Paul Casey,Mike New,10,Paul Casey,4,c1,,,DEC,Mike New,,Cornell,,Ohio University,158,158,1992
+Andy Leathers,Pete Welch,Andy Leathers,6,Pete Welch,7,c1,,,DEC,Pete Welch,,Boise State,11,North Carolina,158,158,1992
+Jason Leonard,Jamie Byrne,Jason Leonard,4,Jamie Byrne,6,c2,,,DEC,Jamie Byrne,,Oklahoma,12,Northern Iowa,158,158,1992
+Matt Topham,Darren Gustafson,Matt Topham,4,Darren Gustafson,2,c2,,,DEC,Matt Topham,,Stanford,,Oregon,158,158,1992
+Shaon Fry,Kirk Wallman,Shaon Fry,2,Kirk Wallman,5,c2,,,DEC,Kirk Wallman,,Missouri,,Iowa State,158,158,1992
+Mike New,Pete Welch,Mike New,12,Pete Welch,7,c2,,,DEC,Mike New,,Cornell,11,North Carolina,158,158,1992
+Jamie Byrne,Tim Wittman,Jamie Byrne,1,Tim Wittman,3,br,,,DEC,Tim Wittman,12,Northern Iowa,6,Penn State,158,158,1992
+Matt Topham,Mike Marzetta,Matt Topham,6,Mike Marzetta,8,br,,,DEC,Mike Marzetta,,Stanford,7,Minnesota,158,158,1992
+Kirk Wallman,Mike Schyck,Kirk Wallman,2,Mike Schyck,3,br,,,DEC,Mike Schyck,,Iowa State,8,Ohio State,158,158,1992
+Mike New,Howard Langford,Mike New,10,Howard Langford,18,br,,,MD,Howard Langford,,Cornell,4,Tennessee-Chattanooga,158,158,1992
+Tim Wittman,Mike Marzetta,Tim Wittman,6,Mike Marzetta,4,c4,,,DEC,Tim Wittman,6,Penn State,7,Minnesota,158,158,1992
+Mike Schyck,Howard Langford,Mike Schyck,-3,Howard Langford,-4,c4,,,DFT,Mike Schyck,8,Ohio State,4,Tennessee-Chattanooga,158,158,1992
+Tim Wittman,Scott Hovan,Tim Wittman,5,Scott Hovan,7,cs,,,DEC,Scott Hovan,6,Penn State,5,Pittsburgh,158,158,1992
+Mike Schyck,Tom Ryan,Mike Schyck,4,Tom Ryan,7,cs,,,DEC,Tom Ryan,8,Ohio State,2,Iowa,158,158,1992
+Tom Ryan,Scott Hovan,Tom Ryan,12,Scott Hovan,3,m3,,,MD,Tom Ryan,2,Iowa,5,Pittsburgh,158,158,1992
+Mike Schyck,Tim Wittman,Mike Schyck,8,Tim Wittman,2,m5,,,DEC,Mike Schyck,8,Ohio State,6,Penn State,158,158,1992
+Mike Marzetta,Howard Langford,Mike Marzetta,-3,Howard Langford,-4,m7,,,DFT,Mike Marzetta,7,Minnesota,4,Tennessee-Chattanooga,158,158,1992
+Scott Henry,Scott Petche,Scott Henry,11,Scott Petche,4,p1,,,DEC,Scott Henry,,Clarion,,Indiana,158,158,1992
+Pat Smith,T.C. Dantzler,Pat Smith,25,T.C. Dantzler,9,p1,,6:05,TF,Pat Smith,1,Oklahoma State,,Northern Illinois,158,158,1992
+T.C. Dantzler,Lou Cerchio,T.C. Dantzler,10,Lou Cerchio,4,cp1,,,DEC,T.C. Dantzler,,Northern Illinois,,Seton Hall,158,158,1992
+Dave Myers,Anthony DeFlumeri,Dave Myers,-1,Anthony DeFlumeri,-2,r32,,1:39,F,Dave Myers,12,Wyoming,,Seton Hall,167,167,1992
+Ron Coffel,Todd Chesbro,Ron Coffel,6,Todd Chesbro,11,r32,,,DEC,Todd Chesbro,,Lock Haven,5,Oklahoma State,167,167,1992
+Chris Kwortnik,Geoff Woodcock,Chris Kwortnik,6,Geoff Woodcock,3,r32,,,DEC,Chris Kwortnik,4,North Carolina State,,Illinois,167,167,1992
+Eric Unger,Rohan Gardner,Eric Unger,6,Rohan Gardner,5,r32,,,DEC,Eric Unger,,Kent State,,Northwestern,167,167,1992
+Jason Sexton,Roy Hall,Jason Sexton,3,Roy Hall,7,r32,,,DEC,Roy Hall,,Missouri,,Michigan State,167,167,1992
+John Gardner,Steve Hamilton,John Gardner,16,Steve Hamilton,31,r32,,7:00,TF,Steve Hamilton,,Clemson,1,Iowa State,167,167,1992
+Solomon Fleckman,Laszlo Molnar,Solomon Fleckman,4,Laszlo Molnar,2,r32,,,DEC,Solomon Fleckman,8,Lehigh,,Cal State-Fullerton,167,167,1992
+Dave Onorato,Billy Kumprey,Dave Onorato,-2,Billy Kumprey,-1,r32,,3:57,F,Billy Kumprey,,West Virginia,9,Marquette,167,167,1992
+Jason Spezzano,Trent Flack,Jason Spezzano,5,Trent Flack,21,r32,,4:07,TF,Trent Flack,,George Mason,10,Oregon State,167,167,1992
+Mark Reiland,Sean Gibbs,Mark Reiland,-1,Sean Gibbs,-2,r32,,3:56,F,Mark Reiland,7,Iowa,,Pittsburgh,167,167,1992
+Charlie Jones,Brian Malavar,Charlie Jones,2,Brian Malavar,0,r32,,,DEC,Charlie Jones,2,Purdue,,Cal State-Bakersfield,167,167,1992
+Ken Herceg,Corey Creech,Ken Herceg,5,Corey Creech,3,r32,,,DEC,Ken Herceg,,Bucknell,,Appalachian State,167,167,1992
+Chris Studer,Robert Edmonds,Chris Studer,11,Robert Edmonds,9,r32,,,DEC,Chris Studer,,Boston University,,Morgan State,167,167,1992
+Jamie Cummings,Dave Hart,Jamie Cummings,0,Dave Hart,7,r32,,,DEC,Dave Hart,,Navy,3,Penn State,167,167,1992
+John Harms,Tommy Robbins,John Harms,4,Tommy Robbins,2,r32,1,,DEC,John Harms,11,Wisconsin,,Nebraska,167,167,1992
+Shane Camera,Jacob Garcia,Shane Camera,3,Jacob Garcia,5,r32,1,,DEC,Jacob Garcia,6,North Carolina,,Army,167,167,1992
+Dave Myers,Todd Chesbro,Dave Myers,7,Todd Chesbro,11,r16,,,DEC,Todd Chesbro,12,Wyoming,5,Oklahoma State,167,167,1992
+Chris Kwortnik,Eric Unger,Chris Kwortnik,9,Eric Unger,3,r16,,,DEC,Chris Kwortnik,4,North Carolina State,,Kent State,167,167,1992
+Roy Hall,Steve Hamilton,Roy Hall,-2,Steve Hamilton,-1,r16,,3:48,F,Steve Hamilton,,Michigan State,1,Iowa State,167,167,1992
+Solomon Fleckman,Billy Kumprey,Solomon Fleckman,-2,Billy Kumprey,-1,r16,,4:33,F,Billy Kumprey,8,Lehigh,9,Marquette,167,167,1992
+Trent Flack,Mark Reiland,Trent Flack,3,Mark Reiland,16,r16,,,MD,Mark Reiland,10,Oregon State,7,Iowa,167,167,1992
+Charlie Jones,Ken Herceg,Charlie Jones,14,Ken Herceg,3,r16,,,MD,Charlie Jones,2,Purdue,,Bucknell,167,167,1992
+Chris Studer,Dave Hart,Chris Studer,3,Dave Hart,7,r16,,,DEC,Dave Hart,,Boston University,3,Penn State,167,167,1992
+John Harms,Jacob Garcia,John Harms,4,Jacob Garcia,6,r16,,,DEC,Jacob Garcia,11,Wisconsin,,Army,167,167,1992
+Todd Chesbro,Chris Kwortnik,Todd Chesbro,5,Chris Kwortnik,1,r8,,,DEC,Todd Chesbro,5,Oklahoma State,4,North Carolina State,167,167,1992
+Steve Hamilton,Billy Kumprey,Steve Hamilton,5,Billy Kumprey,2,r8,,,DEC,Steve Hamilton,1,Iowa State,9,Marquette,167,167,1992
+Mark Reiland,Charlie Jones,Mark Reiland,4,Charlie Jones,10,r8,,,DEC,Charlie Jones,7,Iowa,2,Purdue,167,167,1992
+Dave Hart,Jacob Garcia,Dave Hart,9,Jacob Garcia,0,r8,,,MD,Dave Hart,3,Penn State,,Army,167,167,1992
+Todd Chesbro,Steve Hamilton,Todd Chesbro,4,Steve Hamilton,2,r4,,,DEC,Todd Chesbro,5,Oklahoma State,1,Iowa State,167,167,1992
+Charlie Jones,Dave Hart,Charlie Jones,6,Dave Hart,4,r4,1,,DEC,Charlie Jones,2,Purdue,3,Penn State,167,167,1992
+Charlie Jones,Todd Chesbro,Charlie Jones,6,Todd Chesbro,5,m1,,,DEC,Charlie Jones,2,Purdue,5,Oklahoma State,167,167,1992
+Ron Coffel,Dave Myers,Ron Coffel,1,Dave Myers,3,c1,,,DEC,Dave Myers,,Lock Haven,12,Wyoming,167,167,1992
+Geoff Woodcock,Eric Unger,Geoff Woodcock,5,Eric Unger,7,c1,,,DEC,Eric Unger,,Illinois,,Kent State,167,167,1992
+John Gardner,Roy Hall,John Gardner,4,Roy Hall,6,c1,,,DEC,Roy Hall,,Clemson,,Michigan State,167,167,1992
+Dave Onorato,Solomon Fleckman,Dave Onorato,3,Solomon Fleckman,5,c1,,,DEC,Solomon Fleckman,,West Virginia,8,Lehigh,167,167,1992
+Sean Gibbs,Trent Flack,Sean Gibbs,-2,Trent Flack,-1,c1,,1:05,F,Trent Flack,,Pittsburgh,10,Oregon State,167,167,1992
+Brian Malavar,Ken Herceg,Brian Malavar,13,Ken Herceg,6,c1,,,DEC,Brian Malavar,,Cal State-Bakersfield,,Bucknell,167,167,1992
+Jamie Cummings,Chris Studer,Jamie Cummings,3,Chris Studer,2,c1,,,DEC,Jamie Cummings,,Navy,,Boston University,167,167,1992
+Shane Camera,John Harms,Shane Camera,3,John Harms,4,c1,,,DEC,John Harms,6,North Carolina,11,Wisconsin,167,167,1992
+Dave Myers,Eric Unger,Dave Myers,9,Eric Unger,7,c2,,,DEC,Dave Myers,12,Wyoming,,Kent State,167,167,1992
+Roy Hall,Solomon Fleckman,Roy Hall,3,Solomon Fleckman,5,c2,,,DEC,Solomon Fleckman,,Michigan State,8,Lehigh,167,167,1992
+Trent Flack,Brian Malavar,Trent Flack,8,Brian Malavar,5,c2,,,DEC,Trent Flack,10,Oregon State,,Cal State-Bakersfield,167,167,1992
+Jamie Cummings,John Harms,Jamie Cummings,3,John Harms,1,c2,,,DEC,Jamie Cummings,,Navy,11,Wisconsin,167,167,1992
+Dave Myers,Jacob Garcia,Dave Myers,8,Jacob Garcia,2,br,,,DEC,Dave Myers,12,Wyoming,,Army,167,167,1992
+Solomon Fleckman,Mark Reiland,Solomon Fleckman,5,Mark Reiland,3,br,,,DEC,Solomon Fleckman,8,Lehigh,7,Iowa,167,167,1992
+Trent Flack,Billy Kumprey,Trent Flack,10,Billy Kumprey,9,br,,,DEC,Trent Flack,10,Oregon State,9,Marquette,167,167,1992
+Jamie Cummings,Chris Kwortnik,Jamie Cummings,1,Chris Kwortnik,10,br,,,MD,Chris Kwortnik,,Navy,4,North Carolina State,167,167,1992
+Dave Myers,Solomon Fleckman,Dave Myers,3,Solomon Fleckman,9,c4,,,DEC,Solomon Fleckman,12,Wyoming,8,Lehigh,167,167,1992
+Trent Flack,Chris Kwortnik,Trent Flack,8,Chris Kwortnik,6,c4,1,,DEC,Trent Flack,10,Oregon State,4,North Carolina State,167,167,1992
+Solomon Fleckman,Steve Hamilton,Solomon Fleckman,5,Steve Hamilton,7,cs,1,,DEC,Steve Hamilton,8,Lehigh,1,Iowa State,167,167,1992
+Trent Flack,Dave Hart,Trent Flack,2,Dave Hart,12,cs,,,MD,Dave Hart,10,Oregon State,3,Penn State,167,167,1992
+Steve Hamilton,Dave Hart,Steve Hamilton,5,Dave Hart,3,m3,,,DEC,Steve Hamilton,1,Iowa State,3,Penn State,167,167,1992
+Solomon Fleckman,Trent Flack,Solomon Fleckman,-1,Trent Flack,-2,m5,,2:21,F,Solomon Fleckman,8,Lehigh,10,Oregon State,167,167,1992
+Chris Kwortnik,Dave Myers,Chris Kwortnik,5,Dave Myers,2,m7,,,DEC,Chris Kwortnik,4,North Carolina State,12,Wyoming,167,167,1992
+Corey Olson,Ethan Bosch,Corey Olson,-1,Ethan Bosch,-2,r32,,3:23,F,Corey Olson,5,Nebraska,,Syracuse,177,177,1992
+Dean Morrison,Tac Thomas,Dean Morrison,17,Tac Thomas,5,r32,,,MD,Dean Morrison,12,West Virginia,,Millersville,177,177,1992
+Mark Frushone,J.J. McGrew,Mark Frushone,-2,J.J. McGrew,-1,r32,,0:18,F,J.J. McGrew,,Central Connecticut,,Notre Dame,177,177,1992
+Bret Gustafson,Kyle Scrimgeour,Bret Gustafson,-1,Kyle Scrimgeour,-2,r32,,1:26,F,Bret Gustafson,4,Tennessee-Chattanooga,,Oklahoma,177,177,1992
+Matt Kreider,Rick Evans,Matt Kreider,6,Rick Evans,13,r32,,,DEC,Rick Evans,,Bloomsburg,,Brigham Young,177,177,1992
+Rich Powers,Dwayne Buth,Rich Powers,2,Dwayne Buth,18,r32,,6:31,TF,Dwayne Buth,1,Northern Iowa,,Cal State-Fullerton,177,177,1992
+Lanny Green,Paul Jackson,Lanny Green,15,Paul Jackson,5,r32,,,MD,Lanny Green,8,Michigan,,Boise State,177,177,1992
+Kyle Rackley,Eric Schwartz,Kyle Rackley,8,Eric Schwartz,4,r32,,,DEC,Kyle Rackley,9,Cornell,,Cal Poly-SLO,177,177,1992
+Matt Johnson,Mike Griswold,Matt Johnson,3,Mike Griswold,2,r32,,,DEC,Matt Johnson,2,Iowa State,,Wisconsin,177,177,1992
+Aaron Bruce,Matt White,Aaron Bruce,7,Matt White,10,r32,,,DEC,Matt White,,Liberty,,Penn State,177,177,1992
+Steve Williams,Ken Bauer,Steve Williams,2,Ken Bauer,1,r32,1,,DEC,Steve Williams,10,North Carolina State,,Edinboro,177,177,1992
+Kevin Vogel,Roger Williams,Kevin Vogel,5,Roger Williams,7,r32,,,DEC,Roger Williams,7,Central Michigan,,Northwestern,177,177,1992
+Kevin Randleman,Keith Turner,Kevin Randleman,-1,Keith Turner,-2,r32,,1:00,F,Kevin Randleman,3,Ohio State,,Clemson,177,177,1992
+Stan Banks,Travis Gittins,Stan Banks,9,Travis Gittins,18,r32,,,MD,Travis Gittins,,North Carolina,,Oklahoma State,177,177,1992
+Bart Chelesvig,Quincey Clark,Bart Chelesvig,20,Quincey Clark,5,r32,,6:28,TF,Bart Chelesvig,6,Iowa,,San Diego State,177,177,1992
+Bye,Greg Casamento,Bye,-4,Greg Casamento,-3,r32,,,DFT,Greg Casamento,,Bye,11,Boston University,177,177,1992
+Corey Olson,Dean Morrison,Corey Olson,-1,Dean Morrison,-2,r16,,6:25,F,Corey Olson,5,Nebraska,12,West Virginia,177,177,1992
+J.J. McGrew,Bret Gustafson,J.J. McGrew,4,Bret Gustafson,3,r16,,,DEC,J.J. McGrew,,Notre Dame,4,Tennessee-Chattanooga,177,177,1992
+Rick Evans,Rich Powers,Rick Evans,3,Rich Powers,13,r16,,,MD,Rich Powers,,Brigham Young,1,Northern Iowa,177,177,1992
+Lanny Green,Kyle Rackley,Lanny Green,6,Kyle Rackley,0,r16,,,DEC,Lanny Green,8,Michigan,9,Cornell,177,177,1992
+Matt Johnson,Matt White,Matt Johnson,1,Matt White,2,r16,1,,DEC,Matt White,2,Iowa State,,Penn State,177,177,1992
+Steve Williams,Roger Williams,Steve Williams,19,Roger Williams,4,r16,,7:00,TF,Steve Williams,10,North Carolina State,,Northwestern,177,177,1992
+Kevin Randleman,Travis Gittins,Kevin Randleman,-1,Travis Gittins,-2,r16,,0:42,F,Kevin Randleman,3,Ohio State,,Oklahoma State,177,177,1992
+Bart Chelesvig,Greg Casamento,Bart Chelesvig,8,Greg Casamento,3,r16,,,DEC,Bart Chelesvig,6,Iowa,11,Boston University,177,177,1992
+Corey Olson,J.J. McGrew,Corey Olson,-1,J.J. McGrew,-2,r8,,1:51,F,Corey Olson,5,Nebraska,,Notre Dame,177,177,1992
+Rich Powers,Lanny Green,Rich Powers,13,Lanny Green,7,r8,,,DEC,Rich Powers,1,Northern Iowa,8,Michigan,177,177,1992
+Matt White,Steve Williams,Matt White,6,Steve Williams,13,r8,,,DEC,Steve Williams,,Penn State,10,North Carolina State,177,177,1992
+Kevin Randleman,Bart Chelesvig,Kevin Randleman,3,Bart Chelesvig,2,r8,,,DEC,Kevin Randleman,3,Ohio State,6,Iowa,177,177,1992
+Corey Olson,Rich Powers,Corey Olson,18,Rich Powers,8,r4,,,MD,Corey Olson,5,Nebraska,1,Northern Iowa,177,177,1992
+Steve Williams,Kevin Randleman,Steve Williams,2,Kevin Randleman,4,r4,1,,DEC,Kevin Randleman,10,North Carolina State,3,Ohio State,177,177,1992
+Kevin Randleman,Corey Olson,Kevin Randleman,-1,Corey Olson,-2,m1,,3:39,F,Kevin Randleman,3,Ohio State,5,Nebraska,177,177,1992
+Ethan Bosch,Dean Morrison,Ethan Bosch,-2,Dean Morrison,-1,c1,,5:01,F,Dean Morrison,,Syracuse,12,West Virginia,177,177,1992
+Mark Frushone,Bret Gustafson,Mark Frushone,5,Bret Gustafson,3,c1,,,DEC,Mark Frushone,,Central Connecticut,4,Tennessee-Chattanooga,177,177,1992
+Dwayne Buth,Rick Evans,Dwayne Buth,10,Rick Evans,6,c1,,,DEC,Dwayne Buth,,Cal State-Fullerton,,Brigham Young,177,177,1992
+Paul Jackson,Kyle Rackley,Paul Jackson,11,Kyle Rackley,14,c1,,,DEC,Kyle Rackley,,Boise State,9,Cornell,177,177,1992
+Aaron Bruce,Matt Johnson,Aaron Bruce,5,Matt Johnson,6,c1,,,DEC,Matt Johnson,,Liberty,2,Iowa State,177,177,1992
+Ken Bauer,Roger Williams,Ken Bauer,4,Roger Williams,6,c1,1,,DEC,Roger Williams,,Edinboro,,Northwestern,177,177,1992
+Keith Turner,Travis Gittins,Keith Turner,1,Travis Gittins,4,c1,,,DEC,Travis Gittins,,Clemson,,Oklahoma State,177,177,1992
+Quincey Clark,Greg Casamento,Quincey Clark,7,Greg Casamento,3,c1,,,DEC,Quincey Clark,,San Diego State,11,Boston University,177,177,1992
+Dean Morrison,Mark Frushone,Dean Morrison,1,Mark Frushone,2,c2,,,DEC,Mark Frushone,12,West Virginia,,Central Connecticut,177,177,1992
+Dwayne Buth,Kyle Rackley,Dwayne Buth,3,Kyle Rackley,10,c2,,,DEC,Kyle Rackley,,Cal State-Fullerton,9,Cornell,177,177,1992
+Matt Johnson,Roger Williams,Matt Johnson,12,Roger Williams,4,c2,,,MD,Matt Johnson,2,Iowa State,,Northwestern,177,177,1992
+Travis Gittins,Quincey Clark,Travis Gittins,-2,Quincey Clark,-1,c2,,4:47,F,Quincey Clark,,Oklahoma State,,San Diego State,177,177,1992
+Mark Frushone,Bart Chelesvig,Mark Frushone,4,Bart Chelesvig,10,br,,,DEC,Bart Chelesvig,,Central Connecticut,6,Iowa,177,177,1992
+Kyle Rackley,Matt White,Kyle Rackley,1,Matt White,7,br,,,DEC,Matt White,9,Cornell,,Penn State,177,177,1992
+Matt Johnson,Lanny Green,Matt Johnson,3,Lanny Green,2,br,,,DEC,Matt Johnson,2,Iowa State,8,Michigan,177,177,1992
+Quincey Clark,J.J. McGrew,Quincey Clark,6,J.J. McGrew,5,br,,,DEC,Quincey Clark,,San Diego State,,Notre Dame,177,177,1992
+Bart Chelesvig,Matt White,Bart Chelesvig,13,Matt White,1,c4,,,MD,Bart Chelesvig,6,Iowa,,Penn State,177,177,1992
+Matt Johnson,Quincey Clark,Matt Johnson,5,Quincey Clark,4,c4,,,DEC,Matt Johnson,2,Iowa State,,San Diego State,177,177,1992
+Bart Chelesvig,Rich Powers,Bart Chelesvig,13,Rich Powers,5,cs,,,MD,Bart Chelesvig,6,Iowa,1,Northern Iowa,177,177,1992
+Matt Johnson,Steve Williams,Matt Johnson,6,Steve Williams,1,cs,,,DEC,Matt Johnson,2,Iowa State,10,North Carolina State,177,177,1992
+Bart Chelesvig,Matt Johnson,Bart Chelesvig,7,Matt Johnson,5,m3,1,,DEC,Bart Chelesvig,6,Iowa,2,Iowa State,177,177,1992
+Rich Powers,Steve Williams,Rich Powers,-1,Steve Williams,-2,m5,,1:33,F,Rich Powers,1,Northern Iowa,10,North Carolina State,177,177,1992
+Quincey Clark,Matt White,Quincey Clark,10,Matt White,2,m7,,,MD,Quincey Clark,,San Diego State,,Penn State,177,177,1992
+Tyrone Howard,Warren Osbourn,Tyrone Howard,3,Warren Osbourn,1,r32,,,DEC,Tyrone Howard,,Bloomsburg,,Tennessee-Chattanooga,190,190,1992
+Mark Kerr,Jeff Walter,Mark Kerr,7,Jeff Walter,2,r32,,,DEC,Mark Kerr,4,Syracuse,,Wisconsin,190,190,1992
+Andy Foster,Scott Williams,Andy Foster,6,Scott Williams,3,r32,,,DEC,Andy Foster,12,Oklahoma,,Clemson,190,190,1992
+Jeff Monson,Chris Nelson,Jeff Monson,7,Chris Nelson,9,r32,,,DEC,Chris Nelson,,Oregon State,5,Nebraska,190,190,1992
+Dave Malecek,Jeff Kloiber,Dave Malecek,7,Jeff Kloiber,4,r32,,,DEC,Dave Malecek,8,Northern Iowa,,Pittsburgh,190,190,1992
+Tom Storey,Bob Ferraro,Tom Storey,5,Bob Ferraro,4,r32,,,DEC,Tom Storey,,Navy,9,Bucknell,190,190,1992
+Ray Baldwin,Rex Holman,Ray Baldwin,3,Rex Holman,15,r32,,,MD,Rex Holman,,Slippery Rock,1,Ohio State,190,190,1992
+Ian Hearn,Mark Graham,Ian Hearn,3,Mark Graham,7,r32,,,DEC,Mark Graham,,Central Michigan,,Stanford,190,190,1992
+T.J. Wright,Matt Case,T.J. Wright,5,Matt Case,8,r32,,,DEC,Matt Case,,Army,10,Northwestern,190,190,1992
+John Curtis,Jassen Froehlich,John Curtis,4,Jassen Froehlich,2,r32,,,DEC,John Curtis,7,George Mason,,Cal State-Bakersfield,190,190,1992
+John Harrison,Randy Couture,John Harrison,6,Randy Couture,7,r32,,,DEC,Randy Couture,,Air Force,2,Oklahoma State,190,190,1992
+Todd Hartung,Jehad Hamdan,Todd Hartung,10,Jehad Hamdan,7,r32,,,DEC,Todd Hartung,,North Carolina,,Michigan,190,190,1992
+Stan Gress,Travis Fiser,Stan Gress,5,Travis Fiser,10,r32,,,DEC,Travis Fiser,,Eastern Illinois,3,Iowa,190,190,1992
+Dan Madson,Dale Budd,Dan Madson,4,Dale Budd,15,r32,,,MD,Dale Budd,,North Carolina State,,Lock Haven,190,190,1992
+Scott Myers,Dan Troupe,Scott Myers,1,Dan Troupe,7,r32,,,DEC,Dan Troupe,,Oregon,11,Iowa State,190,190,1992
+Chris Meaux,Adam Mariano,Chris Meaux,3,Adam Mariano,7,r32,,,DEC,Adam Mariano,,Boston University,6,Penn State,190,190,1992
+Tyrone Howard,Mark Kerr,Tyrone Howard,2,Mark Kerr,9,r16,,,DEC,Mark Kerr,,Bloomsburg,4,Syracuse,190,190,1992
+Andy Foster,Chris Nelson,Andy Foster,7,Chris Nelson,5,r16,,,DEC,Andy Foster,12,Oklahoma,5,Nebraska,190,190,1992
+Dave Malecek,Tom Storey,Dave Malecek,3,Tom Storey,4,r16,,,DEC,Tom Storey,8,Northern Iowa,,Navy,190,190,1992
+Rex Holman,Mark Graham,Rex Holman,-1,Mark Graham,-2,r16,,5:37,F,Rex Holman,1,Ohio State,,Stanford,190,190,1992
+Matt Case,John Curtis,Matt Case,0,John Curtis,2,r16,,,DEC,John Curtis,10,Northwestern,7,George Mason,190,190,1992
+Randy Couture,Todd Hartung,Randy Couture,7,Todd Hartung,2,r16,,,DEC,Randy Couture,2,Oklahoma State,,North Carolina,190,190,1992
+Travis Fiser,Dale Budd,Travis Fiser,5,Dale Budd,1,r16,,,DEC,Travis Fiser,3,Iowa,,Lock Haven,190,190,1992
+Dan Troupe,Adam Mariano,Dan Troupe,2,Adam Mariano,3,r16,,,DEC,Adam Mariano,11,Iowa State,6,Penn State,190,190,1992
+Mark Kerr,Andy Foster,Mark Kerr,5,Andy Foster,1,r8,,,DEC,Mark Kerr,4,Syracuse,12,Oklahoma,190,190,1992
+Tom Storey,Rex Holman,Tom Storey,4,Rex Holman,12,r8,,,MD,Rex Holman,,Navy,1,Ohio State,190,190,1992
+John Curtis,Randy Couture,John Curtis,4,Randy Couture,12,r8,,,MD,Randy Couture,7,George Mason,2,Oklahoma State,190,190,1992
+Travis Fiser,Adam Mariano,Travis Fiser,-1,Adam Mariano,-2,r8,1,9:18,F,Travis Fiser,3,Iowa,6,Penn State,190,190,1992
+Mark Kerr,Rex Holman,Mark Kerr,10,Rex Holman,6,r4,,,DEC,Mark Kerr,4,Syracuse,1,Ohio State,190,190,1992
+Randy Couture,Travis Fiser,Randy Couture,7,Travis Fiser,1,r4,,,DEC,Randy Couture,2,Oklahoma State,3,Iowa,190,190,1992
+Mark Kerr,Randy Couture,Mark Kerr,12,Randy Couture,4,m1,,,MD,Mark Kerr,4,Syracuse,2,Oklahoma State,190,190,1992
+Jeff Walter,Tyrone Howard,Jeff Walter,4,Tyrone Howard,1,c1,,,DEC,Jeff Walter,,Wisconsin,,Bloomsburg,190,190,1992
+Scott Williams,Chris Nelson,Scott Williams,-2,Chris Nelson,-1,c1,,4:27,F,Chris Nelson,,Clemson,5,Nebraska,190,190,1992
+Bob Ferraro,Dave Malecek,Bob Ferraro,0,Dave Malecek,5,c1,,,DEC,Dave Malecek,9,Bucknell,8,Northern Iowa,190,190,1992
+Ray Baldwin,Mark Graham,Ray Baldwin,4,Mark Graham,5,c1,,,DEC,Mark Graham,,Slippery Rock,,Stanford,190,190,1992
+Jassen Froehlich,Matt Case,Jassen Froehlich,5,Matt Case,8,c1,,,DEC,Matt Case,,Cal State-Bakersfield,10,Northwestern,190,190,1992
+John Harrison,Todd Hartung,John Harrison,1,Todd Hartung,4,c1,,,DEC,Todd Hartung,,Air Force,,North Carolina,190,190,1992
+Stan Gress,Dale Budd,Stan Gress,1,Dale Budd,5,c1,,,DEC,Dale Budd,,Eastern Illinois,,Lock Haven,190,190,1992
+Chris Meaux,Dan Troupe,Chris Meaux,2,Dan Troupe,12,c1,,,MD,Dan Troupe,,Boston University,11,Iowa State,190,190,1992
+Tyrone Howard,Chris Nelson,Tyrone Howard,3,Chris Nelson,5,c2,,,DEC,Chris Nelson,,Bloomsburg,5,Nebraska,190,190,1992
+Dave Malecek,Mark Graham,Dave Malecek,5,Mark Graham,4,c2,,,DEC,Dave Malecek,8,Northern Iowa,,Stanford,190,190,1992
+Matt Case,Todd Hartung,Matt Case,11,Todd Hartung,3,c2,,,MD,Matt Case,10,Northwestern,,North Carolina,190,190,1992
+Dale Budd,Dan Troupe,Dale Budd,2,Dan Troupe,3,c2,,,DEC,Dan Troupe,,Lock Haven,11,Iowa State,190,190,1992
+Chris Nelson,Adam Mariano,Chris Nelson,13,Adam Mariano,7,br,,,DEC,Chris Nelson,5,Nebraska,6,Penn State,190,190,1992
+Dave Malecek,John Curtis,Dave Malecek,5,John Curtis,11,br,,,DEC,John Curtis,8,Northern Iowa,7,George Mason,190,190,1992
+Matt Case,Tom Storey,Matt Case,8,Tom Storey,2,br,,,DEC,Matt Case,10,Northwestern,,Navy,190,190,1992
+Dan Troupe,Andy Foster,Dan Troupe,2,Andy Foster,3,br,,,DEC,Andy Foster,11,Iowa State,12,Oklahoma,190,190,1992
+Chris Nelson,John Curtis,Chris Nelson,11,John Curtis,8,c4,,,DEC,Chris Nelson,5,Nebraska,7,George Mason,190,190,1992
+Matt Case,Andy Foster,Matt Case,7,Andy Foster,3,c4,,,DEC,Matt Case,10,Northwestern,12,Oklahoma,190,190,1992
+Chris Nelson,Rex Holman,Chris Nelson,4,Rex Holman,11,cs,,,DEC,Rex Holman,5,Nebraska,1,Ohio State,190,190,1992
+Matt Case,Travis Fiser,Matt Case,3,Travis Fiser,2,cs,,,DEC,Matt Case,10,Northwestern,3,Iowa,190,190,1992
+Rex Holman,Matt Case,Rex Holman,14,Matt Case,2,m3,,,MD,Rex Holman,1,Ohio State,10,Northwestern,190,190,1992
+Travis Fiser,Chris Nelson,Travis Fiser,9,Chris Nelson,4,m5,,,DEC,Travis Fiser,3,Iowa,5,Nebraska,190,190,1992
+Andy Foster,John Curtis,Andy Foster,5,John Curtis,4,m7,,,DEC,Andy Foster,12,Oklahoma,7,George Mason,190,190,1992
+Jon Morris,Chris Maynor,Jon Morris,7,Chris Maynor,2,r32,,,DEC,Jon Morris,,Lehigh,,George Mason,275,275,1992
+Tom Osendorf,Kirk Mammen,Tom Osendorf,1,Kirk Mammen,6,r32,,,DEC,Kirk Mammen,,Cal State-Bakersfield,4,Oklahoma State,275,275,1992
+Mike Anderson,Adam Green,Mike Anderson,7,Adam Green,0,r32,,,DEC,Mike Anderson,5,Arizona State,,Pennsylvania,275,275,1992
+Don Whipp,Rulon Gardner,Don Whipp,6,Rulon Gardner,7,r32,,,DEC,Rulon Gardner,,Michigan State,12,Nebraska,275,275,1992
+Larock Benford,Seth Woodill,Larock Benford,7,Seth Woodill,4,r32,,,DEC,Larock Benford,8,Purdue,,Cal Poly-SLO,275,275,1992
+Ray Mendoza,Kevin Marriner,Ray Mendoza,-1,Kevin Marriner,-2,r32,,2:59,F,Ray Mendoza,9,Ohio State,,Central Connecticut,275,275,1992
+Javier Posa,Josh Feldman,Javier Posa,1,Josh Feldman,4,r32,,,DEC,Josh Feldman,,Oklahoma,,Virginia Tech,275,275,1992
+Justin Greenlee,Kurt Angle,Justin Greenlee,5,Kurt Angle,14,r32,,,MD,Kurt Angle,,Northern Iowa,1,Clarion,275,275,1992
+John Oostendorp,Larry Walker,John Oostendorp,-1,Larry Walker,-2,r32,,2:26,F,John Oostendorp,7,Iowa,,Lock Haven,275,275,1992
+Jeff Scherma,Lorenzo Neal,Jeff Scherma,1,Lorenzo Neal,4,r32,,,DEC,Lorenzo Neal,,Cleveland State,10,Fresno State,275,275,1992
+Sylvester Terkay,Chuck Weaver,Sylvester Terkay,-1,Chuck Weaver,-2,r32,,1:44,F,Sylvester Terkay,2,North Carolina State,,Notre Dame,275,275,1992
+Jeremy Lay,Darrick Green,Jeremy Lay,-1,Darrick Green,-2,r32,,2:55,F,Jeremy Lay,,Missouri,,Central Michigan,275,275,1992
+Dave Bell,Melvin Crosby,Dave Bell,4,Melvin Crosby,12,r32,,,MD,Melvin Crosby,,Boston University,,Appalachian State,275,275,1992
+Dan Hicks,Jamie Cutler,Dan Hicks,5,Jamie Cutler,9,r32,,,DEC,Jamie Cutler,,Navy,3,Iowa State,275,275,1992
+Perry Miller,Vito Maurici,Perry Miller,6,Vito Maurici,2,r32,,,DEC,Perry Miller,6,Pittsburgh,,Indiana,275,275,1992
+Marvin Hicks,Matt Willhite,Marvin Hicks,1,Matt Willhite,5,r32,,,DEC,Matt Willhite,,Delaware State,11,Oregon State,275,275,1992
+Jon Morris,Kirk Mammen,Jon Morris,9,Kirk Mammen,7,r16,,,DEC,Jon Morris,,Lehigh,4,Oklahoma State,275,275,1992
+Mike Anderson,Rulon Gardner,Mike Anderson,-1,Rulon Gardner,-2,r16,,5:51,F,Mike Anderson,5,Arizona State,12,Nebraska,275,275,1992
+Larock Benford,Ray Mendoza,Larock Benford,2,Ray Mendoza,4,r16,,,DEC,Ray Mendoza,8,Purdue,9,Ohio State,275,275,1992
+Josh Feldman,Kurt Angle,Josh Feldman,3,Kurt Angle,5,r16,,,DEC,Kurt Angle,,Virginia Tech,1,Clarion,275,275,1992
+John Oostendorp,Lorenzo Neal,John Oostendorp,6,Lorenzo Neal,3,r16,,,DEC,John Oostendorp,7,Iowa,10,Fresno State,275,275,1992
+Sylvester Terkay,Jeremy Lay,Sylvester Terkay,-1,Jeremy Lay,-2,r16,,1:51,F,Sylvester Terkay,2,North Carolina State,,Missouri,275,275,1992
+Melvin Crosby,Jamie Cutler,Melvin Crosby,2,Jamie Cutler,10,r16,,,MD,Jamie Cutler,,Appalachian State,3,Iowa State,275,275,1992
+Perry Miller,Matt Willhite,Perry Miller,5,Matt Willhite,1,r16,,,DEC,Perry Miller,6,Pittsburgh,11,Oregon State,275,275,1992
+Jon Morris,Mike Anderson,Jon Morris,0,Mike Anderson,4,r8,,,DEC,Mike Anderson,,Lehigh,5,Arizona State,275,275,1992
+Ray Mendoza,Kurt Angle,Ray Mendoza,3,Kurt Angle,8,r8,,,DEC,Kurt Angle,9,Ohio State,1,Clarion,275,275,1992
+John Oostendorp,Sylvester Terkay,John Oostendorp,-2,Sylvester Terkay,-1,r8,,1:13,F,Sylvester Terkay,7,Iowa,2,North Carolina State,275,275,1992
+Jamie Cutler,Perry Miller,Jamie Cutler,13,Perry Miller,4,r8,,,MD,Jamie Cutler,3,Iowa State,6,Pittsburgh,275,275,1992
+Mike Anderson,Kurt Angle,Mike Anderson,5,Kurt Angle,6,r4,,,DEC,Kurt Angle,5,Arizona State,1,Clarion,275,275,1992
+Sylvester Terkay,Jamie Cutler,Sylvester Terkay,-1,Jamie Cutler,-2,r4,,1:43,F,Sylvester Terkay,2,North Carolina State,3,Iowa State,275,275,1992
+Kurt Angle,Sylvester Terkay,Kurt Angle,3,Sylvester Terkay,2,m1,,,DEC,Kurt Angle,1,Clarion,2,North Carolina State,275,275,1992
+Chris Maynor,Kirk Mammen,Chris Maynor,3,Kirk Mammen,8,c1,,,DEC,Kirk Mammen,,George Mason,4,Oklahoma State,275,275,1992
+Adam Green,Rulon Gardner,Adam Green,0,Rulon Gardner,2,c1,,,DEC,Rulon Gardner,,Pennsylvania,12,Nebraska,275,275,1992
+Kevin Marriner,Larock Benford,Kevin Marriner,0,Larock Benford,11,c1,,,MD,Larock Benford,,Central Connecticut,8,Purdue,275,275,1992
+Justin Greenlee,Josh Feldman,Justin Greenlee,4,Josh Feldman,6,c1,,,DEC,Josh Feldman,,Northern Iowa,,Virginia Tech,275,275,1992
+Larry Walker,Lorenzo Neal,Larry Walker,3,Lorenzo Neal,12,c1,,,MD,Lorenzo Neal,,Lock Haven,10,Fresno State,275,275,1992
+Jeremy Lay,Chuck Weaver,Jeremy Lay,0,Chuck Weaver,3,c1,,,DEC,Chuck Weaver,,Missouri,,Notre Dame,275,275,1992
+Dan Hicks,Melvin Crosby,Dan Hicks,6,Melvin Crosby,5,c1,,,DEC,Dan Hicks,,Navy,,Appalachian State,275,275,1992
+Vito Maurici,Matt Willhite,Vito Maurici,15,Matt Willhite,0,c1,,,TF,Vito Maurici,,Indiana,11,Oregon State,275,275,1992
+Kirk Mammen,Rulon Gardner,Kirk Mammen,3,Rulon Gardner,2,c2,,,DEC,Kirk Mammen,4,Oklahoma State,12,Nebraska,275,275,1992
+Larock Benford,Josh Feldman,Larock Benford,11,Josh Feldman,0,c2,,,MD,Larock Benford,8,Purdue,,Virginia Tech,275,275,1992
+Lorenzo Neal,Chuck Weaver,Lorenzo Neal,6,Chuck Weaver,3,c2,,,DEC,Lorenzo Neal,10,Fresno State,,Notre Dame,275,275,1992
+Dan Hicks,Vito Maurici,Dan Hicks,0,Vito Maurici,2,c2,,,DEC,Vito Maurici,,Navy,,Indiana,275,275,1992
+Kirk Mammen,Perry Miller,Kirk Mammen,10,Perry Miller,3,br,,,DEC,Kirk Mammen,4,Oklahoma State,6,Pittsburgh,275,275,1992
+Larock Benford,John Oostendorp,Larock Benford,10,John Oostendorp,15,br,,,DEC,John Oostendorp,8,Purdue,7,Iowa,275,275,1992
+Lorenzo Neal,Ray Mendoza,Lorenzo Neal,11,Ray Mendoza,2,br,,,MD,Lorenzo Neal,10,Fresno State,9,Ohio State,275,275,1992
+Vito Maurici,Jon Morris,Vito Maurici,1,Jon Morris,4,br,,,DEC,Jon Morris,,Indiana,,Lehigh,275,275,1992
+Kirk Mammen,John Oostendorp,Kirk Mammen,4,John Oostendorp,7,c4,,,DEC,John Oostendorp,4,Oklahoma State,7,Iowa,275,275,1992
+Lorenzo Neal,Jon Morris,Lorenzo Neal,1,Jon Morris,2,c4,1,,DEC,Jon Morris,10,Fresno State,,Lehigh,275,275,1992
+John Oostendorp,Mike Anderson,John Oostendorp,-2,Mike Anderson,-1,cs,,5:15,F,Mike Anderson,7,Iowa,5,Arizona State,275,275,1992
+Jon Morris,Jamie Cutler,Jon Morris,5,Jamie Cutler,7,cs,,,DEC,Jamie Cutler,,Lehigh,3,Iowa State,275,275,1992
+Jamie Cutler,Mike Anderson,Jamie Cutler,3,Mike Anderson,2,m3,,,DEC,Jamie Cutler,3,Iowa State,5,Arizona State,275,275,1992
+John Oostendorp,Jon Morris,John Oostendorp,11,Jon Morris,1,m5,,,MD,John Oostendorp,7,Iowa,,Lehigh,275,275,1992
+Lorenzo Neal,Kirk Mammen,Lorenzo Neal,2,Kirk Mammen,1,m7,,,DEC,Lorenzo Neal,10,Fresno State,4,Oklahoma State,275,275,1992
