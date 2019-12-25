@@ -1,0 +1,641 @@
+weight,opponent_weight,wrestler_key,wrestler_score,opponent_key,opponent_score,_round,overtime,fall_time,result,winner,wrestler_seed,wrestler_school,opponent_seed,opponent_school,wrestler,opponent,year
+118,118,Tyson Rondeau,11,Tony Mendez,4,r32,,,DEC,Tyson Rondeau,,Cal Poly-SLO,,Millersville,Tyson Rondeau,Tony Mendez,1997
+118,118,Sheldon Thomas,17,Todd Beckerman,0,r32,,5:20,TF,Sheldon Thomas,1,Clarion,,Nebraska,Sheldon Thomas,Todd Beckerman,1997
+118,118,Tim Dernlan,6,Mike Mier,0,r32,,,DEC,Tim Dernlan,9,Purdue,,Oregon,Tim Dernlan,Mike Mier,1997
+118,118,Jeremy Hunter,5,Mike Kusick,0,r32,,,DEC,Jeremy Hunter,8,Penn State,,Lock Haven,Jeremy Hunter,Mike Kusick,1997
+118,118,Shane Valdez,-1,Jason Wartinger,-2,r32,,3:34,F,Shane Valdez,4,Oklahoma,,SUNY-Buffalo,Shane Valdez,Jason Wartinger,1997
+118,118,Chuckie Connor,11,Robert Chevez,1,r32,,,MD,Chuckie Connor,,North Carolina,,American,Chuckie Connor,Robert Chevez,1997
+118,118,Lee Pritts,5,Jeremy Sluyter,2,r32,,,DEC,Lee Pritts,12,Eastern Michigan,,East Stroudsburg,Lee Pritts,Jeremy Sluyter,1997
+118,118,Lindsay Durlacher,-3,Bye,-4,r32,,,DFT,Lindsay Durlacher,5,Illinois,,Bye,Lindsay Durlacher,Bye,1997
+118,118,Teague Moore,9,Chris Viola,7,r32,1,,DEC,Teague Moore,2,Oklahoma State,,Michigan,Teague Moore,Chris Viola,1997
+118,118,Sean Kim,-1,Angelo Zegarelli,-2,r32,,6:08,F,Sean Kim,,Fresno State,,West Virginia,Sean Kim,Angelo Zegarelli,1997
+118,118,Brandon Paulson,-1,Orlando DeCastroverde,-2,r32,,1:40,F,Brandon Paulson,10,Minnesota,,Cal State-Fullerton,Brandon Paulson,Orlando DeCastroverde,1997
+118,118,John Carvalheira,9,Tony Hairston,5,r32,,,DEC,John Carvalheira,7,Rider,,Appalachian State,John Carvalheira,Tony Hairston,1997
+118,118,Jesse Whitmer,17,Jose Enriquez,7,r32,,,MD,Jesse Whitmer,6,Iowa,,Brigham Young,Jesse Whitmer,Jose Enriquez,1997
+118,118,David Pena,3,Mike Kawamura,2,r32,,,DEC,David Pena,11,Eastern Illinois,,Arizona State,David Pena,Mike Kawamura,1997
+118,118,David Morgan,7,Cody Sanderson,3,r32,,,DEC,David Morgan,3,Michigan State,,Iowa State,David Morgan,Cody Sanderson,1997
+118,118,Bye,-4,Derrick Henson,-3,r32,,,DFT,Derrick Henson,,Bye,,Howard,Bye,Derrick Henson,1997
+118,118,Tyson Rondeau,3,Sheldon Thomas,6,r16,,,DEC,Sheldon Thomas,,Cal Poly-SLO,1,Clarion,Tyson Rondeau,Sheldon Thomas,1997
+118,118,Tim Dernlan,4,Jeremy Hunter,3,r16,1,,DEC,Tim Dernlan,9,Purdue,8,Penn State,Tim Dernlan,Jeremy Hunter,1997
+118,118,Shane Valdez,14,Chuckie Connor,5,r16,,,MD,Shane Valdez,4,Oklahoma,,North Carolina,Shane Valdez,Chuckie Connor,1997
+118,118,Lee Pritts,4,Lindsay Durlacher,7,r16,,,DEC,Lindsay Durlacher,12,Eastern Michigan,5,Illinois,Lee Pritts,Lindsay Durlacher,1997
+118,118,Teague Moore,9,Sean Kim,4,r16,,,DEC,Teague Moore,2,Oklahoma State,,Fresno State,Teague Moore,Sean Kim,1997
+118,118,Brandon Paulson,3,John Carvalheira,4,r16,,,DEC,John Carvalheira,10,Minnesota,7,Rider,Brandon Paulson,John Carvalheira,1997
+118,118,Jesse Whitmer,12,David Pena,4,r16,,,MD,Jesse Whitmer,6,Iowa,11,Eastern Illinois,Jesse Whitmer,David Pena,1997
+118,118,David Morgan,11,Derrick Henson,5,r16,,,DEC,David Morgan,3,Michigan State,,Howard,David Morgan,Derrick Henson,1997
+118,118,Sheldon Thomas,10,Tim Dernlan,0,r8,,,MD,Sheldon Thomas,1,Clarion,9,Purdue,Sheldon Thomas,Tim Dernlan,1997
+118,118,Shane Valdez,3,Lindsay Durlacher,4,r8,,,DEC,Lindsay Durlacher,4,Oklahoma,5,Illinois,Shane Valdez,Lindsay Durlacher,1997
+118,118,Teague Moore,5,John Carvalheira,3,r8,1,,DEC,Teague Moore,2,Oklahoma State,7,Rider,Teague Moore,John Carvalheira,1997
+118,118,Jesse Whitmer,7,David Morgan,4,r8,,,DEC,Jesse Whitmer,6,Iowa,3,Michigan State,Jesse Whitmer,David Morgan,1997
+118,118,Sheldon Thomas,3,Lindsay Durlacher,1,r4,,,DEC,Sheldon Thomas,1,Clarion,5,Illinois,Sheldon Thomas,Lindsay Durlacher,1997
+118,118,Teague Moore,7,Jesse Whitmer,10,r4,,,DEC,Jesse Whitmer,2,Oklahoma State,6,Iowa,Teague Moore,Jesse Whitmer,1997
+118,118,Lindsay Durlacher,4,Jesse Whitmer,5,m1,,,DEC,Jesse Whitmer,5,Illinois,6,Iowa,Lindsay Durlacher,Jesse Whitmer,1997
+118,118,Bye,-4,Cody Sanderson,-3,c0,,,DFT,Cody Sanderson,,Bye,,Iowa State,Bye,Cody Sanderson,1997
+118,118,Mike Kawamura,2,Jose Enriquez,1,c0,,,DEC,Mike Kawamura,,Arizona State,,Brigham Young,Mike Kawamura,Jose Enriquez,1997
+118,118,Tony Hairston,6,Orlando DeCastroverde,10,c0,,,DEC,Orlando DeCastroverde,,Appalachian State,,Cal State-Fullerton,Tony Hairston,Orlando DeCastroverde,1997
+118,118,Angelo Zegarelli,9,Chris Viola,20,c0,,,MD,Chris Viola,,West Virginia,,Michigan,Angelo Zegarelli,Chris Viola,1997
+118,118,Bye,-4,Jeremy Sluyter,-3,c0,,,DFT,Jeremy Sluyter,,Bye,,East Stroudsburg,Bye,Jeremy Sluyter,1997
+118,118,Robert Chevez,3,Jason Wartinger,7,c0,,,DEC,Jason Wartinger,,American,,SUNY-Buffalo,Robert Chevez,Jason Wartinger,1997
+118,118,Mike Kusick,7,Mike Mier,4,c0,,,DEC,Mike Kusick,,Lock Haven,,Oregon,Mike Kusick,Mike Mier,1997
+118,118,Todd Beckerman,5,Tony Mendez,3,c0,,,DEC,Todd Beckerman,,Nebraska,,Millersville,Todd Beckerman,Tony Mendez,1997
+118,118,Cody Sanderson,10,Chuckie Connor,1,c1,,,MD,Cody Sanderson,,Iowa State,,North Carolina,Cody Sanderson,Chuckie Connor,1997
+118,118,Mike Kawamura,11,Lee Pritts,9,c1,,,DEC,Mike Kawamura,,Arizona State,12,Eastern Michigan,Mike Kawamura,Lee Pritts,1997
+118,118,Orlando DeCastroverde,4,Tyson Rondeau,7,c1,,,DEC,Tyson Rondeau,,Cal State-Fullerton,,Cal Poly-SLO,Orlando DeCastroverde,Tyson Rondeau,1997
+118,118,Chris Viola,7,Jeremy Hunter,4,c1,,,DEC,Chris Viola,,Michigan,8,Penn State,Chris Viola,Jeremy Hunter,1997
+118,118,Jeremy Sluyter,2,David Pena,9,c1,,,DEC,David Pena,,East Stroudsburg,11,Eastern Illinois,Jeremy Sluyter,David Pena,1997
+118,118,Jason Wartinger,3,Derrick Henson,5,c1,,,DEC,Derrick Henson,,SUNY-Buffalo,,Howard,Jason Wartinger,Derrick Henson,1997
+118,118,Mike Kusick,7,Sean Kim,10,c1,,,DEC,Sean Kim,,Lock Haven,,Fresno State,Mike Kusick,Sean Kim,1997
+118,118,Todd Beckerman,3,Brandon Paulson,12,c1,,,MD,Brandon Paulson,,Nebraska,10,Minnesota,Todd Beckerman,Brandon Paulson,1997
+118,118,Cody Sanderson,-1,Mike Kawamura,-2,c2,,6:14,F,Cody Sanderson,,Iowa State,,Arizona State,Cody Sanderson,Mike Kawamura,1997
+118,118,Tyson Rondeau,5,Chris Viola,12,c2,,,DEC,Chris Viola,,Cal Poly-SLO,,Michigan,Tyson Rondeau,Chris Viola,1997
+118,118,David Pena,-1,Derrick Henson,-2,c2,,6:55,F,David Pena,11,Eastern Illinois,,Howard,David Pena,Derrick Henson,1997
+118,118,Sean Kim,3,Brandon Paulson,10,c2,,,DEC,Brandon Paulson,,Fresno State,10,Minnesota,Sean Kim,Brandon Paulson,1997
+118,118,Cody Sanderson,2,John Carvalheira,3,br,,,DEC,John Carvalheira,,Iowa State,7,Rider,Cody Sanderson,John Carvalheira,1997
+118,118,Chris Viola,5,David Morgan,10,br,,,DEC,David Morgan,,Michigan,3,Michigan State,Chris Viola,David Morgan,1997
+118,118,David Pena,5,Tim Dernlan,3,br,,,DEC,David Pena,11,Eastern Illinois,9,Purdue,David Pena,Tim Dernlan,1997
+118,118,Brandon Paulson,2,Shane Valdez,3,br,,,DEC,Shane Valdez,10,Minnesota,4,Oklahoma,Brandon Paulson,Shane Valdez,1997
+118,118,John Carvalheira,-2,David Morgan,-1,c4,,5:30,F,David Morgan,7,Rider,3,Michigan State,John Carvalheira,David Morgan,1997
+118,118,David Pena,4,Shane Valdez,11,c4,,,DEC,Shane Valdez,11,Eastern Illinois,4,Oklahoma,David Pena,Shane Valdez,1997
+118,118,David Morgan,2,Sheldon Thomas,5,cs,,,DEC,Sheldon Thomas,3,Michigan State,1,Clarion,David Morgan,Sheldon Thomas,1997
+118,118,Shane Valdez,6,Teague Moore,5,cs,1,,DEC,Shane Valdez,4,Oklahoma,2,Oklahoma State,Shane Valdez,Teague Moore,1997
+118,118,Sheldon Thomas,8,Teague Moore,4,m3,,,DEC,Sheldon Thomas,1,Clarion,2,Oklahoma State,Sheldon Thomas,Teague Moore,1997
+118,118,David Morgan,9,Shane Valdez,3,m5,,,DEC,David Morgan,3,Michigan State,4,Oklahoma,David Morgan,Shane Valdez,1997
+118,118,John Carvalheira,5,David Pena,3,m7,1,,DEC,John Carvalheira,7,Rider,11,Eastern Illinois,John Carvalheira,David Pena,1997
+126,126,Zach Zimmerer,12,Scott Murray,3,r32,,,MD,Zach Zimmerer,,Stanford,,Northern Iowa,Zach Zimmerer,Scott Murray,1997
+126,126,Steve Garland,8,Dwight Hinson,15,r32,,,DEC,Dwight Hinson,,Virginia,1,Iowa State,Steve Garland,Dwight Hinson,1997
+126,126,Dane Valdez,-1,Francky Francois,-2,r32,,4:30,F,Dane Valdez,8,Oklahoma,,Delaware State,Dane Valdez,Francky Francois,1997
+126,126,Micah Hey,-2,Jeramie Welder,-1,r32,,1:21,F,Jeramie Welder,,Northwestern,9,Nebraska,Micah Hey,Jeramie Welder,1997
+126,126,Coby Wright,4,Rob Loper,2,r32,,,DEC,Coby Wright,5,Cal State-Bakersfield,,Pittsburgh,Coby Wright,Rob Loper,1997
+126,126,Terry Showalter,7,Carl Perry,5,r32,1,,DEC,Terry Showalter,,Lock Haven,12,Illinois,Terry Showalter,Carl Perry,1997
+126,126,Joe Catalanotto,5,Jake Whisenhunt,11,r32,,,DEC,Jake Whisenhunt,,Hofstra,,Oregon State,Joe Catalanotto,Jake Whisenhunt,1997
+126,126,Chris Heckel,3,Mike Mena,11,r32,,,MD,Mike Mena,,Duke,4,Iowa,Chris Heckel,Mike Mena,1997
+126,126,John Noble,7,Brett Tullo,8,r32,,,DEC,Brett Tullo,,Ohio University,10,Bloomsburg,John Noble,Brett Tullo,1997
+126,126,Sean Shea,3,Willie Carpenter,18,r32,,7:00,TF,Willie Carpenter,,George Mason,7,Brown,Sean Shea,Willie Carpenter,1997
+126,126,Jason Betz,12,John Kelly,6,r32,,,DEC,Jason Betz,,Penn State,,Brigham Young,Jason Betz,John Kelly,1997
+126,126,Eric Guerrero,13,C.C. Fisher,1,r32,,,MD,Eric Guerrero,2,Oklahoma State,,North Carolina,Eric Guerrero,C.C. Fisher,1997
+126,126,Nick Zinkin,5,Anthony Sorantino,6,r32,,,DEC,Anthony Sorantino,,Fresno State,,North Carolina State,Nick Zinkin,Anthony Sorantino,1997
+126,126,Eric Jetton,23,Bob Hanson,8,r32,,6:51,TF,Eric Jetton,3,Wisconsin,,Syracuse,Eric Jetton,Bob Hanson,1997
+126,126,Shawn Ford,12,Jason Hayes,5,r32,,,DEC,Shawn Ford,6,Arizona State,,Purdue,Shawn Ford,Jason Hayes,1997
+126,126,Pat Connors,11,David Hopper,2,r32,,,MD,Pat Connors,11,Minnesota,,Appalachian State,Pat Connors,David Hopper,1997
+126,126,Zach Zimmerer,5,Dwight Hinson,11,r16,,,DEC,Dwight Hinson,,Stanford,1,Iowa State,Zach Zimmerer,Dwight Hinson,1997
+126,126,Dane Valdez,4,Jeramie Welder,3,r16,,,DEC,Dane Valdez,8,Oklahoma,9,Nebraska,Dane Valdez,Jeramie Welder,1997
+126,126,Coby Wright,5,Terry Showalter,13,r16,,,MD,Terry Showalter,5,Cal State-Bakersfield,,Lock Haven,Coby Wright,Terry Showalter,1997
+126,126,Jake Whisenhunt,7,Mike Mena,15,r16,,,MD,Mike Mena,,Oregon State,4,Iowa,Jake Whisenhunt,Mike Mena,1997
+126,126,Brett Tullo,3,Willie Carpenter,5,r16,,,DEC,Willie Carpenter,10,Bloomsburg,7,Brown,Brett Tullo,Willie Carpenter,1997
+126,126,Jason Betz,4,Eric Guerrero,13,r16,,,MD,Eric Guerrero,,Penn State,2,Oklahoma State,Jason Betz,Eric Guerrero,1997
+126,126,Anthony Sorantino,3,Eric Jetton,18,r16,,6:41,TF,Eric Jetton,,North Carolina State,3,Wisconsin,Anthony Sorantino,Eric Jetton,1997
+126,126,Shawn Ford,1,Pat Connors,3,r16,1,,DEC,Pat Connors,6,Arizona State,11,Minnesota,Shawn Ford,Pat Connors,1997
+126,126,Dwight Hinson,3,Dane Valdez,2,r8,,,DEC,Dwight Hinson,1,Iowa State,8,Oklahoma,Dwight Hinson,Dane Valdez,1997
+126,126,Terry Showalter,1,Mike Mena,3,r8,,,DEC,Mike Mena,,Lock Haven,4,Iowa,Terry Showalter,Mike Mena,1997
+126,126,Willie Carpenter,4,Eric Guerrero,10,r8,,,DEC,Eric Guerrero,7,Brown,2,Oklahoma State,Willie Carpenter,Eric Guerrero,1997
+126,126,Eric Jetton,2,Pat Connors,1,r8,,,DEC,Eric Jetton,3,Wisconsin,11,Minnesota,Eric Jetton,Pat Connors,1997
+126,126,Dwight Hinson,3,Mike Mena,4,r4,,,DEC,Mike Mena,1,Iowa State,4,Iowa,Dwight Hinson,Mike Mena,1997
+126,126,Eric Guerrero,11,Eric Jetton,6,r4,,,DEC,Eric Guerrero,2,Oklahoma State,3,Wisconsin,Eric Guerrero,Eric Jetton,1997
+126,126,Mike Mena,2,Eric Guerrero,3,m1,,,DEC,Eric Guerrero,4,Iowa,2,Oklahoma State,Mike Mena,Eric Guerrero,1997
+126,126,David Hopper,2,Jason Hayes,6,c0,,,DEC,Jason Hayes,,Appalachian State,,Purdue,David Hopper,Jason Hayes,1997
+126,126,Bob Hanson,2,Nick Zinkin,3,c0,,,DEC,Nick Zinkin,,Syracuse,,Fresno State,Bob Hanson,Nick Zinkin,1997
+126,126,C.C. Fisher,8,John Kelly,11,c0,,,DEC,John Kelly,,North Carolina,,Brigham Young,C.C. Fisher,John Kelly,1997
+126,126,Sean Shea,-2,John Noble,-1,c0,,2:57,F,John Noble,,George Mason,,Ohio University,Sean Shea,John Noble,1997
+126,126,Chris Heckel,-3,Joe Catalanotto,-4,c0,,,DFT,Chris Heckel,,Duke,,Hofstra,Chris Heckel,Joe Catalanotto,1997
+126,126,Carl Perry,-4,Rob Loper,-3,c0,,,DFT,Rob Loper,12,Illinois,,Pittsburgh,Carl Perry,Rob Loper,1997
+126,126,Micah Hey,2,Francky Francois,1,c0,,,DEC,Micah Hey,,Northwestern,,Delaware State,Micah Hey,Francky Francois,1997
+126,126,Steve Garland,2,Scott Murray,12,c0,,,MD,Scott Murray,,Virginia,,Northern Iowa,Steve Garland,Scott Murray,1997
+126,126,Jason Hayes,1,Coby Wright,5,c1,,,DEC,Coby Wright,,Purdue,5,Cal State-Bakersfield,Jason Hayes,Coby Wright,1997
+126,126,Nick Zinkin,2,Jake Whisenhunt,7,c1,,,DEC,Jake Whisenhunt,,Fresno State,,Oregon State,Nick Zinkin,Jake Whisenhunt,1997
+126,126,John Kelly,3,Zach Zimmerer,6,c1,,,DEC,Zach Zimmerer,,Brigham Young,,Stanford,John Kelly,Zach Zimmerer,1997
+126,126,John Noble,6,Jeramie Welder,2,c1,,,DEC,John Noble,,Ohio University,9,Nebraska,John Noble,Jeramie Welder,1997
+126,126,Chris Heckel,8,Anthony Sorantino,5,c1,,,DEC,Chris Heckel,,Duke,,North Carolina State,Chris Heckel,Anthony Sorantino,1997
+126,126,Rob Loper,8,Shawn Ford,6,c1,1,,DEC,Rob Loper,,Pittsburgh,6,Arizona State,Rob Loper,Shawn Ford,1997
+126,126,Micah Hey,3,Brett Tullo,10,c1,,,DEC,Brett Tullo,,Northwestern,,Oregon State,Micah Hey,Brett Tullo,1997
+126,126,Scott Murray,2,Jason Betz,11,c1,,,MD,Jason Betz,,Northern Iowa,,Penn State,Scott Murray,Jason Betz,1997
+126,126,Coby Wright,6,Jake Whisenhunt,0,c2,,,DEC,Coby Wright,5,Cal State-Bakersfield,,Oregon State,Coby Wright,Jake Whisenhunt,1997
+126,126,Zach Zimmerer,5,John Noble,12,c2,,,DEC,John Noble,,Stanford,,Ohio University,Zach Zimmerer,John Noble,1997
+126,126,Chris Heckel,5,Rob Loper,6,c2,,,DEC,Rob Loper,,Duke,,Pittsburgh,Chris Heckel,Rob Loper,1997
+126,126,Brett Tullo,3,Jason Betz,4,c2,,,DEC,Jason Betz,10,Bloomsburg,,Penn State,Brett Tullo,Jason Betz,1997
+126,126,Coby Wright,4,Willie Carpenter,2,br,,,DEC,Coby Wright,5,Cal State-Bakersfield,7,Brown,Coby Wright,Willie Carpenter,1997
+126,126,John Noble,3,Pat Connors,5,br,,,DEC,Pat Connors,,Ohio University,11,Minnesota,John Noble,Pat Connors,1997
+126,126,Rob Loper,1,Dane Valdez,3,br,,,DEC,Dane Valdez,,Pittsburgh,8,Oklahoma,Rob Loper,Dane Valdez,1997
+126,126,Jason Betz,3,Terry Showalter,4,br,,,DEC,Terry Showalter,,Penn State,,Lock Haven,Jason Betz,Terry Showalter,1997
+126,126,Coby Wright,5,Pat Connors,4,c4,,,DEC,Coby Wright,5,Cal State-Bakersfield,11,Minnesota,Coby Wright,Pat Connors,1997
+126,126,Dane Valdez,7,Terry Showalter,8,c4,,,DEC,Terry Showalter,8,Oklahoma,,Lock Haven,Dane Valdez,Terry Showalter,1997
+126,126,Coby Wright,1,Dwight Hinson,5,cs,,,DEC,Dwight Hinson,5,Cal State-Bakersfield,1,Iowa State,Coby Wright,Dwight Hinson,1997
+126,126,Terry Showalter,0,Eric Jetton,15,cs,,4:38,TF,Eric Jetton,,Lock Haven,3,Wisconsin,Terry Showalter,Eric Jetton,1997
+126,126,Eric Jetton,5,Dwight Hinson,3,m3,1,,DEC,Eric Jetton,3,Wisconsin,1,Iowa State,Eric Jetton,Dwight Hinson,1997
+126,126,Coby Wright,5,Terry Showalter,1,m5,,,DEC,Coby Wright,5,Cal State-Bakersfield,,Lock Haven,Coby Wright,Terry Showalter,1997
+126,126,Dane Valdez,4,Pat Connors,3,m7,,,DEC,Dane Valdez,8,Oklahoma,11,Minnesota,Dane Valdez,Pat Connors,1997
+134,134,Sean O'Hara,4,Ed Schillig,13,r32,,,MD,Ed Schillig,9,Pennsylvania,,Ohio University,Sean O'Hara,Ed Schillig,1997
+134,134,Jeff Bucher,2,Jason Nase,1,r32,,,DEC,Jeff Bucher,8,Ohio State,,Rider,Jeff Bucher,Jason Nase,1997
+134,134,Mark Ironside,-1,John Wells,-2,r32,,4:07,F,Mark Ironside,1,Iowa,,Eastern Illinois,Mark Ironside,John Wells,1997
+134,134,Chris Marshall,10,Jason Mutarelli,6,r32,,,DEC,Chris Marshall,,Clarion,,Virginia,Chris Marshall,Jason Mutarelli,1997
+134,134,Troy Marr,6,Joey Heckel,4,r32,,,DEC,Troy Marr,12,Minnesota,,Arizona State,Troy Marr,Joey Heckel,1997
+134,134,James Guzzio,14,Ed Hockenberry,3,r32,,,MD,James Guzzio,5,Maryland,,Bloomsburg,James Guzzio,Ed Hockenberry,1997
+134,134,Carl Keske,5,Trevor Elliott,3,r32,,,DEC,Carl Keske,4,Cornell,,Indiana,Carl Keske,Trevor Elliott,1997
+134,134,Erik Smith,-3,Bye,-4,r32,,,DFT,Erik Smith,,Appalachian State,,Bye,Erik Smith,Bye,1997
+134,134,Brad Canoyer,4,Jason LaMotta,6,r32,1,,DEC,Jason LaMotta,7,Nebraska,,North Carolina,Brad Canoyer,Jason LaMotta,1997
+134,134,Adam Mickiewicz,4,Tony Siebert,3,r32,,,DEC,Adam Mickiewicz,10,Virginia Military,,Illinois,Adam Mickiewicz,Tony Siebert,1997
+134,134,Jason Grant,3,Biff Walizer,7,r32,,,DEC,Biff Walizer,,George Mason,,Penn State,Jason Grant,Biff Walizer,1997
+134,134,Steven Schmidt,11,Mark Perryman,0,r32,,,MD,Steven Schmidt,2,Oklahoma State,,Cal Poly-SLO,Steven Schmidt,Mark Perryman,1997
+134,134,Yero Washington,16,John Klessinger,4,r32,,,MD,Yero Washington,3,Fresno State,,Millersville,Yero Washington,John Klessinger,1997
+134,134,Bo Eubanks,0,Chad Jesko,6,r32,,,DEC,Chad Jesko,,Oklahoma,,Pittsburgh,Bo Eubanks,Chad Jesko,1997
+134,134,Emilio Nardone,11,Mark Beebe,1,r32,,,MD,Emilio Nardone,11,Seton Hall,,Wisconsin,Emilio Nardone,Mark Beebe,1997
+134,134,Bye,-4,Jeremy Ensrud,-3,r32,,,DFT,Jeremy Ensrud,,Bye,6,Oregon,Bye,Jeremy Ensrud,1997
+134,134,Ed Schillig,5,Jeff Bucher,7,r16,1,,DEC,Jeff Bucher,,Ohio University,8,Ohio State,Ed Schillig,Jeff Bucher,1997
+134,134,Mark Ironside,19,Chris Marshall,9,r16,,,MD,Mark Ironside,1,Iowa,,Clarion,Mark Ironside,Chris Marshall,1997
+134,134,Troy Marr,0,James Guzzio,7,r16,,,DEC,James Guzzio,12,Minnesota,5,Maryland,Troy Marr,James Guzzio,1997
+134,134,Carl Keske,2,Erik Smith,8,r16,,,DEC,Erik Smith,4,Cornell,,Appalachian State,Carl Keske,Erik Smith,1997
+134,134,Jason LaMotta,2,Adam Mickiewicz,4,r16,,,DEC,Adam Mickiewicz,,North Carolina,10,Virginia Military,Jason LaMotta,Adam Mickiewicz,1997
+134,134,Biff Walizer,1,Steven Schmidt,4,r16,,,DEC,Steven Schmidt,,Penn State,2,Oklahoma State,Biff Walizer,Steven Schmidt,1997
+134,134,Yero Washington,11,Chad Jesko,4,r16,,,DEC,Yero Washington,3,Fresno State,,Pittsburgh,Yero Washington,Chad Jesko,1997
+134,134,Emilio Nardone,-2,Jeremy Ensrud,-1,r16,,2:51,F,Jeremy Ensrud,11,Seton Hall,6,Oregon,Emilio Nardone,Jeremy Ensrud,1997
+134,134,Jeff Bucher,8,Mark Ironside,9,r8,,,DEC,Mark Ironside,8,Ohio State,1,Iowa,Jeff Bucher,Mark Ironside,1997
+134,134,James Guzzio,3,Erik Smith,2,r8,,,DEC,James Guzzio,5,Maryland,,Appalachian State,James Guzzio,Erik Smith,1997
+134,134,Adam Mickiewicz,1,Steven Schmidt,4,r8,,,DEC,Steven Schmidt,10,Virginia Military,2,Oklahoma State,Adam Mickiewicz,Steven Schmidt,1997
+134,134,Yero Washington,5,Jeremy Ensrud,7,r8,,,DEC,Jeremy Ensrud,3,Fresno State,6,Oregon,Yero Washington,Jeremy Ensrud,1997
+134,134,Mark Ironside,8,James Guzzio,4,r4,,,DEC,Mark Ironside,1,Iowa,5,Maryland,Mark Ironside,James Guzzio,1997
+134,134,Steven Schmidt,9,Jeremy Ensrud,6,r4,,,DEC,Steven Schmidt,2,Oklahoma State,6,Oregon,Steven Schmidt,Jeremy Ensrud,1997
+134,134,Mark Ironside,10,Steven Schmidt,4,m1,,,DEC,Mark Ironside,1,Iowa,2,Oklahoma State,Mark Ironside,Steven Schmidt,1997
+134,134,Bye,-4,Mark Beebe,-3,c0,,,DFT,Mark Beebe,,Bye,,Wisconsin,Bye,Mark Beebe,1997
+134,134,Bo Eubanks,7,John Klessinger,3,c0,,,DEC,Bo Eubanks,,Oklahoma,,Millersville,Bo Eubanks,John Klessinger,1997
+134,134,Mark Perryman,-2,Jason Grant,-1,c0,,6:51,F,Jason Grant,,Cal Poly-SLO,,George Mason,Mark Perryman,Jason Grant,1997
+134,134,Tony Siebert,3,Brad Canoyer,10,c0,,,DEC,Brad Canoyer,,Illinois,7,Nebraska,Tony Siebert,Brad Canoyer,1997
+134,134,Bye,-4,Trevor Elliott,-3,c0,,,DFT,Trevor Elliott,,Bye,,Indiana,Bye,Trevor Elliott,1997
+134,134,Ed Hockenberry,2,Joey Heckel,6,c0,,,DEC,Joey Heckel,,Bloomsburg,,Arizona State,Ed Hockenberry,Joey Heckel,1997
+134,134,Jason Mutarelli,12,John Wells,4,c0,,,MD,Jason Mutarelli,,Virginia,,Eastern Illinois,Jason Mutarelli,John Wells,1997
+134,134,Jason Nase,8,Sean O'Hara,5,c0,,,DEC,Jason Nase,,Rider,9,Pennsylvania,Jason Nase,Sean O'Hara,1997
+134,134,Mark Beebe,5,Troy Marr,7,c1,,,DEC,Troy Marr,,Wisconsin,12,Minnesota,Mark Beebe,Troy Marr,1997
+134,134,Bo Eubanks,0,Carl Keske,15,c1,,4:55,TF,Carl Keske,,Oklahoma,4,Cornell,Bo Eubanks,Carl Keske,1997
+134,134,Jason Grant,5,Ed Schillig,2,c1,,,DEC,Jason Grant,,George Mason,,Ohio University,Jason Grant,Ed Schillig,1997
+134,134,Brad Canoyer,4,Chris Marshall,3,c1,,,DEC,Brad Canoyer,7,Nebraska,,Clarion,Brad Canoyer,Chris Marshall,1997
+134,134,Trevor Elliott,1,Chad Jesko,5,c1,,,DEC,Chad Jesko,,Indiana,,Pittsburgh,Trevor Elliott,Chad Jesko,1997
+134,134,Joey Heckel,6,Emilio Nardone,3,c1,,,DEC,Joey Heckel,,Arizona State,11,Seton Hall,Joey Heckel,Emilio Nardone,1997
+134,134,Jason Mutarelli,14,Jason LaMotta,3,c1,,,MD,Jason Mutarelli,,Virginia,,North Carolina,Jason Mutarelli,Jason LaMotta,1997
+134,134,Jason Nase,5,Biff Walizer,4,c1,1,,DEC,Jason Nase,,Rider,,Penn State,Jason Nase,Biff Walizer,1997
+134,134,Troy Marr,4,Carl Keske,9,c2,,,DEC,Carl Keske,12,Minnesota,4,Cornell,Troy Marr,Carl Keske,1997
+134,134,Jason Grant,3,Brad Canoyer,11,c2,,,MD,Brad Canoyer,,George Mason,7,Nebraska,Jason Grant,Brad Canoyer,1997
+134,134,Chad Jesko,3,Joey Heckel,4,c2,,,DEC,Joey Heckel,,Pittsburgh,,Arizona State,Chad Jesko,Joey Heckel,1997
+134,134,Jason Mutarelli,0,Jason Nase,8,c2,,,MD,Jason Nase,,Virginia,,Rider,Jason Mutarelli,Jason Nase,1997
+134,134,Carl Keske,1,Adam Mickiewicz,0,br,,,DEC,Carl Keske,4,Cornell,10,Virginia Military,Carl Keske,Adam Mickiewicz,1997
+134,134,Brad Canoyer,-2,Yero Washington,-1,br,,2:04,F,Yero Washington,7,Nebraska,3,Fresno State,Brad Canoyer,Yero Washington,1997
+134,134,Joey Heckel,3,Jeff Bucher,2,br,,,DEC,Joey Heckel,,Arizona State,8,Ohio State,Joey Heckel,Jeff Bucher,1997
+134,134,Jason Nase,3,Erik Smith,1,br,1,,DEC,Jason Nase,,Rider,,Appalachian State,Jason Nase,Erik Smith,1997
+134,134,Carl Keske,3,Yero Washington,9,c4,,,DEC,Yero Washington,4,Cornell,3,Fresno State,Carl Keske,Yero Washington,1997
+134,134,Joey Heckel,4,Jason Nase,2,c4,,,DEC,Joey Heckel,,Arizona State,,Rider,Joey Heckel,Jason Nase,1997
+134,134,Yero Washington,10,James Guzzio,8,cs,1,,DEC,Yero Washington,3,Fresno State,5,Maryland,Yero Washington,James Guzzio,1997
+134,134,Joey Heckel,-2,Jeremy Ensrud,-1,cs,,3:39,F,Jeremy Ensrud,,Arizona State,6,Oregon,Joey Heckel,Jeremy Ensrud,1997
+134,134,Yero Washington,-1,Jeremy Ensrud,-2,m3,,4:36,F,Yero Washington,3,Fresno State,6,Oregon,Yero Washington,Jeremy Ensrud,1997
+134,134,James Guzzio,7,Joey Heckel,6,m5,,,DEC,James Guzzio,5,Maryland,,Arizona State,James Guzzio,Joey Heckel,1997
+134,134,Carl Keske,3,Jason Nase,1,m7,,,DEC,Carl Keske,4,Cornell,,Rider,Carl Keske,Jason Nase,1997
+142,142,Chris Ayres,13,Trey Burlingame,3,r32,,,MD,Chris Ayres,,Lehigh,,North Carolina-Greensboro,Chris Ayres,Trey Burlingame,1997
+142,142,Cary Kolat,-1,Oliver Salud,-2,r32,,1:45,F,Cary Kolat,1,Lock Haven,,California-Davis,Cary Kolat,Oliver Salud,1997
+142,142,Clint Musser,5,Beau Weiner,6,r32,1,,DEC,Beau Weiner,9,Penn State,,Stanford,Clint Musser,Beau Weiner,1997
+142,142,Brett Matter,7,Tim Stringer,0,r32,,,DEC,Brett Matter,8,Pennsylvania,,Eastern Illinois,Brett Matter,Tim Stringer,1997
+142,142,Tracy Brown,1,Tom Tomeo,3,r32,1,,DEC,Tom Tomeo,,Arizona State,,Clarion,Tracy Brown,Tom Tomeo,1997
+142,142,Jon Vaughn,2,Scott Reyna,5,r32,,,DEC,Scott Reyna,,Illinois,4,Oklahoma State,Jon Vaughn,Scott Reyna,1997
+142,142,Shane Mack,7,Brendan Buckley,11,r32,,,DEC,Brendan Buckley,,Maryland,5,Fresno State,Shane Mack,Brendan Buckley,1997
+142,142,Khalil Abdul-Malik,11,Nick Maravich,3,r32,,,MD,Khalil Abdul-Malik,12,North Carolina,,Duquesne,Khalil Abdul-Malik,Nick Maravich,1997
+142,142,Mike Harp,-4,Frank Laccone,-3,r32,,,DFT,Frank Laccone,,Missouri,,Purdue,Mike Harp,Frank Laccone,1997
+142,142,Roger Chandler,-1,Jeff Tufano,-2,r32,,1:19,F,Roger Chandler,2,Indiana,,Wyoming,Roger Chandler,Jeff Tufano,1997
+142,142,Francis Dunn,5,Casey Cunningham,2,r32,,,DEC,Francis Dunn,,Rider,7,Central Michigan,Francis Dunn,Casey Cunningham,1997
+142,142,Brad Fenske,6,Russell Read,5,r32,,,DEC,Brad Fenske,10,Army,,Boston University,Brad Fenske,Russell Read,1997
+142,142,Shawn Enright,-2,Jason Davids,-1,r32,,3:26,F,Jason Davids,,Ohio University,3,Minnesota,Shawn Enright,Jason Davids,1997
+142,142,David Maldonado,-2,Kasey Gilliss,-1,r32,,0:37,F,Kasey Gilliss,,Iowa State,,Iowa,David Maldonado,Kasey Gilliss,1997
+142,142,Pat Coyle,-2,Steve Feckanin,-1,r32,,3:51,F,Steve Feckanin,,James Madison,11,Edinboro,Pat Coyle,Steve Feckanin,1997
+142,142,Jason Ramstetter,10,Dan Covatta,9,r32,,,DEC,Jason Ramstetter,6,Cal State-Bakersfield,,Duke,Jason Ramstetter,Dan Covatta,1997
+142,142,Chris Ayres,5,Cary Kolat,14,r16,,,MD,Cary Kolat,,Lehigh,1,Lock Haven,Chris Ayres,Cary Kolat,1997
+142,142,Beau Weiner,3,Brett Matter,11,r16,,,MD,Brett Matter,,Stanford,8,Pennsylvania,Beau Weiner,Brett Matter,1997
+142,142,Tom Tomeo,-2,Scott Reyna,-1,r16,,6:25,F,Scott Reyna,,Clarion,4,Oklahoma State,Tom Tomeo,Scott Reyna,1997
+142,142,Brendan Buckley,9,Khalil Abdul-Malik,3,r16,,,DEC,Brendan Buckley,5,Fresno State,12,North Carolina,Brendan Buckley,Khalil Abdul-Malik,1997
+142,142,Frank Laccone,2,Roger Chandler,12,r16,,,MD,Roger Chandler,,Purdue,2,Indiana,Frank Laccone,Roger Chandler,1997
+142,142,Francis Dunn,3,Brad Fenske,2,r16,,,DEC,Francis Dunn,,Rider,10,Army,Francis Dunn,Brad Fenske,1997
+142,142,Jason Davids,4,Kasey Gilliss,2,r16,,,DEC,Jason Davids,3,Minnesota,,Iowa,Jason Davids,Kasey Gilliss,1997
+142,142,Steve Feckanin,1,Jason Ramstetter,3,r16,1,,DEC,Jason Ramstetter,11,Edinboro,6,Cal State-Bakersfield,Steve Feckanin,Jason Ramstetter,1997
+142,142,Cary Kolat,-1,Brett Matter,-2,r8,,2:34,F,Cary Kolat,1,Lock Haven,8,Pennsylvania,Cary Kolat,Brett Matter,1997
+142,142,Scott Reyna,9,Brendan Buckley,6,r8,,,DEC,Scott Reyna,4,Oklahoma State,5,Fresno State,Scott Reyna,Brendan Buckley,1997
+142,142,Roger Chandler,15,Francis Dunn,0,r8,,7:00,TF,Roger Chandler,2,Indiana,,Rider,Roger Chandler,Francis Dunn,1997
+142,142,Jason Davids,16,Jason Ramstetter,7,r8,,,MD,Jason Davids,3,Minnesota,6,Cal State-Bakersfield,Jason Davids,Jason Ramstetter,1997
+142,142,Cary Kolat,10,Scott Reyna,3,r4,,,DEC,Cary Kolat,1,Lock Haven,4,Oklahoma State,Cary Kolat,Scott Reyna,1997
+142,142,Roger Chandler,10,Jason Davids,4,r4,,,DEC,Roger Chandler,2,Indiana,3,Minnesota,Roger Chandler,Jason Davids,1997
+142,142,Cary Kolat,6,Roger Chandler,2,m1,,,DEC,Cary Kolat,1,Lock Haven,2,Indiana,Cary Kolat,Roger Chandler,1997
+142,142,Dan Covatta,12,Pat Coyle,4,c0,,,MD,Dan Covatta,,Duke,,James Madison,Dan Covatta,Pat Coyle,1997
+142,142,David Maldonado,7,Shawn Enright,4,c0,,,DEC,David Maldonado,,Iowa State,,Ohio University,David Maldonado,Shawn Enright,1997
+142,142,Russell Read,3,Casey Cunningham,5,c0,,,DEC,Casey Cunningham,,Boston University,7,Central Michigan,Russell Read,Casey Cunningham,1997
+142,142,Jeff Tufano,6,Mike Harp,11,c0,,,DEC,Mike Harp,,Wyoming,,Missouri,Jeff Tufano,Mike Harp,1997
+142,142,Chris Elliott,3,Shane Mack,10,c0,,,DEC,Shane Mack,,Slippery Rock,,Maryland,Chris Elliott,Shane Mack,1997
+142,142,Jon Vaughn,7,Tracy Brown,3,c0,,,DEC,Jon Vaughn,,Illinois,,Arizona State,Jon Vaughn,Tracy Brown,1997
+142,142,Tim Stringer,4,Clint Musser,6,c0,1,,DEC,Clint Musser,,Eastern Illinois,9,Penn State,Tim Stringer,Clint Musser,1997
+142,142,Oliver Salud,12,Trey Burlingame,3,c0,,,MD,Oliver Salud,,California-Davis,,North Carolina-Greensboro,Oliver Salud,Trey Burlingame,1997
+142,142,Dan Covatta,5,Tom Tomeo,11,c1,,,DEC,Tom Tomeo,,Duke,,Clarion,Dan Covatta,Tom Tomeo,1997
+142,142,David Maldonado,1,Khalil Abdul-Malik,16,c1,,7:00,TF,Khalil Abdul-Malik,,Iowa State,12,North Carolina,David Maldonado,Khalil Abdul-Malik,1997
+142,142,Casey Cunningham,8,Chris Ayres,10,c1,,,DEC,Chris Ayres,7,Central Michigan,,Lehigh,Casey Cunningham,Chris Ayres,1997
+142,142,Mike Harp,18,Beau Weiner,2,c1,,6:48,TF,Mike Harp,,Missouri,,Stanford,Mike Harp,Beau Weiner,1997
+142,142,Shane Mack,7,Kasey Gilliss,17,c1,,,MD,Kasey Gilliss,,Maryland,,Iowa,Shane Mack,Kasey Gilliss,1997
+142,142,Jon Vaughn,-2,Steve Feckanin,-1,c1,,6:04,F,Steve Feckanin,,Illinois,11,Edinboro,Jon Vaughn,Steve Feckanin,1997
+142,142,Clint Musser,19,Frank Laccone,6,c1,,,MD,Clint Musser,9,Penn State,,Purdue,Clint Musser,Frank Laccone,1997
+142,142,Oliver Salud,-2,Brad Fenske,-1,c1,,4:53,F,Brad Fenske,,California-Davis,10,Army,Oliver Salud,Brad Fenske,1997
+142,142,Tom Tomeo,4,Khalil Abdul-Malik,3,c2,1,,DEC,Tom Tomeo,,Clarion,12,North Carolina,Tom Tomeo,Khalil Abdul-Malik,1997
+142,142,Chris Ayres,13,Mike Harp,9,c2,,,DEC,Chris Ayres,,Lehigh,,Missouri,Chris Ayres,Mike Harp,1997
+142,142,Kasey Gilliss,-1,Steve Feckanin,-2,c2,,1:05,F,Kasey Gilliss,,Iowa,11,Edinboro,Kasey Gilliss,Steve Feckanin,1997
+142,142,Clint Musser,4,Brad Fenske,5,c2,,,DEC,Brad Fenske,9,Penn State,10,Army,Clint Musser,Brad Fenske,1997
+142,142,Tom Tomeo,0,Francis Dunn,2,br,,,DEC,Francis Dunn,,Clarion,,Rider,Tom Tomeo,Francis Dunn,1997
+142,142,Chris Ayres,4,Jason Ramstetter,6,br,,,DEC,Jason Ramstetter,,Lehigh,6,Cal State-Bakersfield,Chris Ayres,Jason Ramstetter,1997
+142,142,Kasey Gilliss,4,Brett Matter,2,br,1,,DEC,Kasey Gilliss,,Iowa,8,Pennsylvania,Kasey Gilliss,Brett Matter,1997
+142,142,Brad Fenske,5,Brendan Buckley,11,br,,,DEC,Brendan Buckley,10,Army,5,Fresno State,Brad Fenske,Brendan Buckley,1997
+142,142,Francis Dunn,0,Jason Ramstetter,6,c4,,,DEC,Jason Ramstetter,,Rider,6,Cal State-Bakersfield,Francis Dunn,Jason Ramstetter,1997
+142,142,Kasey Gilliss,15,Brendan Buckley,4,c4,,,MD,Kasey Gilliss,,Iowa,5,Fresno State,Kasey Gilliss,Brendan Buckley,1997
+142,142,Jason Ramstetter,4,Scott Reyna,10,cs,,,DEC,Scott Reyna,6,Cal State-Bakersfield,4,Oklahoma State,Jason Ramstetter,Scott Reyna,1997
+142,142,Kasey Gilliss,3,Jason Davids,7,cs,,,DEC,Jason Davids,,Iowa,3,Minnesota,Kasey Gilliss,Jason Davids,1997
+142,142,Jason Davids,6,Scott Reyna,2,m3,,,DEC,Jason Davids,3,Minnesota,4,Oklahoma State,Jason Davids,Scott Reyna,1997
+142,142,Jason Ramstetter,2,Kasey Gilliss,0,m5,,,DEC,Jason Ramstetter,6,Cal State-Bakersfield,,Iowa,Jason Ramstetter,Kasey Gilliss,1997
+142,142,Brendan Buckley,12,Francis Dunn,2,m7,,,MD,Brendan Buckley,5,Fresno State,,Rider,Brendan Buckley,Francis Dunn,1997
+142,142,Mike Harp,11,Chris Elliott,3,p1,,,MD,Mike Harp,,Missouri,,Slippery Rock,Mike Harp,Chris Elliott,1997
+142,142,Chris Ayres,9,Dorian Hager,5,p1,,,DEC,Chris Ayres,,Lehigh,,West Virginia,Chris Ayres,Dorian Hager,1997
+142,142,Dan Covatta,7,Dorian Hager,6,cp1,,,DEC,Dan Covatta,,Duke,,West Virginia,Dan Covatta,Dorian Hager,1997
+142,142,Chris Elliott,-1,Nick Maravich,-2,cp1,,5:58,F,Chris Elliott,,Slippery Rock,,Duquesne,Chris Elliott,Nick Maravich,1997
+150,150,Mike Mason,8,Larry Quisel,4,r32,,,DEC,Mike Mason,8,West Virginia,,Boise State,Mike Mason,Larry Quisel,1997
+150,150,Rodney Jones,11,Mack Rohaly,7,r32,,,DEC,Rodney Jones,9,Oklahoma,,Duquesne,Rodney Jones,Mack Rohaly,1997
+150,150,Chris Martin,4,Jim Harshaw,5,r32,,,DEC,Jim Harshaw,,Virginia Tech,,Virginia,Chris Martin,Jim Harshaw,1997
+150,150,Lincoln McIlravy,24,Jason Peters,8,r32,,5:28,TF,Lincoln McIlravy,1,Iowa,,East Stroudsburg,Lincoln McIlravy,Jason Peters,1997
+150,150,Chad Kraft,12,Jeff Whalen,2,r32,,,MD,Chad Kraft,4,Minnesota,,Maryland,Chad Kraft,Jeff Whalen,1997
+150,150,Mickey Griffin,12,Bart Murphy,3,r32,,,MD,Mickey Griffin,,Purdue,,Pennsylvania,Mickey Griffin,Bart Murphy,1997
+150,150,Mike Rogers,-1,Shad Benton,-2,r32,,6:19,F,Mike Rogers,5,Lock Haven,,Penn State,Mike Rogers,Shad Benton,1997
+150,150,Ryan Cunningham,5,Dave Leonardo,4,r32,,,DEC,Ryan Cunningham,12,Central Michigan,,Boston University,Ryan Cunningham,Dave Leonardo,1997
+150,150,Marat Vigdorchik,4,Craig Welk,6,r32,1,,DEC,Craig Welk,,Lehigh,,Cal Poly-SLO,Marat Vigdorchik,Craig Welk,1997
+150,150,Chris Bono,-1,Michael Douglas,-2,r32,,5:44,F,Chris Bono,2,Iowa State,,Arizona State,Chris Bono,Michael Douglas,1997
+150,150,Jimmy Arias,5,Chris Bahr,1,r32,,,DEC,Jimmy Arias,10,Oklahoma State,,Northern Iowa,Jimmy Arias,Chris Bahr,1997
+150,150,Eric Siebert,8,Joel Dramis,4,r32,,,DEC,Eric Siebert,7,Illinois,,North Carolina State,Eric Siebert,Joel Dramis,1997
+150,150,Shilo Mathill,0,Drew Pariano,1,r32,,,DEC,Drew Pariano,11,Wyoming,,Northwestern,Shilo Mathill,Drew Pariano,1997
+150,150,Scott Norton,18,Kerry Cohen,2,r32,,7:00,TF,Scott Norton,6,Oregon,,Delaware State,Scott Norton,Kerry Cohen,1997
+150,150,Bill Lacure,3,Jason Foresman,4,r32,,,DEC,Jason Foresman,3,Michigan,,Virginia Military,Bill Lacure,Jason Foresman,1997
+150,150,Bye,-4,Kevin Johnson,-3,r32,,,DFT,Kevin Johnson,,Bye,,Pittsburgh,Bye,Kevin Johnson,1997
+150,150,Mike Mason,10,Rodney Jones,7,r16,,,DEC,Mike Mason,8,West Virginia,9,Oklahoma,Mike Mason,Rodney Jones,1997
+150,150,Jim Harshaw,5,Lincoln McIlravy,20,r16,,5:35,TF,Lincoln McIlravy,,Virginia,1,Iowa,Jim Harshaw,Lincoln McIlravy,1997
+150,150,Chad Kraft,4,Mickey Griffin,1,r16,,,DEC,Chad Kraft,4,Minnesota,,Purdue,Chad Kraft,Mickey Griffin,1997
+150,150,Mike Rogers,4,Ryan Cunningham,3,r16,,,DEC,Mike Rogers,5,Lock Haven,12,Central Michigan,Mike Rogers,Ryan Cunningham,1997
+150,150,Craig Welk,10,Chris Bono,25,r16,,6:32,TF,Chris Bono,,Cal Poly-SLO,2,Iowa State,Craig Welk,Chris Bono,1997
+150,150,Jimmy Arias,3,Eric Siebert,5,r16,,,DEC,Eric Siebert,10,Oklahoma State,7,Illinois,Jimmy Arias,Eric Siebert,1997
+150,150,Drew Pariano,3,Scott Norton,11,r16,,,MD,Scott Norton,,Northwestern,6,Oregon,Drew Pariano,Scott Norton,1997
+150,150,Jason Foresman,8,Kevin Johnson,6,r16,,,DEC,Jason Foresman,,Virginia Military,,Pittsburgh,Jason Foresman,Kevin Johnson,1997
+150,150,Mike Mason,8,Lincoln McIlravy,19,r8,,,MD,Lincoln McIlravy,8,West Virginia,1,Iowa,Mike Mason,Lincoln McIlravy,1997
+150,150,Chad Kraft,3,Mike Rogers,1,r8,,,DEC,Chad Kraft,4,Minnesota,5,Lock Haven,Chad Kraft,Mike Rogers,1997
+150,150,Chris Bono,10,Eric Siebert,2,r8,,,MD,Chris Bono,2,Iowa State,7,Illinois,Chris Bono,Eric Siebert,1997
+150,150,Scott Norton,7,Jason Foresman,1,r8,,,DEC,Scott Norton,6,Oregon,,Virginia Military,Scott Norton,Jason Foresman,1997
+150,150,Lincoln McIlravy,9,Chad Kraft,3,r4,,,DEC,Lincoln McIlravy,1,Iowa,4,Minnesota,Lincoln McIlravy,Chad Kraft,1997
+150,150,Chris Bono,4,Scott Norton,2,r4,1,,DEC,Chris Bono,2,Iowa State,6,Oregon,Chris Bono,Scott Norton,1997
+150,150,Lincoln McIlravy,5,Chris Bono,3,m1,1,,DEC,Lincoln McIlravy,1,Iowa,2,Iowa State,Lincoln McIlravy,Chris Bono,1997
+150,150,Bye,-4,Bill Lacure,-3,c0,,,DFT,Bill Lacure,,Bye,3,Michigan,Bye,Bill Lacure,1997
+150,150,Kerry Cohen,-2,Shilo Mathill,-1,c0,,2:25,F,Shilo Mathill,,Delaware State,11,Wyoming,Kerry Cohen,Shilo Mathill,1997
+150,150,Joel Dramis,2,Chris Bahr,1,c0,,,DEC,Joel Dramis,,North Carolina State,,Northern Iowa,Joel Dramis,Chris Bahr,1997
+150,150,Michael Douglas,8,Marat Vigdorchik,15,c0,,,DEC,Marat Vigdorchik,,Arizona State,,Lehigh,Michael Douglas,Marat Vigdorchik,1997
+150,150,Dave Leonardo,3,Shad Benton,2,c0,,,DEC,Dave Leonardo,,Boston University,,Penn State,Dave Leonardo,Shad Benton,1997
+150,150,Bart Murphy,2,Jeff Whalen,3,c0,,,DEC,Jeff Whalen,,Pennsylvania,,Maryland,Bart Murphy,Jeff Whalen,1997
+150,150,Jason Peters,4,Chris Martin,2,c0,,,DEC,Jason Peters,,East Stroudsburg,,Virginia Tech,Jason Peters,Chris Martin,1997
+150,150,Mack Rohaly,-2,Larry Quisel,-1,c0,,6:24,F,Larry Quisel,,Duquesne,,Boise State,Mack Rohaly,Larry Quisel,1997
+150,150,Bill Lacure,8,Mickey Griffin,5,c1,,,DEC,Bill Lacure,3,Michigan,,Purdue,Bill Lacure,Mickey Griffin,1997
+150,150,Shilo Mathill,3,Ryan Cunningham,2,c1,,,DEC,Shilo Mathill,11,Wyoming,12,Central Michigan,Shilo Mathill,Ryan Cunningham,1997
+150,150,Joel Dramis,0,Rodney Jones,11,c1,,,MD,Rodney Jones,,North Carolina State,9,Oklahoma,Joel Dramis,Rodney Jones,1997
+150,150,Marat Vigdorchik,4,Jim Harshaw,7,c1,,,DEC,Jim Harshaw,,Lehigh,,Virginia,Marat Vigdorchik,Jim Harshaw,1997
+150,150,Dave Leonardo,0,Drew Pariano,8,c1,,,MD,Drew Pariano,,Boston University,,Northwestern,Dave Leonardo,Drew Pariano,1997
+150,150,Jeff Whalen,8,Kevin Johnson,3,c1,,,DEC,Jeff Whalen,,Maryland,,Pittsburgh,Jeff Whalen,Kevin Johnson,1997
+150,150,Jason Peters,5,Craig Welk,7,c1,1,,DEC,Craig Welk,,East Stroudsburg,,Cal Poly-SLO,Jason Peters,Craig Welk,1997
+150,150,Larry Quisel,7,Jimmy Arias,6,c1,,,DEC,Larry Quisel,,Boise State,10,Oklahoma State,Larry Quisel,Jimmy Arias,1997
+150,150,Bill Lacure,7,Shilo Mathill,6,c2,,,DEC,Bill Lacure,3,Michigan,11,Wyoming,Bill Lacure,Shilo Mathill,1997
+150,150,Rodney Jones,10,Jim Harshaw,3,c2,,,DEC,Rodney Jones,9,Oklahoma,,Virginia,Rodney Jones,Jim Harshaw,1997
+150,150,Drew Pariano,5,Jeff Whalen,2,c2,,,DEC,Drew Pariano,,Northwestern,,Maryland,Drew Pariano,Jeff Whalen,1997
+150,150,Craig Welk,4,Larry Quisel,3,c2,,,DEC,Craig Welk,,Cal Poly-SLO,,Boise State,Craig Welk,Larry Quisel,1997
+150,150,Bill Lacure,2,Eric Siebert,3,br,,,DEC,Eric Siebert,3,Michigan,7,Illinois,Bill Lacure,Eric Siebert,1997
+150,150,Rodney Jones,5,Jason Foresman,1,br,,,DEC,Rodney Jones,9,Oklahoma,,Virginia Military,Rodney Jones,Jason Foresman,1997
+150,150,Drew Pariano,3,Mike Mason,4,br,,,DEC,Mike Mason,,Northwestern,8,West Virginia,Drew Pariano,Mike Mason,1997
+150,150,Craig Welk,4,Mike Rogers,7,br,,,DEC,Mike Rogers,,Cal Poly-SLO,5,Lock Haven,Craig Welk,Mike Rogers,1997
+150,150,Eric Siebert,4,Rodney Jones,2,c4,,,DEC,Eric Siebert,7,Illinois,9,Oklahoma,Eric Siebert,Rodney Jones,1997
+150,150,Mike Mason,3,Mike Rogers,10,c4,,,DEC,Mike Rogers,8,West Virginia,5,Lock Haven,Mike Mason,Mike Rogers,1997
+150,150,Eric Siebert,2,Chad Kraft,1,cs,1,,DEC,Eric Siebert,7,Illinois,4,Minnesota,Eric Siebert,Chad Kraft,1997
+150,150,Mike Rogers,0,Scott Norton,5,cs,,,DEC,Scott Norton,5,Lock Haven,6,Oregon,Mike Rogers,Scott Norton,1997
+150,150,Chad Kraft,2,Scott Norton,1,m3,1,,DEC,Chad Kraft,4,Minnesota,6,Oregon,Chad Kraft,Scott Norton,1997
+150,150,Eric Siebert,7,Mike Rogers,6,m5,,,DEC,Eric Siebert,7,Illinois,5,Lock Haven,Eric Siebert,Mike Rogers,1997
+150,150,Mike Mason,7,Rodney Jones,6,m7,,,DEC,Mike Mason,8,West Virginia,9,Oklahoma,Mike Mason,Rodney Jones,1997
+158,158,Rangi Smart,5,Sam Kline,7,r32,1,,DEC,Sam Kline,8,Brigham Young,,West Virginia,Rangi Smart,Sam Kline,1997
+158,158,Eric Hall,-2,Tivon Abel,-1,r32,,0:28,F,Tivon Abel,,Virginia Tech,9,Brown,Eric Hall,Tivon Abel,1997
+158,158,Andy Varner,2,Ed Mosley,8,r32,,,DEC,Ed Mosley,,Cal State-Bakersfield,,Harvard,Andy Varner,Ed Mosley,1997
+158,158,Joe Williams,-1,Arash Alizadeh,-2,r32,,2:35,F,Joe Williams,1,Iowa,,Maryland,Joe Williams,Arash Alizadeh,1997
+158,158,David Wells,2,Hardell Moore,9,r32,,,DEC,Hardell Moore,,Cal Poly-SLO,5,Oklahoma State,David Wells,Hardell Moore,1997
+158,158,Jason Kraft,13,Steve Duran,5,r32,,,MD,Jason Kraft,12,Nebraska,,Cal State-Fullerton,Jason Kraft,Steve Duran,1997
+158,158,Matt Hughes,16,Jason Guyton,1,r32,,4:12,TF,Matt Hughes,4,Eastern Illinois,,Howard,Matt Hughes,Jason Guyton,1997
+158,158,Jeff Godbe,9,Josh Holiday,12,r32,,,DEC,Josh Holiday,,New Mexico,,Minnesota,Jeff Godbe,Josh Holiday,1997
+158,158,Eric Douglas,8,Brian Leitzel,13,r32,,,DEC,Brian Leitzel,,Purdue,10,Lock Haven,Eric Douglas,Brian Leitzel,1997
+158,158,Evan Dolan,3,Byron Tucker,10,r32,,,DEC,Byron Tucker,,Rider,7,Oklahoma,Evan Dolan,Byron Tucker,1997
+158,158,Jacob Schaus,9,Alex Leykikh,3,r32,,,DEC,Jacob Schaus,,Pittsburgh,,Virginia,Jacob Schaus,Alex Leykikh,1997
+158,158,Travis Doto,2,Ernest Benion,8,r32,,,DEC,Ernest Benion,,Lehigh,2,Illinois,Travis Doto,Ernest Benion,1997
+158,158,John Lange,6,Cassidy Shults,5,r32,,,DEC,John Lange,,Penn State,,Bloomsburg,John Lange,Cassidy Shults,1997
+158,158,Tony Robie,19,John DeLeon,8,r32,,,MD,Tony Robie,3,Edinboro,,Iowa State,Tony Robie,John DeLeon,1997
+158,158,Dwight Gardner,8,Kurt Hudson,2,r32,,,DEC,Dwight Gardner,6,Ohio University,,Northwestern,Dwight Gardner,Kurt Hudson,1997
+158,158,Reese Edgington,4,Matt Suter,8,r32,,,DEC,Matt Suter,,Virginia Military,11,Arizona State,Reese Edgington,Matt Suter,1997
+158,158,Sam Kline,6,Tivon Abel,16,r16,,,MD,Tivon Abel,,West Virginia,9,Brown,Sam Kline,Tivon Abel,1997
+158,158,Ed Mosley,-2,Joe Williams,-1,r16,,0:31,F,Joe Williams,,Harvard,1,Iowa,Ed Mosley,Joe Williams,1997
+158,158,Hardell Moore,7,Jason Kraft,3,r16,,,DEC,Hardell Moore,5,Oklahoma State,12,Nebraska,Hardell Moore,Jason Kraft,1997
+158,158,Matt Hughes,16,Josh Holiday,0,r16,,5:53,TF,Matt Hughes,4,Eastern Illinois,,Minnesota,Matt Hughes,Josh Holiday,1997
+158,158,Brian Leitzel,8,Byron Tucker,5,r16,,,DEC,Brian Leitzel,10,Lock Haven,7,Oklahoma,Brian Leitzel,Byron Tucker,1997
+158,158,Jacob Schaus,2,Ernest Benion,11,r16,,,MD,Ernest Benion,,Pittsburgh,2,Illinois,Jacob Schaus,Ernest Benion,1997
+158,158,John Lange,7,Tony Robie,21,r16,,,MD,Tony Robie,,Penn State,3,Edinboro,John Lange,Tony Robie,1997
+158,158,Dwight Gardner,2,Matt Suter,7,r16,,,DEC,Matt Suter,6,Ohio University,11,Arizona State,Dwight Gardner,Matt Suter,1997
+158,158,Tivon Abel,7,Joe Williams,22,r8,,7:00,TF,Joe Williams,9,Brown,1,Iowa,Tivon Abel,Joe Williams,1997
+158,158,Hardell Moore,4,Matt Hughes,2,r8,,,DEC,Hardell Moore,5,Oklahoma State,4,Eastern Illinois,Hardell Moore,Matt Hughes,1997
+158,158,Brian Leitzel,5,Ernest Benion,7,r8,,,DEC,Ernest Benion,10,Lock Haven,2,Illinois,Brian Leitzel,Ernest Benion,1997
+158,158,Tony Robie,10,Matt Suter,4,r8,,,DEC,Tony Robie,3,Edinboro,11,Arizona State,Tony Robie,Matt Suter,1997
+158,158,Joe Williams,8,Hardell Moore,3,r4,,,DEC,Joe Williams,1,Iowa,5,Oklahoma State,Joe Williams,Hardell Moore,1997
+158,158,Ernest Benion,5,Tony Robie,7,r4,1,,DEC,Tony Robie,2,Illinois,3,Edinboro,Ernest Benion,Tony Robie,1997
+158,158,Joe Williams,5,Tony Robie,3,m1,,,DEC,Joe Williams,1,Iowa,3,Edinboro,Joe Williams,Tony Robie,1997
+158,158,Joe Stanton,6,Kurt Hudson,2,c0,,,DEC,Joe Stanton,,North Carolina-Greensboro,,Northwestern,Joe Stanton,Kurt Hudson,1997
+158,158,John DeLeon,4,Cassidy Shults,1,c0,,,DEC,John DeLeon,,Iowa State,,Bloomsburg,John DeLeon,Cassidy Shults,1997
+158,158,Travis Doto,6,Alex Leykikh,0,c0,,,DEC,Travis Doto,,Lehigh,,Virginia,Travis Doto,Alex Leykikh,1997
+158,158,Evan Dolan,4,Eric Douglas,9,c0,,,DEC,Eric Douglas,,Rider,,Purdue,Evan Dolan,Eric Douglas,1997
+158,158,Sean Morgan,15,Jason Guyton,1,c0,,,MD,Sean Morgan,,Oregon,,Howard,Sean Morgan,Jason Guyton,1997
+158,158,Steve Duran,0,David Wells,11,c0,,,MD,David Wells,,Cal State-Fullerton,,Cal Poly-SLO,Steve Duran,David Wells,1997
+158,158,Arash Alizadeh,11,Andy Varner,3,c0,,,MD,Arash Alizadeh,,Maryland,,Cal State-Bakersfield,Arash Alizadeh,Andy Varner,1997
+158,158,Eric Hall,4,Rangi Smart,12,c0,,,MD,Rangi Smart,,Virginia Tech,8,Brigham Young,Eric Hall,Rangi Smart,1997
+158,158,Joe Stanton,3,Jason Kraft,5,c1,1,,DEC,Jason Kraft,,North Carolina-Greensboro,12,Nebraska,Joe Stanton,Jason Kraft,1997
+158,158,John DeLeon,7,Josh Holiday,0,c1,,,DEC,John DeLeon,,Iowa State,,Minnesota,John DeLeon,Josh Holiday,1997
+158,158,Travis Doto,5,Sam Kline,6,c1,,,DEC,Sam Kline,,Lehigh,,West Virginia,Travis Doto,Sam Kline,1997
+158,158,Eric Douglas,3,Ed Mosley,1,c1,1,,DEC,Eric Douglas,,Purdue,,Harvard,Eric Douglas,Ed Mosley,1997
+158,158,Sean Morgan,3,John Lange,7,c1,,,DEC,John Lange,,Oregon,,Penn State,Sean Morgan,John Lange,1997
+158,158,David Wells,7,Dwight Gardner,15,c1,,,MD,Dwight Gardner,,Cal Poly-SLO,6,Ohio University,David Wells,Dwight Gardner,1997
+158,158,Arash Alizadeh,3,Byron Tucker,5,c1,,,DEC,Byron Tucker,,Maryland,7,Oklahoma,Arash Alizadeh,Byron Tucker,1997
+158,158,Rangi Smart,9,Jacob Schaus,4,c1,,,DEC,Rangi Smart,8,Brigham Young,,Pittsburgh,Rangi Smart,Jacob Schaus,1997
+158,158,Jason Kraft,8,John DeLeon,3,c2,,,DEC,Jason Kraft,12,Nebraska,,Iowa State,Jason Kraft,John DeLeon,1997
+158,158,Sam Kline,2,Eric Douglas,4,c2,,,DEC,Eric Douglas,,West Virginia,,Purdue,Sam Kline,Eric Douglas,1997
+158,158,Dwight Gardner,7,John Lange,6,c2,,,DEC,Dwight Gardner,6,Ohio University,,Penn State,Dwight Gardner,John Lange,1997
+158,158,Byron Tucker,2,Rangi Smart,3,c2,,,DEC,Rangi Smart,7,Oklahoma,8,Brigham Young,Byron Tucker,Rangi Smart,1997
+158,158,Jason Kraft,5,Brian Leitzel,6,br,,,DEC,Brian Leitzel,12,Nebraska,10,Lock Haven,Jason Kraft,Brian Leitzel,1997
+158,158,Eric Douglas,2,Matt Suter,3,br,,,DEC,Matt Suter,,Purdue,11,Arizona State,Eric Douglas,Matt Suter,1997
+158,158,Dwight Gardner,10,Tivon Abel,5,br,,,DEC,Dwight Gardner,6,Ohio University,9,Brown,Dwight Gardner,Tivon Abel,1997
+158,158,Rangi Smart,2,Matt Hughes,3,br,,,DEC,Matt Hughes,8,Brigham Young,4,Eastern Illinois,Rangi Smart,Matt Hughes,1997
+158,158,Brian Leitzel,3,Matt Suter,1,c4,1,,DEC,Brian Leitzel,10,Lock Haven,11,Arizona State,Brian Leitzel,Matt Suter,1997
+158,158,Dwight Gardner,2,Matt Hughes,3,c4,,,DEC,Matt Hughes,6,Ohio University,4,Eastern Illinois,Dwight Gardner,Matt Hughes,1997
+158,158,Brian Leitzel,5,Hardell Moore,11,cs,,,DEC,Hardell Moore,10,Lock Haven,5,Oklahoma State,Brian Leitzel,Hardell Moore,1997
+158,158,Matt Hughes,0,Ernest Benion,2,cs,,,DEC,Ernest Benion,4,Eastern Illinois,2,Illinois,Matt Hughes,Ernest Benion,1997
+158,158,Ernest Benion,4,Hardell Moore,0,m3,,,DEC,Ernest Benion,2,Illinois,5,Oklahoma State,Ernest Benion,Hardell Moore,1997
+158,158,Matt Hughes,8,Brian Leitzel,2,m5,,,DEC,Matt Hughes,4,Eastern Illinois,10,Lock Haven,Matt Hughes,Brian Leitzel,1997
+158,158,Dwight Gardner,5,Matt Suter,3,m7,1,,DEC,Dwight Gardner,6,Ohio University,11,Arizona State,Dwight Gardner,Matt Suter,1997
+158,158,Rangi Smart,12,Joe Stanton,4,p1,,,MD,Rangi Smart,8,Brigham Young,,North Carolina-Greensboro,Rangi Smart,Joe Stanton,1997
+158,158,Eric Douglas,7,Sean Morgan,3,p1,,,DEC,Eric Douglas,,Purdue,,Oregon,Eric Douglas,Sean Morgan,1997
+158,158,Joe Stanton,8,Reese Edgington,3,cp1,,,DEC,Joe Stanton,,North Carolina-Greensboro,,Virginia Military,Joe Stanton,Reese Edgington,1997
+158,158,Sean Morgan,7,Jeff Godbe,4,cp1,,,DEC,Sean Morgan,,Oregon,,New Mexico,Sean Morgan,Jeff Godbe,1997
+167,167,Neil Barnes,5,John Dattalo,11,r32,,,DEC,John Dattalo,,Lock Haven,8,Virginia Tech,Neil Barnes,John Dattalo,1997
+167,167,Justin Thaw,8,Rob Barlow,3,r32,,,DEC,Justin Thaw,9,Missouri,,George Mason,Justin Thaw,Rob Barlow,1997
+167,167,Derek Strobel,5,Mike Greenfield,11,r32,,,DEC,Mike Greenfield,,Appalachian State,,Central Michigan,Derek Strobel,Mike Greenfield,1997
+167,167,Greg Johnson,0,Mark Branch,11,r32,,,MD,Mark Branch,,Oregon,1,Oklahoma State,Greg Johnson,Mark Branch,1997
+167,167,Casey Strand,7,Shaftone Dunklin,2,r32,,,DEC,Casey Strand,4,Arizona State,,Slippery Rock,Casey Strand,Shaftone Dunklin,1997
+167,167,Jared Coleman,5,Chad Liott,11,r32,,,DEC,Chad Liott,,Brigham Young,,Rider,Jared Coleman,Chad Liott,1997
+167,167,John Withrow,-1,Dan Kjeldgaard,-2,r32,,2:19,F,John Withrow,12,Pittsburgh,,Northern Iowa,John Withrow,Dan Kjeldgaard,1997
+167,167,Glenn Pritzlaff,4,Rod Van Ness,8,r32,,,DEC,Rod Van Ness,5,Penn State,,Rutgers,Glenn Pritzlaff,Rod Van Ness,1997
+167,167,Jeremiah Miller,3,Bart Horton,14,r32,,,MD,Bart Horton,,Cal Poly-SLO,10,Iowa State,Jeremiah Miller,Bart Horton,1997
+167,167,Zac Taylor,7,Vertus Jones,9,r32,,,DEC,Vertus Jones,7,Minnesota,,West Virginia,Zac Taylor,Vertus Jones,1997
+167,167,Damon Stephens,1,Scott Chapman,9,r32,,,MD,Scott Chapman,,Maryland,,Stanford,Damon Stephens,Scott Chapman,1997
+167,167,Brad Alderman,2,Kevin Wilmot,5,r32,,,DEC,Kevin Wilmot,,Wyoming,2,Wisconsin,Brad Alderman,Kevin Wilmot,1997
+167,167,Jason Driggers,2,Jeff Catrabone,8,r32,,,DEC,Jeff Catrabone,,North Carolina,3,Michigan,Jason Driggers,Jeff Catrabone,1997
+167,167,Michael Roller,8,Barry Jarvis,4,r32,,,DEC,Michael Roller,,Oklahoma,,Miami Ohio,Michael Roller,Barry Jarvis,1997
+167,167,Davion Peterson,5,Brandon Slay,13,r32,,,MD,Brandon Slay,,Purdue,6,Pennsylvania,Davion Peterson,Brandon Slay,1997
+167,167,Kevin Welsh,0,Mike Uker,2,r32,,,DEC,Mike Uker,,Edinboro,11,Iowa,Kevin Welsh,Mike Uker,1997
+167,167,John Dattalo,5,Justin Thaw,2,r16,,,DEC,John Dattalo,8,Virginia Tech,9,Missouri,John Dattalo,Justin Thaw,1997
+167,167,Mike Greenfield,4,Mark Branch,12,r16,,,MD,Mark Branch,,Central Michigan,1,Oklahoma State,Mike Greenfield,Mark Branch,1997
+167,167,Casey Strand,7,Chad Liott,2,r16,1,,DEC,Casey Strand,4,Arizona State,,Rider,Casey Strand,Chad Liott,1997
+167,167,John Withrow,4,Rod Van Ness,3,r16,,,DEC,John Withrow,12,Pittsburgh,,Rutgers,John Withrow,Rod Van Ness,1997
+167,167,Bart Horton,18,Vertus Jones,6,r16,,,MD,Bart Horton,10,Iowa State,,West Virginia,Bart Horton,Vertus Jones,1997
+167,167,Scott Chapman,7,Kevin Wilmot,17,r16,,,MD,Kevin Wilmot,,Stanford,2,Wisconsin,Scott Chapman,Kevin Wilmot,1997
+167,167,Jeff Catrabone,16,Michael Roller,5,r16,,,MD,Jeff Catrabone,3,Michigan,,Oklahoma,Jeff Catrabone,Michael Roller,1997
+167,167,Brandon Slay,12,Mike Uker,11,r16,,,DEC,Brandon Slay,6,Pennsylvania,11,Iowa,Brandon Slay,Mike Uker,1997
+167,167,John Dattalo,0,Mark Branch,11,r8,,,MD,Mark Branch,8,Virginia Tech,1,Oklahoma State,John Dattalo,Mark Branch,1997
+167,167,Casey Strand,5,John Withrow,4,r8,,,DEC,Casey Strand,4,Arizona State,12,Pittsburgh,Casey Strand,John Withrow,1997
+167,167,Bart Horton,8,Kevin Wilmot,11,r8,,,DEC,Kevin Wilmot,10,Iowa State,2,Wisconsin,Bart Horton,Kevin Wilmot,1997
+167,167,Jeff Catrabone,1,Brandon Slay,3,r8,1,,DEC,Brandon Slay,3,Michigan,6,Pennsylvania,Jeff Catrabone,Brandon Slay,1997
+167,167,Mark Branch,10,Casey Strand,4,r4,,,DEC,Mark Branch,1,Oklahoma State,4,Arizona State,Mark Branch,Casey Strand,1997
+167,167,Kevin Wilmot,3,Brandon Slay,4,r4,1,,DEC,Brandon Slay,2,Wisconsin,6,Pennsylvania,Kevin Wilmot,Brandon Slay,1997
+167,167,Mark Branch,3,Brandon Slay,2,m1,,,DEC,Mark Branch,1,Oklahoma State,6,Pennsylvania,Mark Branch,Brandon Slay,1997
+167,167,Kevin Welsh,12,Davion Peterson,6,c0,,,DEC,Kevin Welsh,,Edinboro,,Purdue,Kevin Welsh,Davion Peterson,1997
+167,167,Barry Jarvis,6,Jason Driggers,4,c0,,,DEC,Barry Jarvis,,Miami Ohio,,North Carolina,Barry Jarvis,Jason Driggers,1997
+167,167,Brad Alderman,-1,Damon Stephens,-2,c0,,1:29,F,Brad Alderman,,Wyoming,,Maryland,Brad Alderman,Damon Stephens,1997
+167,167,Zac Taylor,10,Jeremiah Miller,4,c0,,,DEC,Zac Taylor,7,Minnesota,,Cal Poly-SLO,Zac Taylor,Jeremiah Miller,1997
+167,167,Glenn Pritzlaff,4,Dan Kjeldgaard,13,c0,,,MD,Dan Kjeldgaard,5,Penn State,,Northern Iowa,Glenn Pritzlaff,Dan Kjeldgaard,1997
+167,167,Jared Coleman,2,Shaftone Dunklin,5,c0,,,DEC,Shaftone Dunklin,,Brigham Young,,Slippery Rock,Jared Coleman,Shaftone Dunklin,1997
+167,167,Greg Johnson,6,Derek Strobel,7,c0,,,DEC,Derek Strobel,,Oregon,,Appalachian State,Greg Johnson,Derek Strobel,1997
+167,167,Rob Barlow,15,Neil Barnes,0,c0,,6:10,TF,Rob Barlow,,George Mason,,Lock Haven,Rob Barlow,Neil Barnes,1997
+167,167,Kevin Welsh,3,Chad Liott,7,c1,,,DEC,Chad Liott,,Edinboro,,Rider,Kevin Welsh,Chad Liott,1997
+167,167,Barry Jarvis,7,Rod Van Ness,5,c1,,,DEC,Barry Jarvis,,Miami Ohio,,Rutgers,Barry Jarvis,Rod Van Ness,1997
+167,167,Brad Alderman,0,Justin Thaw,5,c1,,,DEC,Justin Thaw,,Wyoming,9,Missouri,Brad Alderman,Justin Thaw,1997
+167,167,Zac Taylor,-2,Mike Greenfield,-1,c1,,0:31,F,Mike Greenfield,7,Minnesota,,Central Michigan,Zac Taylor,Mike Greenfield,1997
+167,167,Dan Kjeldgaard,4,Michael Roller,16,c1,,,MD,Michael Roller,,Northern Iowa,,Oklahoma,Dan Kjeldgaard,Michael Roller,1997
+167,167,Shaftone Dunklin,-2,Mike Uker,-1,c1,,4:20,F,Mike Uker,,Slippery Rock,11,Iowa,Shaftone Dunklin,Mike Uker,1997
+167,167,Derek Strobel,11,Vertus Jones,10,c1,,,DEC,Derek Strobel,,Appalachian State,,West Virginia,Derek Strobel,Vertus Jones,1997
+167,167,Rob Barlow,7,Scott Chapman,8,c1,,,DEC,Scott Chapman,,George Mason,,Stanford,Rob Barlow,Scott Chapman,1997
+167,167,Chad Liott,4,Barry Jarvis,3,c2,1,,DEC,Chad Liott,,Rider,,Miami Ohio,Chad Liott,Barry Jarvis,1997
+167,167,Justin Thaw,0,Mike Greenfield,2,c2,,,DEC,Mike Greenfield,9,Missouri,,Central Michigan,Justin Thaw,Mike Greenfield,1997
+167,167,Michael Roller,4,Mike Uker,5,c2,,,DEC,Mike Uker,,Oklahoma,11,Iowa,Michael Roller,Mike Uker,1997
+167,167,Derek Strobel,-2,Scott Chapman,-1,c2,,6:03,F,Scott Chapman,,Appalachian State,,Stanford,Derek Strobel,Scott Chapman,1997
+167,167,Chad Liott,7,Bart Horton,15,br,,,MD,Bart Horton,,Rider,10,Iowa State,Chad Liott,Bart Horton,1997
+167,167,Mike Greenfield,2,Jeff Catrabone,6,br,,,DEC,Jeff Catrabone,,Central Michigan,3,Michigan,Mike Greenfield,Jeff Catrabone,1997
+167,167,Mike Uker,6,John Dattalo,4,br,,,DEC,Mike Uker,11,Iowa,8,Virginia Tech,Mike Uker,John Dattalo,1997
+167,167,Scott Chapman,2,John Withrow,,br,,,DEC,Scott Chapman,,Stanford,12,Pittsburgh,Scott Chapman,John Withrow,1997
+167,167,Bart Horton,-2,Jeff Catrabone,-1,c4,,2:23,F,Jeff Catrabone,10,Iowa State,3,Michigan,Bart Horton,Jeff Catrabone,1997
+167,167,Mike Uker,-1,John Withrow,-2,c4,,0:59,F,Mike Uker,11,Iowa,12,Pittsburgh,Mike Uker,John Withrow,1997
+167,167,Jeff Catrabone,6,Casey Strand,1,cs,,,DEC,Jeff Catrabone,3,Michigan,4,Arizona State,Jeff Catrabone,Casey Strand,1997
+167,167,Mike Uker,6,Kevin Wilmot,8,cs,,,DEC,Kevin Wilmot,11,Iowa,2,Wisconsin,Mike Uker,Kevin Wilmot,1997
+167,167,Jeff Catrabone,3,Kevin Wilmot,0,m3,,,DEC,Jeff Catrabone,3,Michigan,2,Wisconsin,Jeff Catrabone,Kevin Wilmot,1997
+167,167,Mike Uker,6,Casey Strand,2,m5,,,DEC,Mike Uker,11,Iowa,4,Arizona State,Mike Uker,Casey Strand,1997
+167,167,Bart Horton,6,John Withrow,2,m7,,,DEC,Bart Horton,10,Iowa State,12,Pittsburgh,Bart Horton,John Withrow,1997
+177,177,Ryan Edmundson,6,Jeremy Potvin,9,r32,,,DEC,Jeremy Potvin,,Hofstra,,Air Force,Ryan Edmundson,Jeremy Potvin,1997
+177,177,John Van Doren,7,Brandon Alderman,4,r32,,,DEC,John Van Doren,,Lehigh,9,Wyoming,John Van Doren,Brandon Alderman,1997
+177,177,Mark Smith,3,Brandon Eggum,1,r32,,,DEC,Mark Smith,1,Oklahoma State,,Minnesota,Mark Smith,Brandon Eggum,1997
+177,177,Rick Tomaro,6,Mike French,5,r32,,,DEC,Rick Tomaro,,Miami Ohio,,Cal Poly-SLO,Rick Tomaro,Mike French,1997
+177,177,Scott Surplus,-2,Mitch Clark,-1,r32,,3:21,F,Mitch Clark,,Boise State,4,Ohio State,Scott Surplus,Mitch Clark,1997
+177,177,Bryan Matusic,3,Charles McTorry,1,r32,,,DEC,Bryan Matusic,,Pittsburgh,,Nebraska,Bryan Matusic,Charles McTorry,1997
+177,177,Jim Straight,-1,Martius Harding,-2,r32,,6:22,F,Jim Straight,12,Edinboro,,Virginia,Jim Straight,Martius Harding,1997
+177,177,Clint Matter,12,Louis Pelsang,5,r32,,,DEC,Clint Matter,5,Pennsylvania,,North Carolina,Clint Matter,Louis Pelsang,1997
+177,177,Grant Johnson,11,Ben Barton,4,r32,,,DEC,Grant Johnson,10,Boston University,,Northern Iowa,Grant Johnson,Ben Barton,1997
+177,177,Sanders Freed,3,Jevon Herman,8,r32,,,DEC,Jevon Herman,,Oregon State,7,Illinois,Sanders Freed,Jevon Herman,1997
+177,177,Mike Powell,-2,Dan Corpstein,-1,r32,,2:15,F,Dan Corpstein,,Indiana,,Cal State-Bakersfield,Mike Powell,Dan Corpstein,1997
+177,177,Barry Weldon,22,Nathan Funk,9,r32,,,MD,Barry Weldon,2,Iowa State,,Tennessee-Chattanooga,Barry Weldon,Nathan Funk,1997
+177,177,Mike Geurin,4,Frank Morici,3,r32,,,DEC,Mike Geurin,6,Lock Haven,,Penn State,Mike Geurin,Frank Morici,1997
+177,177,Fred Ashley,-1,Leo Giel,-2,r32,,0:28,F,Fred Ashley,,Howard,11,Rider,Fred Ashley,Leo Giel,1997
+177,177,John Koss,5,Aaron Simpson,3,r32,,,DEC,John Koss,,West Virginia,3,Arizona State,John Koss,Aaron Simpson,1997
+177,177,Tony Ersland,3,Bret Ruth,1,r32,1,,DEC,Tony Ersland,,Iowa,,American,Tony Ersland,Bret Ruth,1997
+177,177,Jeremy Potvin,4,John Van Doren,19,r16,,7:00,TF,John Van Doren,,Air Force,,Lehigh,Jeremy Potvin,John Van Doren,1997
+177,177,Mark Smith,6,Rick Tomaro,5,r16,,,DEC,Mark Smith,1,Oklahoma State,,Miami Ohio,Mark Smith,Rick Tomaro,1997
+177,177,Mitch Clark,-1,Bryan Matusic,-2,r16,,1:46,F,Mitch Clark,4,Ohio State,,Pittsburgh,Mitch Clark,Bryan Matusic,1997
+177,177,Jim Straight,9,Clint Matter,5,r16,1,,DEC,Jim Straight,12,Edinboro,5,Pennsylvania,Jim Straight,Clint Matter,1997
+177,177,Grant Johnson,10,Jevon Herman,4,r16,,,DEC,Grant Johnson,10,Boston University,7,Illinois,Grant Johnson,Jevon Herman,1997
+177,177,Dan Corpstein,2,Barry Weldon,3,r16,,,DEC,Barry Weldon,,Cal State-Bakersfield,2,Iowa State,Dan Corpstein,Barry Weldon,1997
+177,177,Mike Geurin,12,Fred Ashley,2,r16,,,MD,Mike Geurin,6,Lock Haven,,Howard,Mike Geurin,Fred Ashley,1997
+177,177,John Koss,2,Tony Ersland,1,r16,,,DEC,John Koss,,West Virginia,,Iowa,John Koss,Tony Ersland,1997
+177,177,John Van Doren,10,Mark Smith,9,r8,,,DEC,John Van Doren,,Lehigh,1,Oklahoma State,John Van Doren,Mark Smith,1997
+177,177,Mitch Clark,10,Jim Straight,6,r8,,,DEC,Mitch Clark,4,Ohio State,12,Edinboro,Mitch Clark,Jim Straight,1997
+177,177,Grant Johnson,3,Barry Weldon,6,r8,,,DEC,Barry Weldon,10,Boston University,2,Iowa State,Grant Johnson,Barry Weldon,1997
+177,177,Mike Geurin,4,John Koss,7,r8,,,DEC,John Koss,6,Lock Haven,,West Virginia,Mike Geurin,John Koss,1997
+177,177,John Van Doren,2,Mitch Clark,7,r4,,,DEC,Mitch Clark,,Lehigh,4,Ohio State,John Van Doren,Mitch Clark,1997
+177,177,Barry Weldon,8,John Koss,2,r4,,,DEC,Barry Weldon,2,Iowa State,,West Virginia,Barry Weldon,John Koss,1997
+177,177,Mitch Clark,2,Barry Weldon,6,m1,,,DEC,Barry Weldon,4,Ohio State,2,Iowa State,Mitch Clark,Barry Weldon,1997
+177,177,Erich Harvey,6,Aaron Simpson,5,c0,,,DEC,Erich Harvey,,Michigan State,3,Arizona State,Erich Harvey,Aaron Simpson,1997
+177,177,Leo Giel,-1,Frank Morici,-2,c0,,6:37,F,Leo Giel,11,Rider,,Penn State,Leo Giel,Frank Morici,1997
+177,177,Nathan Funk,6,Mike Powell,14,c0,,,MD,Mike Powell,,Tennessee-Chattanooga,,Indiana,Nathan Funk,Mike Powell,1997
+177,177,Sanders Freed,-2,Ben Barton,-1,c0,,4:02,F,Ben Barton,,Oregon State,,Northern Iowa,Sanders Freed,Ben Barton,1997
+177,177,Joel Goeden,1,Martius Harding,0,c0,,,DEC,Joel Goeden,,Northwestern,,Virginia,Joel Goeden,Martius Harding,1997
+177,177,Charles McTorry,-1,Scott Surplus,-2,c0,,4:22,F,Charles McTorry,,Nebraska,,Boise State,Charles McTorry,Scott Surplus,1997
+177,177,Mike French,-3,Brandon Eggum,-4,c0,,,DFT,Mike French,,Cal Poly-SLO,,Minnesota,Mike French,Brandon Eggum,1997
+177,177,Brandon Alderman,17,Ryan Edmundson,6,c0,,,MD,Brandon Alderman,9,Wyoming,,Hofstra,Brandon Alderman,Ryan Edmundson,1997
+177,177,Erich Harvey,8,Bryan Matusic,3,c1,,,DEC,Erich Harvey,,Michigan State,,Pittsburgh,Erich Harvey,Bryan Matusic,1997
+177,177,Leo Giel,9,Clint Matter,6,c1,,,DEC,Leo Giel,11,Rider,5,Pennsylvania,Leo Giel,Clint Matter,1997
+177,177,Mike Powell,-1,Jeremy Potvin,-2,c1,,5:49,F,Mike Powell,,Indiana,,Air Force,Mike Powell,Jeremy Potvin,1997
+177,177,Ben Barton,1,Rick Tomaro,10,c1,,,MD,Rick Tomaro,,Northern Iowa,,Miami Ohio,Ben Barton,Rick Tomaro,1997
+177,177,Joel Goeden,6,Fred Ashley,4,c1,,,DEC,Joel Goeden,,Northwestern,,Howard,Joel Goeden,Fred Ashley,1997
+177,177,Charles McTorry,1,Tony Ersland,2,c1,,,DEC,Tony Ersland,,Nebraska,,Iowa,Charles McTorry,Tony Ersland,1997
+177,177,Mike French,8,Jevon Herman,6,c1,1,,DEC,Mike French,,Cal Poly-SLO,7,Illinois,Mike French,Jevon Herman,1997
+177,177,Brandon Alderman,2,Dan Corpstein,4,c1,1,,DEC,Dan Corpstein,9,Wyoming,,Cal State-Bakersfield,Brandon Alderman,Dan Corpstein,1997
+177,177,Erich Harvey,4,Leo Giel,3,c2,,,DEC,Erich Harvey,,Michigan State,11,Rider,Erich Harvey,Leo Giel,1997
+177,177,Mike Powell,-1,Rick Tomaro,-2,c2,,1:29,F,Mike Powell,,Indiana,,Miami Ohio,Mike Powell,Rick Tomaro,1997
+177,177,Joel Goeden,4,Tony Ersland,8,c2,,,DEC,Tony Ersland,,Northwestern,,Iowa,Joel Goeden,Tony Ersland,1997
+177,177,Mike French,5,Dan Corpstein,6,c2,,,DEC,Dan Corpstein,,Cal Poly-SLO,,Cal State-Bakersfield,Mike French,Dan Corpstein,1997
+177,177,Erich Harvey,5,Grant Johnson,6,br,,,DEC,Grant Johnson,,Michigan State,10,Boston University,Erich Harvey,Grant Johnson,1997
+177,177,Mike Powell,4,Mike Geurin,5,br,,,DEC,Mike Geurin,,Indiana,6,Lock Haven,Mike Powell,Mike Geurin,1997
+177,177,Tony Ersland,3,Mark Smith,5,br,1,,DEC,Mark Smith,,Iowa,1,Oklahoma State,Tony Ersland,Mark Smith,1997
+177,177,Dan Corpstein,0,Jim Straight,5,br,,,DEC,Jim Straight,,Cal State-Bakersfield,12,Edinboro,Dan Corpstein,Jim Straight,1997
+177,177,Grant Johnson,5,Mike Geurin,2,c4,,,DEC,Grant Johnson,10,Boston University,6,Lock Haven,Grant Johnson,Mike Geurin,1997
+177,177,Mark Smith,12,Jim Straight,4,c4,,,MD,Mark Smith,1,Oklahoma State,12,Edinboro,Mark Smith,Jim Straight,1997
+177,177,Grant Johnson,2,John Van Doren,3,cs,,,DEC,John Van Doren,10,Boston University,,Lehigh,Grant Johnson,John Van Doren,1997
+177,177,Mark Smith,11,John Koss,9,cs,,,DEC,Mark Smith,1,Oklahoma State,,West Virginia,Mark Smith,John Koss,1997
+177,177,John Van Doren,3,Mark Smith,2,m3,,,DEC,John Van Doren,,Lehigh,1,Oklahoma State,John Van Doren,Mark Smith,1997
+177,177,Grant Johnson,-1,John Koss,-2,m5,,2:43,F,Grant Johnson,10,Boston University,,West Virginia,Grant Johnson,John Koss,1997
+177,177,Jim Straight,1,Mike Geurin,0,m7,,,DEC,Jim Straight,12,Edinboro,6,Lock Haven,Jim Straight,Mike Geurin,1997
+177,177,Grant Johnson,14,Joel Goeden,4,p1,,,MD,Grant Johnson,10,Boston University,,Northwestern,Grant Johnson,Joel Goeden,1997
+177,177,Ryan Edmundson,4,Erich Harvey,2,p1,,,DEC,Ryan Edmundson,,Hofstra,,Michigan State,Ryan Edmundson,Erich Harvey,1997
+177,177,Erich Harvey,10,Bret Ruth,2,cp1,,,MD,Erich Harvey,,Michigan State,,American,Erich Harvey,Bret Ruth,1997
+177,177,Joel Goeden,5,Louis Pelsang,4,cp1,1,,DEC,Joel Goeden,,Northwestern,,North Carolina,Joel Goeden,Louis Pelsang,1997
+190,190,Anthony Gary,8,Craig Fenstermaker,7,r32,,,DEC,Anthony Gary,,Ohio State,,Virginia,Anthony Gary,Craig Fenstermaker,1997
+190,190,Jeremy Goeden,-2,Jason Robison,-1,r32,,1:49,F,Jason Robison,,Northern Illinois,1,Edinboro,Jeremy Goeden,Jason Robison,1997
+190,190,Neal Nutter,0,Rob Neidlinger,17,r32,,7:00,TF,Rob Neidlinger,,Cleveland State,8,Penn State,Neal Nutter,Rob Neidlinger,1997
+190,190,Elliot Williams,17,Kesner Dufresne,2,r32,,5:00,TF,Elliot Williams,,James Madison,9,Seton Hall,Elliot Williams,Kesner Dufresne,1997
+190,190,Brian Picklo,3,Scott Stay,4,r32,,,DEC,Scott Stay,4,Michigan State,,North Carolina,Brian Picklo,Scott Stay,1997
+190,190,Eric Sanders,12,Keno Brown,6,r32,,,DEC,Eric Sanders,,North Carolina-Greensboro,,Coppin State,Eric Sanders,Keno Brown,1997
+190,190,Lee Fullhart,-1,Rusty Cook,-2,r32,,5:45,F,Lee Fullhart,5,Iowa,,Boise State,Lee Fullhart,Rusty Cook,1997
+190,190,Danny Faqir,-1,Andrei Rodzianko,-2,r32,1,7:33,F,Danny Faqir,,Arizona State,12,Pennsylvania,Danny Faqir,Andrei Rodzianko,1997
+190,190,Josh Henson,8,Lalo Moz,1,r32,,,DEC,Josh Henson,7,Rider,,Fresno State,Josh Henson,Lalo Moz,1997
+190,190,Bryan Vaniman,5,Sam Neider,13,r32,,,MD,Sam Neider,,Stanford,10,Northwestern,Bryan Vaniman,Sam Neider,1997
+190,190,Scott Adams,10,Mike Quaglio,7,r32,,,DEC,Scott Adams,,Cal Poly-SLO,,Hofstra,Scott Adams,Mike Quaglio,1997
+190,190,Doug Joseph,8,John Kading,12,r32,,,DEC,John Kading,,Syracuse,2,Oklahoma,Doug Joseph,John Kading,1997
+190,190,Matt Mulvihill,5,Aaron Stark,3,r32,,,DEC,Matt Mulvihill,11,Iowa State,,Wisconsin,Matt Mulvihill,Aaron Stark,1997
+190,190,Mark Bodo,7,John Leonardis,5,r32,,,DEC,Mark Bodo,6,Pittsburgh,,Lehigh,Mark Bodo,John Leonardis,1997
+190,190,Landon Jackson,-1,Jeffrey Abbott,-2,r32,,6:52,F,Landon Jackson,,Georgia State,,Duquesne,Landon Jackson,Jeffrey Abbott,1997
+190,190,Tim Hartung,10,Kevin O'Melia,0,r32,,,MD,Tim Hartung,3,Minnesota,,Bloomsburg,Tim Hartung,Kevin O'Melia,1997
+190,190,Anthony Gary,0,Jason Robison,3,r16,,,DEC,Jason Robison,,Ohio State,1,Edinboro,Anthony Gary,Jason Robison,1997
+190,190,Rob Neidlinger,9,Elliot Williams,1,r16,,,MD,Rob Neidlinger,8,Penn State,,James Madison,Rob Neidlinger,Elliot Williams,1997
+190,190,Scott Stay,-1,Eric Sanders,-2,r16,,3:31,F,Scott Stay,,North Carolina,,North Carolina-Greensboro,Scott Stay,Eric Sanders,1997
+190,190,Lee Fullhart,14,Danny Faqir,4,r16,,,MD,Lee Fullhart,5,Iowa,,Arizona State,Lee Fullhart,Danny Faqir,1997
+190,190,Josh Henson,1,Sam Neider,3,r16,,,DEC,Sam Neider,7,Rider,10,Northwestern,Josh Henson,Sam Neider,1997
+190,190,Scott Adams,-2,John Kading,-1,r16,,3:56,F,John Kading,,Cal Poly-SLO,2,Oklahoma,Scott Adams,John Kading,1997
+190,190,Matt Mulvihill,7,Mark Bodo,8,r16,,,DEC,Mark Bodo,11,Iowa State,6,Pittsburgh,Matt Mulvihill,Mark Bodo,1997
+190,190,Landon Jackson,1,Tim Hartung,13,r16,,,MD,Tim Hartung,,Georgia State,3,Minnesota,Landon Jackson,Tim Hartung,1997
+190,190,Jason Robison,10,Rob Neidlinger,3,r8,,,DEC,Jason Robison,1,Edinboro,8,Penn State,Jason Robison,Rob Neidlinger,1997
+190,190,Scott Stay,6,Lee Fullhart,11,r8,,,DEC,Lee Fullhart,,North Carolina,5,Iowa,Scott Stay,Lee Fullhart,1997
+190,190,Sam Neider,3,John Kading,5,r8,,,DEC,John Kading,10,Northwestern,2,Oklahoma,Sam Neider,John Kading,1997
+190,190,Mark Bodo,3,Tim Hartung,4,r8,,,DEC,Tim Hartung,6,Pittsburgh,3,Minnesota,Mark Bodo,Tim Hartung,1997
+190,190,Jason Robison,4,Lee Fullhart,7,r4,,,DEC,Lee Fullhart,1,Edinboro,5,Iowa,Jason Robison,Lee Fullhart,1997
+190,190,John Kading,3,Tim Hartung,1,r4,1,,DEC,John Kading,2,Oklahoma,3,Minnesota,John Kading,Tim Hartung,1997
+190,190,Lee Fullhart,4,John Kading,3,m1,1,,DEC,Lee Fullhart,5,Iowa,2,Oklahoma,Lee Fullhart,John Kading,1997
+190,190,Frank Workman,-1,Jeffrey Abbott,-2,c0,,0:35,F,Frank Workman,,Navy,,Duquesne,Frank Workman,Jeffrey Abbott,1997
+190,190,John Leonardis,3,Aaron Stark,9,c0,,,DEC,Aaron Stark,,Lehigh,,Wisconsin,John Leonardis,Aaron Stark,1997
+190,190,Doug Joseph,-2,Mike Quaglio,-1,c0,,2:24,F,Mike Quaglio,,Syracuse,,Hofstra,Doug Joseph,Mike Quaglio,1997
+190,190,Bryan Vaniman,5,Lalo Moz,3,c0,,,DEC,Bryan Vaniman,,Stanford,,Fresno State,Bryan Vaniman,Lalo Moz,1997
+190,190,Pat Popolizio,6,Rusty Cook,9,c0,,,DEC,Rusty Cook,,Oklahoma State,,Boise State,Pat Popolizio,Rusty Cook,1997
+190,190,Keno Brown,7,Brian Picklo,20,c0,,,MD,Brian Picklo,,Coppin State,4,Michigan State,Keno Brown,Brian Picklo,1997
+190,190,Kesner Dufresne,-4,Neal Nutter,-3,c0,,,DFT,Neal Nutter,9,Seton Hall,,Cleveland State,Kesner Dufresne,Neal Nutter,1997
+190,190,Jeremy Goeden,9,Craig Fenstermaker,6,c0,,,DEC,Jeremy Goeden,,Northern Illinois,,Virginia,Jeremy Goeden,Craig Fenstermaker,1997
+190,190,Frank Workman,17,Eric Sanders,5,c1,,,MD,Frank Workman,,Navy,,North Carolina-Greensboro,Frank Workman,Eric Sanders,1997
+190,190,Aaron Stark,0,Danny Faqir,2,c1,,,DEC,Danny Faqir,,Wisconsin,,Arizona State,Aaron Stark,Danny Faqir,1997
+190,190,Mike Quaglio,5,Anthony Gary,9,c1,,,DEC,Anthony Gary,,Hofstra,,Ohio State,Mike Quaglio,Anthony Gary,1997
+190,190,Bryan Vaniman,3,Elliot Williams,5,c1,,,DEC,Elliot Williams,,Stanford,,James Madison,Bryan Vaniman,Elliot Williams,1997
+190,190,Rusty Cook,8,Matt Mulvihill,2,c1,,,DEC,Rusty Cook,,Boise State,11,Iowa State,Rusty Cook,Matt Mulvihill,1997
+190,190,Brian Picklo,9,Landon Jackson,7,c1,,,DEC,Brian Picklo,4,Michigan State,,Georgia State,Brian Picklo,Landon Jackson,1997
+190,190,Neal Nutter,-1,Josh Henson,-2,c1,,0:44,F,Neal Nutter,,Cleveland State,7,Rider,Neal Nutter,Josh Henson,1997
+190,190,Jeremy Goeden,12,Scott Adams,7,c1,,,DEC,Jeremy Goeden,,Northern Illinois,,Cal Poly-SLO,Jeremy Goeden,Scott Adams,1997
+190,190,Frank Workman,3,Danny Faqir,16,c2,,,MD,Danny Faqir,,Navy,,Arizona State,Frank Workman,Danny Faqir,1997
+190,190,Anthony Gary,-1,Elliot Williams,-2,c2,,1:33,F,Anthony Gary,,Ohio State,,James Madison,Anthony Gary,Elliot Williams,1997
+190,190,Rusty Cook,3,Brian Picklo,7,c2,,,DEC,Brian Picklo,,Boise State,4,Michigan State,Rusty Cook,Brian Picklo,1997
+190,190,Neal Nutter,6,Jeremy Goeden,11,c2,,,DEC,Jeremy Goeden,,Cleveland State,,Northern Illinois,Neal Nutter,Jeremy Goeden,1997
+190,190,Danny Faqir,8,Sam Neider,2,br,,,DEC,Danny Faqir,,Arizona State,10,Northwestern,Danny Faqir,Sam Neider,1997
+190,190,Anthony Gary,3,Mark Bodo,6,br,,,DEC,Mark Bodo,,Ohio State,6,Pittsburgh,Anthony Gary,Mark Bodo,1997
+190,190,Brian Picklo,7,Rob Neidlinger,3,br,,,DEC,Brian Picklo,4,Michigan State,8,Penn State,Brian Picklo,Rob Neidlinger,1997
+190,190,Jeremy Goeden,-2,Jeremy Goeden,-1,br,,2:41,F,Jeremy Goeden,,Northern Illinois,,Northern Illinois,Jeremy Goeden,Jeremy Goeden,1997
+190,190,Danny Faqir,4,Mark Bodo,7,c4,,,DEC,Mark Bodo,,Arizona State,6,Pittsburgh,Danny Faqir,Mark Bodo,1997
+190,190,Brian Picklo,7,Jeremy Goeden,6,c4,,,DEC,Brian Picklo,4,Michigan State,,Northern Illinois,Brian Picklo,Jeremy Goeden,1997
+190,190,Mark Bodo,-3,Jason Robison,-4,cs,,,DFT,Mark Bodo,6,Pittsburgh,1,Edinboro,Mark Bodo,Jason Robison,1997
+190,190,Brian Picklo,-2,Tim Hartung,-1,cs,,2:18,F,Tim Hartung,4,Michigan State,3,Minnesota,Brian Picklo,Tim Hartung,1997
+190,190,Tim Hartung,5,Mark Bodo,1,m3,,,DEC,Tim Hartung,3,Minnesota,6,Pittsburgh,Tim Hartung,Mark Bodo,1997
+190,190,Brian Picklo,-3,Jason Robison,-4,m5,,,DFT,Brian Picklo,4,Michigan State,1,Edinboro,Brian Picklo,Jason Robison,1997
+190,190,Danny Faqir,11,Jeremy Goeden,4,m7,,,DEC,Danny Faqir,,Arizona State,,Northern Illinois,Danny Faqir,Jeremy Goeden,1997
+190,190,Brian Picklo,2,Tony Wieland,1,p1,,,DEC,Brian Picklo,4,Michigan State,,Northern Iowa,Brian Picklo,Tony Wieland,1997
+190,190,Josh Henson,9,Pat Popolizio,6,p1,,,DEC,Josh Henson,7,Rider,,Oklahoma State,Josh Henson,Pat Popolizio,1997
+190,190,Anthony Gary,12,Frank Workman,4,p1,,,MD,Anthony Gary,,Ohio State,,Navy,Anthony Gary,Frank Workman,1997
+190,190,Frank Workman,-1,Kevin O'Melia,-2,cp1,,0:44,F,Frank Workman,,Navy,,Bloomsburg,Frank Workman,Kevin O'Melia,1997
+190,190,Doug Joseph,2,Tony Wieland,1,cp1,1,,DEC,Doug Joseph,,Syracuse,,Northern Iowa,Doug Joseph,Tony Wieland,1997
+190,190,Pat Popolizio,7,Andrei Rodzianko,4,cp1,,,DEC,Pat Popolizio,,Oklahoma State,12,Pennsylvania,Pat Popolizio,Andrei Rodzianko,1997
+275,275,Ben Lee,4,Bob Puzio,3,r32,,,DEC,Ben Lee,,Oklahoma State,,American,Ben Lee,Bob Puzio,1997
+275,275,Wes Hand,0,Jason Gleasman,1,r32,,,DEC,Jason Gleasman,,Iowa,8,Syracuse,Wes Hand,Jason Gleasman,1997
+275,275,Trent Hynek,3,Shelton Benjamin,6,r32,,,DEC,Shelton Benjamin,,Iowa State,,Minnesota,Trent Hynek,Shelton Benjamin,1997
+275,275,Kerry McCoy,17,Dion Reed,1,r32,,6:51,TF,Kerry McCoy,1,Penn State,,Boston University,Kerry McCoy,Dion Reed,1997
+275,275,Trey Swan,2,Justin Harty,9,r32,,,DEC,Justin Harty,,Oklahoma,5,North Carolina,Trey Swan,Justin Harty,1997
+275,275,Leslie Apedoe,-2,Bill Closson,-1,r32,,1:01,F,Bill Closson,,Virginia Military,12,Lehigh,Leslie Apedoe,Bill Closson,1997
+275,275,Bryan Stout,6,Joey Allen,1,r32,,,DEC,Bryan Stout,4,Clarion,,Pennsylvania,Bryan Stout,Joey Allen,1997
+275,275,Rich Polkinghorn,8,Jim Guttridge,6,r32,,,DEC,Rich Polkinghorn,,Oregon,,Ohio University,Rich Polkinghorn,Jim Guttridge,1997
+275,275,Nick Nutter,12,Thomas Patterson,3,r32,,,MD,Nick Nutter,10,Ohio State,,Missouri,Nick Nutter,Thomas Patterson,1997
+275,275,Pat Schuster,4,Seth Brady,2,r32,,,DEC,Pat Schuster,,Edinboro,7,Illinois,Pat Schuster,Seth Brady,1997
+275,275,David Pierce,1,Stephen Neal,16,r32,,3:51,TF,Stephen Neal,,Purdue,2,Cal State-Bakersfield,David Pierce,Stephen Neal,1997
+275,275,Zach Feldman,5,Wally Wickline,0,r32,,,DEC,Zach Feldman,,Virginia,,Duquesne,Zach Feldman,Wally Wickline,1997
+275,275,Tolly Thompson,-1,Mat Orndorff,-2,r32,,2:41,F,Tolly Thompson,3,Nebraska,,Oregon State,Tolly Thompson,Mat Orndorff,1997
+275,275,Kenneth Hunter,2,Vince Pellis,3,r32,,,DEC,Vince Pellis,,Coppin State,,West Virginia,Kenneth Hunter,Vince Pellis,1997
+275,275,Darin Priesendorf,8,Jeremy Clayton,4,r32,,,DEC,Darin Priesendorf,11,Fresno State,,Boise State,Darin Priesendorf,Jeremy Clayton,1997
+275,275,Airron Richardson,8,Tighe Cullinane,3,r32,,,DEC,Airron Richardson,6,Michigan,,George Mason,Airron Richardson,Tighe Cullinane,1997
+275,275,Ben Lee,0,Jason Gleasman,7,r16,,,DEC,Jason Gleasman,,Oklahoma State,8,Syracuse,Ben Lee,Jason Gleasman,1997
+275,275,Shelton Benjamin,3,Kerry McCoy,13,r16,,,MD,Kerry McCoy,,Minnesota,1,Penn State,Shelton Benjamin,Kerry McCoy,1997
+275,275,Justin Harty,-1,Bill Closson,-2,r16,,2:01,F,Justin Harty,5,North Carolina,12,Lehigh,Justin Harty,Bill Closson,1997
+275,275,Bryan Stout,6,Rich Polkinghorn,0,r16,,,DEC,Bryan Stout,4,Clarion,,Oregon,Bryan Stout,Rich Polkinghorn,1997
+275,275,Nick Nutter,3,Pat Schuster,2,r16,,,DEC,Nick Nutter,10,Ohio State,,Edinboro,Nick Nutter,Pat Schuster,1997
+275,275,Stephen Neal,17,Zach Feldman,5,r16,,,MD,Stephen Neal,2,Cal State-Bakersfield,,Virginia,Stephen Neal,Zach Feldman,1997
+275,275,Tolly Thompson,-1,Vince Pellis,-2,r16,,2:32,F,Tolly Thompson,3,Nebraska,,West Virginia,Tolly Thompson,Vince Pellis,1997
+275,275,Darin Priesendorf,2,Airron Richardson,14,r16,,,MD,Airron Richardson,11,Fresno State,6,Michigan,Darin Priesendorf,Airron Richardson,1997
+275,275,Jason Gleasman,1,Kerry McCoy,9,r8,,,MD,Kerry McCoy,8,Syracuse,1,Penn State,Jason Gleasman,Kerry McCoy,1997
+275,275,Justin Harty,1,Bryan Stout,5,r8,,,DEC,Bryan Stout,5,North Carolina,4,Clarion,Justin Harty,Bryan Stout,1997
+275,275,Nick Nutter,-2,Stephen Neal,-1,r8,,4:05,F,Stephen Neal,10,Ohio State,2,Cal State-Bakersfield,Nick Nutter,Stephen Neal,1997
+275,275,Tolly Thompson,-1,Airron Richardson,-2,r8,,4:45,F,Tolly Thompson,3,Nebraska,6,Michigan,Tolly Thompson,Airron Richardson,1997
+275,275,Kerry McCoy,4,Bryan Stout,2,r4,,,DEC,Kerry McCoy,1,Penn State,4,Clarion,Kerry McCoy,Bryan Stout,1997
+275,275,Stephen Neal,5,Tolly Thompson,4,r4,,,DEC,Stephen Neal,2,Cal State-Bakersfield,3,Nebraska,Stephen Neal,Tolly Thompson,1997
+275,275,Kerry McCoy,3,Stephen Neal,2,m1,,,DEC,Kerry McCoy,1,Penn State,2,Cal State-Bakersfield,Kerry McCoy,Stephen Neal,1997
+275,275,Ben Nachtrieb,6,Jeremy Clayton,3,c0,,,DEC,Ben Nachtrieb,,Indiana,,Boise State,Ben Nachtrieb,Jeremy Clayton,1997
+275,275,Kenneth Hunter,1,Mat Orndorff,11,c0,,,MD,Mat Orndorff,,Coppin State,,Oregon State,Kenneth Hunter,Mat Orndorff,1997
+275,275,Wally Wickline,1,David Pierce,2,c0,,,DEC,David Pierce,,Duquesne,,Purdue,Wally Wickline,David Pierce,1997
+275,275,Seth Brady,11,Thomas Patterson,1,c0,,,MD,Seth Brady,7,Illinois,,Missouri,Seth Brady,Thomas Patterson,1997
+275,275,Jim Guttridge,-1,Joey Allen,-2,c0,,4:39,F,Jim Guttridge,,Ohio University,,Pennsylvania,Jim Guttridge,Joey Allen,1997
+275,275,Leslie Apedoe,8,Trey Swan,4,c0,,,DEC,Leslie Apedoe,,Virginia Military,,Oklahoma,Leslie Apedoe,Trey Swan,1997
+275,275,Dion Reed,3,Trent Hynek,5,c0,,,DEC,Trent Hynek,,Boston University,,Iowa State,Dion Reed,Trent Hynek,1997
+275,275,Wes Hand,-3,Bob Puzio,-4,c0,,,DFT,Wes Hand,,Iowa,,American,Wes Hand,Bob Puzio,1997
+275,275,Ben Nachtrieb,1,Bill Closson,5,c1,,,DEC,Bill Closson,,Indiana,12,Lehigh,Ben Nachtrieb,Bill Closson,1997
+275,275,Mat Orndorff,6,Rich Polkinghorn,3,c1,,,DEC,Mat Orndorff,,Oregon State,,Oregon,Mat Orndorff,Rich Polkinghorn,1997
+275,275,David Pierce,3,Ben Lee,2,c1,1,,DEC,David Pierce,,Purdue,,Oklahoma State,David Pierce,Ben Lee,1997
+275,275,Seth Brady,7,Shelton Benjamin,10,c1,,,DEC,Shelton Benjamin,7,Illinois,,Minnesota,Seth Brady,Shelton Benjamin,1997
+275,275,Jim Guttridge,5,Vince Pellis,2,c1,,,DEC,Jim Guttridge,,Ohio University,,West Virginia,Jim Guttridge,Vince Pellis,1997
+275,275,Leslie Apedoe,-2,Darin Priesendorf,-1,c1,,2:04,F,Darin Priesendorf,,Virginia Military,11,Fresno State,Leslie Apedoe,Darin Priesendorf,1997
+275,275,Trent Hynek,3,Pat Schuster,5,c1,,,DEC,Pat Schuster,,Iowa State,,Edinboro,Trent Hynek,Pat Schuster,1997
+275,275,Wes Hand,8,Zach Feldman,4,c1,,,DEC,Wes Hand,,Iowa,,Virginia,Wes Hand,Zach Feldman,1997
+275,275,Bill Closson,10,Mat Orndorff,5,c2,,,DEC,Bill Closson,12,Lehigh,,Oregon State,Bill Closson,Mat Orndorff,1997
+275,275,David Pierce,2,Shelton Benjamin,7,c2,,,DEC,Shelton Benjamin,,Purdue,,Minnesota,David Pierce,Shelton Benjamin,1997
+275,275,Jim Guttridge,-4,Darin Priesendorf,-3,c2,,,DFT,Darin Priesendorf,,Ohio University,11,Fresno State,Jim Guttridge,Darin Priesendorf,1997
+275,275,Pat Schuster,-2,Wes Hand,-1,c2,,5:15,F,Wes Hand,,Edinboro,,Iowa,Pat Schuster,Wes Hand,1997
+275,275,Bill Closson,4,Nick Nutter,3,br,,,DEC,Bill Closson,12,Lehigh,10,Ohio State,Bill Closson,Nick Nutter,1997
+275,275,Shelton Benjamin,5,Airron Richardson,2,br,,,DEC,Shelton Benjamin,,Minnesota,6,Michigan,Shelton Benjamin,Airron Richardson,1997
+275,275,Darin Priesendorf,-2,Jason Gleasman,-1,br,,5:21,F,Jason Gleasman,11,Fresno State,8,Syracuse,Darin Priesendorf,Jason Gleasman,1997
+275,275,Wes Hand,1,Justin Harty,4,br,,,DEC,Justin Harty,,Iowa,5,North Carolina,Wes Hand,Justin Harty,1997
+275,275,Bill Closson,8,Shelton Benjamin,16,c4,,,MD,Shelton Benjamin,12,Lehigh,,Minnesota,Bill Closson,Shelton Benjamin,1997
+275,275,Jason Gleasman,2,Justin Harty,6,c4,,,DEC,Justin Harty,8,Syracuse,5,North Carolina,Jason Gleasman,Justin Harty,1997
+275,275,Shelton Benjamin,2,Bryan Stout,11,cs,,,MD,Bryan Stout,,Minnesota,4,Clarion,Shelton Benjamin,Bryan Stout,1997
+275,275,Justin Harty,-4,Tolly Thompson,-3,cs,,,DFT,Tolly Thompson,5,North Carolina,3,Nebraska,Justin Harty,Tolly Thompson,1997
+275,275,Tolly Thompson,6,Bryan Stout,4,m3,,,DEC,Tolly Thompson,3,Nebraska,4,Clarion,Tolly Thompson,Bryan Stout,1997
+275,275,Shelton Benjamin,8,Justin Harty,4,m5,,,DEC,Shelton Benjamin,,Minnesota,5,North Carolina,Shelton Benjamin,Justin Harty,1997
+275,275,Jason Gleasman,5,Bill Closson,3,m7,,,DEC,Jason Gleasman,8,Syracuse,12,Lehigh,Jason Gleasman,Bill Closson,1997
+275,275,Ben Lee,3,Ben Nachtrieb,2,p1,1,,DEC,Ben Lee,,Oklahoma State,,Indiana,Ben Lee,Ben Nachtrieb,1997
+275,275,Ben Nachtrieb,9,Tighe Cullinane,5,cp1,,,DEC,Ben Nachtrieb,,Indiana,,George Mason,Ben Nachtrieb,Tighe Cullinane,1997
