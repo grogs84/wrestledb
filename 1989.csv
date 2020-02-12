@@ -1,4 +1,4 @@
-wrestler,opponent,wrestler_key,wrestler_score,opponent_key,opponent_score,_round,overtime,fall_time,result,winner,wrestler_seed,wrestler_school,opponent_seed,opponent_school,weight,opponent_weight,year,check,0
+wrestler,opponent,wrestler_key,wrestler_score,opponent_key,opponent_score,_round,overtime,fall_time,result,winner,wrestler_seed,wrestler_school,opponent_seed,opponent_school,weight,opponent_weight,year,check,1
 Mark Annis,Jim Fussell,Mark Annis,2,Jim Fussell,3,r32,,,DEC,Jim Fussell,,North Carolina State,5,Syracuse,118,118,1989,0,
 Donnie Heckel,Erin Millsap,Donnie Heckel,2,Erin Millsap,0,r32,,,DEC,Donnie Heckel,12,Clemson,,Cal State-Fullerton,118,118,1989,0,
 Ken Chertow,Ken Matsui,Ken Chertow,-1,Ken Matsui,-2,r32,,5:58,F,Ken Chertow,4,Penn State,,Boston University,118,118,1989,0,
@@ -71,7 +71,7 @@ Tom Brands,John Kainer,Tom Brands,-1,John Kainer,-2,r32,,5:35,F,Tom Brands,2,Iow
 Curtis Wiley,Marco Sanchez,Curtis Wiley,5,Marco Sanchez,4,r32,,,DEC,Curtis Wiley,,Millersville,,Arizona State,126,126,1989,0,
 Kendall Cross,John Moore,Kendall Cross,-1,John Moore,-2,r32,,6:31,F,Kendall Cross,3,Oklahoma State,,Michigan,126,126,1989,0,
 Jason Kelber,Rick Travis,Jason Kelber,-1,Rick Travis,-2,r32,,0:51,F,Jason Kelber,11,Nebraska,,California PA,126,126,1989,0,
-Bye,Brad Gintert,Bye,-4,Brad Gintert,-3,r32,,,DFT,Brad Gintert,,Bye,6,Ohio State,126,126,1989,0,
+Bye,Brad Gintert,Bye,-4,Brad Gintert,-3,r32,,,DFT,Brad Gintert,,Bye,6,Ohio State,275,126,1989,1,
 David Beck,Peter Gonzalez,David Beck,1,Peter Gonzalez,14,r16,,,MD,Peter Gonzalez,,Eastern Michigan,4,Montclair State,126,126,1989,0,
 Brian Smith,Michael Stokes,Brian Smith,2,Michael Stokes,5,r16,,,DEC,Michael Stokes,12,Michigan State,5,North Carolina State,126,126,1989,0,
 John Epperly,Gary McCall,John Epperly,4,Gary McCall,14,r16,,,MD,Gary McCall,9,Lehigh,8,Iowa State,126,126,1989,0,
@@ -106,7 +106,7 @@ Rick Travis,Peter Gonzalez,Rick Travis,4,Peter Gonzalez,14,br,,,MD,Peter Gonzale
 Jason Kelber,John Epperly,Jason Kelber,-1,John Epperly,-2,c4,,3:52,F,Jason Kelber,11,Nebraska,9,Lehigh,126,126,1989,0,
 Gary McCall,Peter Gonzalez,Gary McCall,2,Peter Gonzalez,4,c4,,,DEC,Peter Gonzalez,8,Iowa State,4,Montclair State,126,126,1989,0,
 Jason Kelber,Jim Martin,Jason Kelber,6,Jim Martin,7,cs,1,,DEC,Jim Martin,11,Nebraska,1,Penn State,126,126,1989,0,
-Peter Gonzalez,Tom Brands,Peter Gonzalez,1,Tom Brands,2,cs,,,DEC,Tom Brands,4,Montclair State,11,Nebraska,126,126,1989,0,
+Peter Gonzalez,Tom Brands,Peter Gonzalez,1,Tom Brands,2,cs,,,DEC,Tom Brands,4,Montclair State,2,Iowa,126,126,1989,0,
 Jim Martin,Tom Brands,Jim Martin,6,Tom Brands,5,m3,,,DEC,Jim Martin,1,Penn State,2,Iowa,126,126,1989,0,
 Peter Gonzalez,Jason Kelber,Peter Gonzalez,5,Jason Kelber,3,m5,,,DEC,Peter Gonzalez,4,Montclair State,11,Nebraska,126,126,1989,0,
 Gary McCall,John Epperly,Gary McCall,9,John Epperly,1,m7,,,MD,Gary McCall,8,Iowa State,9,Lehigh,126,126,1989,0,
@@ -509,7 +509,7 @@ Mark Whitehead,Charlie Buckshaw,Mark Whitehead,-3,Charlie Buckshaw,-4,r8,,,DFT,M
 Gary Horner,Brooks Simpson,Gary Horner,14,Brooks Simpson,8,r8,,,DEC,Gary Horner,,Clarion,11,Iowa,190,190,1989,0,
 John Ginther,Eric Voelker,John Ginther,4,Eric Voelker,9,r4,1,,DEC,Eric Voelker,4,Arizona State,1,Iowa State,190,190,1989,0,
 Mark Whitehead,Gary Horner,Mark Whitehead,9,Gary Horner,7,r4,,,DEC,Mark Whitehead,2,Northwestern,,Clarion,190,190,1989,0,
-Eric Voelker,Gary Horner,Eric Voelker,7,Gary Horner,2,m1,,,DEC,Eric Voelker,1,Iowa State,,Clarion,190,190,1989,0,
+Eric Voelker,Mark Whitehead,Eric Voelker,7,Mark Whitehead,2,m1,,,DEC,Eric Voelker,1,Iowa State,2,Northwestern,190,190,1989,0,
 Brian Hagen,Jeff Spinetti,Brian Hagen,4,Jeff Spinetti,6,c1,,,DEC,Jeff Spinetti,,Wyoming,,West Virginia,190,190,1989,0,
 Andy Voit,Fritz Lehrke,Andy Voit,3,Fritz Lehrke,2,c1,,,DEC,Andy Voit,5,Penn State,,Michigan,190,190,1989,0,
 Anton Kossakowski,Kurt Rosenberger,Anton Kossakowski,19,Kurt Rosenberger,7,c1,,,MD,Anton Kossakowski,,Northern Illinois,,Clemson,190,190,1989,0,
