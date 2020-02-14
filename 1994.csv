@@ -106,7 +106,7 @@ weight,opponent_weight,wrestler_key,wrestler_score,opponent_key,opponent_score,_
 126,126,Nick Purler,4,Jeff McGinness,9,c4,,,DEC,Jeff McGinness,1,Oklahoma State,4,Iowa,Nick Purler,Jeff McGinness,1994
 126,126,Shawn Enright,7,Dave Nieradka,5,cs,,,DEC,Shawn Enright,12,Ohio University,9,Oregon State,Shawn Enright,Dave Nieradka,1994
 126,126,Jeff McGinness,3,Sanshiro Abe,5,cs,,,DEC,Sanshiro Abe,4,Iowa,2,Penn State,Jeff McGinness,Sanshiro Abe,1994
-126,126,Sanshiro Abe,11,Shawn Enright,5,m3,,,DEC,Sanshiro Abe,2,Penn State,7,Indiana,Sanshiro Abe,Shawn Enright,1994
+126,126,Sanshiro Abe,11,Shawn Enright,5,m3,,,DEC,Sanshiro Abe,2,Penn State,12,Ohio University,Sanshiro Abe,Shawn Enright,1994
 126,126,Jeff McGinness,4,Dave Nieradka,3,m5,,,DEC,Jeff McGinness,4,Iowa,9,Oregon State,Jeff McGinness,Dave Nieradka,1994
 126,126,Nick Purler,9,Chris Russo,3,m7,,,DEC,Nick Purler,1,Oklahoma State,7,Indiana,Nick Purler,Chris Russo,1994
 134,134,David Ross,-2,Babak Mohammadi,-1,r32,,4:39,F,Babak Mohammadi,,Southwest Missouri,5,Oregon State,David Ross,Babak Mohammadi,1994
@@ -160,7 +160,7 @@ weight,opponent_weight,wrestler_key,wrestler_score,opponent_key,opponent_score,_
 134,134,Eric Kimble,3,Mike Krafchick,4,c4,,,DEC,Mike Krafchick,9,Ohio University,,Virginia,Eric Kimble,Mike Krafchick,1994
 134,134,Steve Krouse,0,Cary Kolat,10,cs,,,MD,Cary Kolat,,Lock Haven,1,Penn State,Steve Krouse,Cary Kolat,1994
 134,134,Mike Krafchick,5,Steve St. John,6,cs,,,DEC,Steve St. John,,Virginia,6,Arizona State,Mike Krafchick,Steve St. John,1994
-134,134,Cary Kolat,-1,Steve St. John,-1,m3,,5:49,!,!,1,Penn State,6,Arizona State,Cary Kolat,Steve St. John,1994
+134,134,Cary Kolat,-1,Steve St. John,-2,m3,,5:49,F,Cary Kolat,1,Penn State,6,Arizona State,Cary Kolat,Steve St. John,1994
 134,134,Mike Krafchick,7,Steve Krouse,6,m5,1,,DEC,Mike Krafchick,,Virginia,,Lock Haven,Mike Krafchick,Steve Krouse,1994
 134,134,Eric Kimble,-3,Derek Mountsier,-4,m7,,,DFT,Eric Kimble,9,Ohio University,7,Iowa State,Eric Kimble,Derek Mountsier,1994
 134,134,Cary Kolat,12,Willie Stravino,10,p1,,,DEC,Cary Kolat,1,Penn State,,George Mason,Cary Kolat,Willie Stravino,1994
@@ -234,7 +234,7 @@ weight,opponent_weight,wrestler_key,wrestler_score,opponent_key,opponent_score,_
 150,150,Jamie St. John,5,Todd Sacksteder,4,r32,1,,DEC,Jamie St. John,7,Syracuse,,Missouri,Jamie St. John,Todd Sacksteder,1994
 150,150,Doug Bonshak,3,Chad Bailey,5,r32,,,DEC,Chad Bailey,,Rider,10,Bloomsburg,Doug Bonshak,Chad Bailey,1994
 150,150,Terry Watts,9,Tod Surmon,3,r32,,,DEC,Terry Watts,,Fresno State,,Stanford,Terry Watts,Tod Surmon,1994
-150,150,Willy Short,-3,James Spillman,-3,r32,,,!,!,2,Minnesota,,Northern Illinois,Willy Short,James Spillman,1994
+150,150,Willy Short,-3,James Spillman,-4,r32,,,DFT,Willy Short,2,Minnesota,,Northern Illinois,Willy Short,James Spillman,1994
 150,150,Tom Shifflet,4,Kit Kiser,2,r32,,,DEC,Tom Shifflet,11,Edinboro,,California PA,Tom Shifflet,Kit Kiser,1994
 150,150,Brian Harper,12,Temoer Terry,3,r32,,,MD,Brian Harper,6,Michigan,,Nebraska,Brian Harper,Temoer Terry,1994
 150,150,Jake Gaier,8,Jason Hawk,9,r32,1,,DEC,Jason Hawk,3,Cal Poly-SLO,,Rutgers,Jake Gaier,Jason Hawk,1994
